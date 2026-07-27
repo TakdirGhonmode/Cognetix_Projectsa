@@ -1,0 +1,22 @@
+Employee ID,Employee Name,Department,Salary,Age,Performance Rating
+101,Alice,HR,45000,25,4.5
+102,Bob,Finance,52000,30,4.2
+103,Charlie,IT,,28,4.8
+104,David,IT,62000,29,
+105,Eve,HR,45000,25,4.5
+105,Eve,HR,45000,25,4.5
+106, Frank ,Sales,38000,22,3.9
+107,Grace,Finance,-5000,31,4.1
+108,Henry,IT,70000,150,4.7
+109,Ivy,Sales,41000,27,Excellent
+110,,Marketing,48000,26,4.0
+111,Jack,Sales,39000,24,3.8
+112,Kate,HR,51000,29,4.3
+113,Liam,Finance,60000,32,4.6
+114,Mia,Marketing,47000,27,4.1
+115,Noah,IT,68000,35,4.9
+116,Olivia,Sales,42000,23,3.7
+117,Peter,Finance,55000,30,4.2
+118,Queen,HR,,26,4.0
+119,Ryan,IT,72000,29,5.0
+120,Sophia,Marketing,49000,28,
