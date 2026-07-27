@@ -1,0 +1,42 @@
+Name: Rahul Sharma
+
+Email: rahul.sharma@gmail.com
+Phone: +91 9876543210
+Location: Pune, Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Python Developer with 2 years of experience in web development and database management.
+
+TECHNICAL SKILLS
+
+Python
+Java
+SQL
+MySQL
+Git
+GitHub
+HTML
+CSS
+
+EXPERIENCE
+
+Software Developer
+ABC Technologies
+
+Experience: 2 years
+
+PROJECTS
+
+Online Library Management System
+Student Result Management System
+
+CERTIFICATIONS
+
+Python Certification
+Java Certification
+
+EDUCATION
+
+Bachelor of Engineering
+Computer Science
