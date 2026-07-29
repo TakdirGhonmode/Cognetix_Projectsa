@@ -7,7 +7,8 @@ from models import User
 class AuthService:
 
     def __init__(self):
-        self.db = Database()
+      self.db = Database()
+      self.current_user = None   
 
     def username_exists(self, username):
         connection = self.db.get_connection()
@@ -86,3 +87,58 @@ class AuthService:
         self.save_user(user)
 
         print("User Registered Successfully!")
+    def get_user_by_username(self, username):
+
+        connection = self.db.get_connection()
+
+        cursor = connection.cursor(dictionary=True)
+
+        query = "SELECT * FROM users WHERE username = %s"
+
+        cursor.execute(query, (username,))
+
+        user = cursor.fetchone()
+
+        cursor.close()
+        connection.close()
+
+        return user
+
+    def verify_password(self, entered_password, stored_password):
+
+        return bcrypt.checkpw(
+            entered_password.encode(),
+            stored_password.encode()
+        )
+
+    def login_user(self, username, password):
+
+        user = self.get_user_by_username(username)
+
+        if user is None:
+            print("User not found.")
+            return None
+
+        if self.verify_password(password, user["password"]):
+
+            print("Login Successful!")
+
+            return user
+
+        else:
+
+            print("Invalid Password!")
+
+            return None
+
+        if self.verify_password(password, user["password"]):
+               self.current_user = user
+               print("Login Successful!")
+               return user
+    def logout_user(self):
+
+      if self.current_user is None:
+         print("No user is currently logged in.")
+         return 
+      print(f"{self.current_user['username']} logged out successfully.")
+      self.current_user = None
