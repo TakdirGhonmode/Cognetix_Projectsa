@@ -15,7 +15,25 @@ class SlotManager:
     # ---------------------------------
 
     def load_slots(self):
-        self.slots = self.db.get_all_slots()
+
+      slots_data = self.db.get_all_slots()
+
+      self.slots = []
+
+      for slot in slots_data:
+
+          obj = Slot(
+              slot[0],
+              slot[1],
+              slot[2],
+              slot[3],
+              slot[4],
+              slot[5]
+            )
+
+          obj.status = slot[6]
+
+          self.slots.append(obj)
 
     # ---------------------------------
     # Create Slot
@@ -97,7 +115,7 @@ class SlotManager:
     # ---------------------------------
 
     def view_slots(self):
-
+        
         slots = self.db.get_all_slots()
 
         if len(slots) == 0:
