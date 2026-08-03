@@ -6,8 +6,8 @@ from database import Database
 
 class SlotManager:
 
-    def __init__(self):
-        self.db = Database()
+    def __init__(self, db):
+        self.db = db
         self.slots = []
 
     # ---------------------------------
@@ -115,20 +115,21 @@ class SlotManager:
     # ---------------------------------
 
     def view_slots(self):
-        
-        slots = self.db.get_all_slots()
 
-        if len(slots) == 0:
-            print("\n❌ No Slots Available.")
-            return
+     slots = self.db.get_all_slots()
 
+     print("\nDEBUG DATA:")
+     print(slots)   # <-- Add these two lines
 
-        print("\n========== AVAILABLE SLOTS ==========")
+     if len(slots) == 0:
+         print("\n❌ No Slots Available.")
+         return
 
+     print("\n========== AVAILABLE SLOTS ==========")
 
-        for slot in slots:
+     for slot in slots:
 
-            print(f"""
+         print(f"""
 ----------------------------------
 Slot ID      : {slot[0]}
 Service Type : {slot[1]}

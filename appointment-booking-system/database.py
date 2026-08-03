@@ -76,17 +76,19 @@ class Database:
 
         self.cursor.execute("SELECT * FROM slots")
         return self.cursor.fetchall()
-
     def update_slot_status(self, slot_id, status):
 
-        query = """
-        UPDATE slots
-        SET status = %s
-        WHERE slot_id = %s
-        """
 
-        self.cursor.execute(query, (status, slot_id))
-        self.connection.commit()
+       query = """
+       UPDATE slots
+       SET status = %s
+       WHERE slot_id = %s
+       """
+
+       self.cursor.execute(query, (status, slot_id))
+       self.connection.commit()
+
+       
 
     # ---------------------------------
     # Booking Operations

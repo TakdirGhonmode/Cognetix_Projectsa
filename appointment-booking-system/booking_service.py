@@ -2,11 +2,10 @@ from models import Booking
 from validation import Validation
 from database import Database
 
-
 class BookingService:
 
-    def __init__(self):
-        self.db = Database()
+    def __init__(self, db):
+        self.db = db
 
 
     # ---------------------------------
@@ -90,7 +89,6 @@ class BookingService:
 
 
         self.db.insert_booking(booking)
-
 
         self.db.update_slot_status(
             selected_slot.slot_id,
@@ -194,7 +192,7 @@ Booked At    : {booking[5]}
 
 
         # Make Slot Available Again
-
+        print("Booking Found =", booking_found)
         self.db.update_slot_status(
             booking_found[3],
             "Available"

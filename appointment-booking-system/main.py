@@ -1,11 +1,13 @@
+from database import Database
 from slot_manager import SlotManager
 from booking_service import BookingService
 from reports import Reports
 
+db = Database()
 
-slot_manager = SlotManager()
-booking_service = BookingService()
-report = Reports()
+slot_manager = SlotManager(db)
+booking_service = BookingService(db)
+report = Reports(db)
 
 
 while True:

@@ -3,9 +3,10 @@ from database import Database
 
 class Reports:
 
-    def __init__(self):
-        self.db = Database()
+    def __init__(self, db):
+        self.db = db
 
+   
 
     # ---------------------------------
     # Booking Summary Report
