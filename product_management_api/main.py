@@ -1,137 +1,106 @@
-from fastapi import FastAPI, Depends, HTTPException, status
-from sqlalchemy.orm import Session
+from fastapi import FastAPI, HTTPException, Request, status
+from fastapi.exceptions import RequestValidationError
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 import models
-import schemas
-import crud
-
-from database import engine, get_db
+from database import engine
+from routes import auth_routes, product_routes
+import transaction_history
 
 # Create Database Tables
 models.Base.metadata.create_all(bind=engine)
 
-# Initialize FastAPI
+# Initialize FastAPI Application
 app = FastAPI(
     title="Product Management REST API",
     version="1.0.0",
-    description="Internship Project - Product Management REST API"
+    description="Level 4 Project - Python REST API for inventory management with JWT Auth and Role-Based Access Control.",
+    docs_url="/docs",
+    redoc_url="/redoc"
+)
+
+# Configure CORS Middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
 # -----------------------------
-# Home API
+# Global Exception Handlers
 # -----------------------------
-@app.get("/")
-def home():
-    return {
-        "status": "success",
-        "message": "Welcome to Product Management REST API"
-    }
-
-
-# -----------------------------
-# Create Product
-# -----------------------------
-@app.post("/products", status_code=status.HTTP_201_CREATED)
-def create_product(product: schemas.ProductCreate,
-                   db: Session = Depends(get_db)):
-
-    existing = crud.get_product(db, product.product_id)
-
-    if existing:
-        raise HTTPException(
-            status_code=400,
-            detail="Product ID already exists."
-        )
-
-    new_product = crud.create_product(db, product)
-
-    return {
-        "status": "success",
-        "message": "Product created successfully",
-        "data": new_product
-    }
-
-
-# -----------------------------
-# Get All Products
-# -----------------------------
-@app.get("/products")
-def get_products(db: Session = Depends(get_db)):
-
-    products = crud.get_products(db)
-
-    return {
-        "status": "success",
-        "count": len(products),
-        "data": products
-    }
-
-
-# -----------------------------
-# Get Product By ID
-# -----------------------------
-@app.get("/products/{product_id}")
-def get_product(product_id: int,
-                db: Session = Depends(get_db)):
-
-    product = crud.get_product(db, product_id)
-
-    if not product:
-        raise HTTPException(
-            status_code=404,
-            detail="Product not found."
-        )
-
-    return {
-        "status": "success",
-        "data": product
-    }
-
-
-# -----------------------------
-# Update Product
-# -----------------------------
-@app.put("/products/{product_id}")
-def update_product(product_id: int,
-                   updated_product: schemas.ProductUpdate,
-                   db: Session = Depends(get_db)):
-
-    product = crud.update_product(
-        db,
-        product_id,
-        updated_product
+@app.exception_handler(HTTPException)
+async def http_exception_handler(request: Request, exc: HTTPException):
+    """Format HTTP exceptions into standard API response structure."""
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={
+            "status": "error",
+            "message": str(exc.detail),
+            "details": None
+        },
+        headers=exc.headers
     )
 
-    if not product:
-        raise HTTPException(
-            status_code=404,
-            detail="Product not found."
-        )
 
-    return {
-        "status": "success",
-        "message": "Product updated successfully",
-        "data": product
-    }
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    """Format request payload validation errors into standard API response structure."""
+    error_messages = []
+    for err in exc.errors():
+        field = " -> ".join([str(loc) for loc in err.get("loc", [])])
+        msg = err.get("msg", "Invalid value")
+        error_messages.append(f"{field}: {msg}")
+
+    summary_message = "Validation failed for request: " + "; ".join(error_messages)
+
+    return JSONResponse(
+        status_code=status.HTTP_400_BAD_REQUEST,
+        content={
+            "status": "error",
+            "message": summary_message,
+            "details": exc.errors()
+        }
+    )
+
+
+@app.exception_handler(Exception)
+async def generic_exception_handler(request: Request, exc: Exception):
+    """Catch-all handler for unhandled internal server errors (500)."""
+    return JSONResponse(
+        status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        content={
+            "status": "error",
+            "message": "An internal server error occurred.",
+            "details": str(exc)
+        }
+    )
 
 
 # -----------------------------
-# Delete Product
+# Include Routers
 # -----------------------------
-@app.delete("/products/{product_id}")
-def delete_product(product_id: int,
-                   db: Session = Depends(get_db)):
+app.include_router(auth_routes.router)
+app.include_router(product_routes.router)
+app.include_router(transaction_history.router)
 
-    product = crud.delete_product(db, product_id)
 
-    if not product:
-        raise HTTPException(
-            status_code=404,
-            detail="Product not found."
-        )
-
+# -----------------------------
+# Home API Endpoint
+# -----------------------------
+@app.get("/", tags=["General"])
+def home():
+    """Root endpoint for API health check and documentation links."""
     return {
         "status": "success",
-        "message": "Product deleted successfully"
+        "message": "Welcome to Product Management REST API",
+        "data": {
+            "version": "1.0.0",
+            "documentation": "/docs",
+            "redoc": "/redoc"
+        }
     }

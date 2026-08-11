@@ -1,23 +1,14 @@
 from sqlalchemy import create_engine
-from sqlalchemy.engine import URL
 from sqlalchemy.orm import sessionmaker, declarative_base
+from config import DATABASE_URL
 
-# -----------------------------
-# MySQL Database Configuration
-# -----------------------------
-DATABASE_URL = URL.create(
-    drivername="mysql+pymysql",
-    username="root",
-    password="Takdir@1234",
-    host="localhost",
-    port=3306,
-    database="product_management_api"
-)
+# Create Engine for SQLite (or other configured DB)
+connect_args = {"check_same_thread": False} if DATABASE_URL.startswith("sqlite") else {}
 
-# Create Engine
 engine = create_engine(
     DATABASE_URL,
-    echo=True
+    connect_args=connect_args,
+    echo=False
 )
 
 # Session Factory
@@ -27,10 +18,10 @@ SessionLocal = sessionmaker(
     bind=engine
 )
 
-# Base Class
+# Base Class for Models
 Base = declarative_base()
 
-# Dependency
+# DB Dependency
 def get_db():
     db = SessionLocal()
     try:
