@@ -1,0 +1,6 @@
+Transaction ID,User ID,Transaction Amount,Date,Location,Payment Method,Status,Device ID,Risk Score,Risk Level,Triggered Rules,Rule Count,Is Flagged
+TXN1003,USR_103,12000.0,2026-08-01 10:05:00,New York,Credit Card,SUCCESS,DEV_003,45,MEDIUM,"HighAmountRule, SpikeDetectionRule",2,True
+TXN1010,USR_999,650.0,2026-08-01 11:30:00,Miami,StolenCard_v1,SUCCESS,DEV_009,40,MEDIUM,BlacklistRule,1,True
+TXN1014,USR_107,290.0,2026-08-01 12:07:00,Boston,Credit Card,SUCCESS,DEV_007,30,LOW,RapidVelocityRule,1,True
+TXN1018,USR_109,75.0,2026-08-01 14:00:00,Unknown Region,Anonymous_Proxy_Pay,SUCCESS,DEV_010,60,MEDIUM,"GeographicalAnomalyRule, BlacklistRule",2,True
+TXN1019,USR_110,6200.0,2026-08-01 14:30:00,Sanctioned Area B,Credit Card,SUCCESS,DEV_011,45,MEDIUM,"HighAmountRule, GeographicalAnomalyRule",2,True
