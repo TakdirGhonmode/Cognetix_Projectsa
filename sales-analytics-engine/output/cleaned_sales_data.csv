@@ -1,0 +1,1202 @@
+Transaction_ID,Date,Product_ID,Product,Category,Unit_Price,Region,Quantity,Discount_Pct,Sales_Amount,Customer_Segment,Payment_Method,Year,Month,Month_Name,Year_Month,Quarter,Day_Of_Week
+TXN-10001,2023-02-21,PROD-102,AI Analytics License,Software,850.0,Europe,8,0.1,6120.0,Small & Medium Business,Wire Transfer,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-10002,2023-06-28,PROD-102,AI Analytics License,Software,850.0,North America,5,0.15,3612.5,Enterprise,Credit Card,2023,6,Jun,2023-06,Q2,Wednesday
+TXN-10003,2024-04-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.2,2400.0,Small & Medium Business,PayPal,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10004,2025-07-08,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.1,2700.0,Small & Medium Business,PayPal,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10005,2024-07-23,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,2,0.05,1805.0,Enterprise,Credit Card,2024,7,Jul,2024-07,Q3,Tuesday
+TXN-10006,2023-07-18,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,3,0.1,2970.0,Consumer,Credit Card,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-10007,2023-09-13,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,4,0.0,3000.0,Consumer,Corporate Invoice,2023,9,Sep,2023-09,Q3,Wednesday
+TXN-10008,2024-01-29,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,8,0.0,25600.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Monday
+TXN-10009,2024-04-21,PROD-102,AI Analytics License,Software,850.0,Latin America,10,0.0,8500.0,Consumer,PayPal,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10010,2023-11-30,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,8,0.1,6840.0,Consumer,Credit Card,2023,11,Nov,2023-11,Q4,Thursday
+TXN-10011,2023-12-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,15,0.05,45600.0,Government,PayPal,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10012,2024-03-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,8,0.1,2520.0,Small & Medium Business,Credit Card,2024,3,Mar,2024-03,Q1,Monday
+TXN-10013,2025-04-01,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,3,0.0,2850.0,Consumer,Wire Transfer,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10014,2025-03-21,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,8,0.15,5100.0,Consumer,Wire Transfer,2025,3,Mar,2025-03,Q1,Friday
+TXN-10015,2024-06-22,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.2,3840.0,Government,Corporate Invoice,2024,6,Jun,2024-06,Q2,Saturday
+TXN-10016,2023-10-11,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.15,2550.0,Enterprise,Credit Card,2023,10,Oct,2023-10,Q4,Wednesday
+TXN-10017,2023-11-24,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,20,0.15,25500.0,Enterprise,PayPal,2023,11,Nov,2023-11,Q4,Friday
+TXN-10018,2025-08-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.1,4950.0,Enterprise,Credit Card,2025,8,Aug,2025-08,Q3,Saturday
+TXN-10019,2024-06-30,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,10,0.1,2250.0,Consumer,PayPal,2024,6,Jun,2024-06,Q2,Sunday
+TXN-10020,2025-07-18,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,1,0.1,1350.0,Small & Medium Business,Credit Card,2025,7,Jul,2025-07,Q3,Friday
+TXN-10021,2025-11-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,15,0.05,4987.5,Consumer,Wire Transfer,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10022,2025-12-22,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,3,0.2,600.0,Government,Credit Card,2025,12,Dec,2025-12,Q4,Monday
+TXN-10023,2025-01-13,PROD-102,AI Analytics License,Software,850.0,Europe,10,0.1,7650.0,Enterprise,Wire Transfer,2025,1,Jan,2025-01,Q1,Monday
+TXN-10024,2023-06-11,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,1,0.15,2720.0,Small & Medium Business,Wire Transfer,2023,6,Jun,2023-06,Q2,Sunday
+TXN-10025,2023-12-05,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,8,0.2,4800.0,Government,Wire Transfer,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10026,2024-02-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,8,0.1,1800.0,Consumer,PayPal,2024,2,Feb,2024-02,Q1,Friday
+TXN-10027,2025-07-13,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,1,0.05,237.5,Enterprise,Corporate Invoice,2025,7,Jul,2025-07,Q3,Sunday
+TXN-10028,2024-04-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,5,0.05,5700.0,Enterprise,Credit Card,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10029,2023-05-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,1,0.1,540.0,Small & Medium Business,Corporate Invoice,2023,5,May,2023-05,Q2,Friday
+TXN-10030,2024-03-14,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,5,0.05,3562.5,Government,Wire Transfer,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10031,2025-04-13,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.0,1500.0,Government,Corporate Invoice,2025,4,Apr,2025-04,Q2,Sunday
+TXN-10032,2025-04-21,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,4,0.0,4400.0,Enterprise,PayPal,2025,4,Apr,2025-04,Q2,Monday
+TXN-10033,2023-08-12,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.05,1805.0,Government,Wire Transfer,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10034,2024-01-11,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,3,0.15,2805.0,Enterprise,PayPal,2024,1,Jan,2024-01,Q1,Thursday
+TXN-10035,2023-07-20,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,1,0.2,200.0,Enterprise,Wire Transfer,2023,7,Jul,2023-07,Q3,Thursday
+TXN-10036,2025-04-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,4,0.15,5100.0,Government,Credit Card,2025,4,Apr,2025-04,Q2,Saturday
+TXN-10037,2025-02-15,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,1,0.15,1275.0,Government,Corporate Invoice,2025,2,Feb,2025-02,Q1,Saturday
+TXN-10038,2025-09-23,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,2,0.05,2090.0,Small & Medium Business,Credit Card,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10039,2023-05-05,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,8,0.1,23040.0,Enterprise,PayPal,2023,5,May,2023-05,Q2,Friday
+TXN-10040,2025-12-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,5,0.0,1250.0,Enterprise,Wire Transfer,2025,12,Dec,2025-12,Q4,Tuesday
+TXN-10041,2023-05-20,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.05,6460.0,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Saturday
+TXN-10042,2023-03-23,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,5,0.0,16000.0,Consumer,Corporate Invoice,2023,3,Mar,2023-03,Q1,Thursday
+TXN-10043,2024-10-05,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,2,0.1,1080.0,Small & Medium Business,Corporate Invoice,2024,10,Oct,2024-10,Q4,Saturday
+TXN-10044,2024-10-09,PROD-108,Standing Executive Desk,Furniture,750.0,North America,10,0.0,7500.0,Government,Credit Card,2024,10,Oct,2024-10,Q4,Wednesday
+TXN-10045,2024-03-12,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.1,3825.0,Consumer,Credit Card,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10046,2025-01-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,3,0.05,1710.0,Consumer,Credit Card,2025,1,Jan,2025-01,Q1,Sunday
+TXN-10047,2024-09-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,8,0.0,2000.0,Consumer,Credit Card,2024,9,Sep,2024-09,Q3,Thursday
+TXN-10048,2023-11-15,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,8,0.1,6120.0,Small & Medium Business,Corporate Invoice,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10049,2024-06-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,5,0.15,2550.0,Enterprise,Credit Card,2024,6,Jun,2024-06,Q2,Monday
+TXN-10050,2024-07-20,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,1,0.0,1100.0,Small & Medium Business,Unspecified,2024,7,Jul,2024-07,Q3,Saturday
+TXN-10051,2025-06-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,5,0.15,6375.0,Enterprise,Credit Card,2025,6,Jun,2025-06,Q2,Monday
+TXN-10052,2023-11-02,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,15,0.0,12750.0,Small & Medium Business,PayPal,2023,11,Nov,2023-11,Q4,Thursday
+TXN-10053,2023-03-27,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,3,0.1,4050.0,Consumer,Wire Transfer,2023,3,Mar,2023-03,Q1,Monday
+TXN-10054,2023-07-30,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,3,0.2,1440.0,Small & Medium Business,Wire Transfer,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10055,2023-12-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.0,15000.0,Consumer,PayPal,2023,12,Dec,2023-12,Q4,Friday
+TXN-10056,2024-06-30,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,2,0.0,1200.0,Enterprise,PayPal,2024,6,Jun,2024-06,Q2,Sunday
+TXN-10057,2024-02-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,10,0.15,5100.0,Consumer,Wire Transfer,2024,2,Feb,2024-02,Q1,Tuesday
+TXN-10058,2023-02-18,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.05,4560.0,Consumer,Corporate Invoice,2023,2,Feb,2023-02,Q1,Saturday
+TXN-10059,2024-07-25,PROD-102,AI Analytics License,Software,850.0,Latin America,3,0.2,2040.0,Consumer,Credit Card,2024,7,Jul,2024-07,Q3,Thursday
+TXN-10060,2024-06-18,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.2,1360.0,Enterprise,Credit Card,2024,6,Jun,2024-06,Q2,Tuesday
+TXN-10061,2025-06-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,3,0.1,8640.0,Enterprise,PayPal,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10062,2024-01-25,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,3,0.0,9600.0,Enterprise,Wire Transfer,2024,1,Jan,2024-01,Q1,Thursday
+TXN-10063,2025-06-02,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,1,0.1,855.0,Consumer,Credit Card,2025,6,Jun,2025-06,Q2,Monday
+TXN-10064,2025-11-04,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,8,0.15,2380.0,Government,Corporate Invoice,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10065,2023-09-18,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,2,0.15,425.0,Small & Medium Business,Corporate Invoice,2023,9,Sep,2023-09,Q3,Monday
+TXN-10066,2023-01-01,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,3,0.1,2970.0,Government,Corporate Invoice,2023,1,Jan,2023-01,Q1,Sunday
+TXN-10067,2025-06-23,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,4,0.05,2850.0,Government,Wire Transfer,2025,6,Jun,2025-06,Q2,Monday
+TXN-10068,2024-08-04,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,5,0.2,3400.0,Enterprise,Wire Transfer,2024,8,Aug,2024-08,Q3,Sunday
+TXN-10069,2024-04-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,10,0.05,3325.0,Enterprise,Credit Card,2024,4,Apr,2024-04,Q2,Friday
+TXN-10070,2025-08-31,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,5,0.0,3000.0,Government,Wire Transfer,2025,8,Aug,2025-08,Q3,Sunday
+TXN-10071,2025-10-09,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,4,0.05,4180.0,Enterprise,Credit Card,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10072,2024-03-24,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,2,0.2,1760.0,Enterprise,Wire Transfer,2024,3,Mar,2024-03,Q1,Sunday
+TXN-10073,2025-07-23,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,2,0.15,1445.0,Consumer,PayPal,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10074,2025-10-30,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,4,0.2,10240.0,Small & Medium Business,PayPal,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10075,2024-06-14,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,10,0.05,7125.0,Government,Wire Transfer,2024,6,Jun,2024-06,Q2,Friday
+TXN-10076,2025-06-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,1,0.1,315.0,Consumer,Corporate Invoice,2025,6,Jun,2025-06,Q2,Thursday
+TXN-10077,2023-06-15,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.05,1805.0,Government,Wire Transfer,2023,6,Jun,2023-06,Q2,Thursday
+TXN-10078,2023-05-12,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.15,2040.0,Government,PayPal,2023,5,May,2023-05,Q2,Friday
+TXN-10079,2024-02-28,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,10,0.15,10200.0,Enterprise,PayPal,2024,2,Feb,2024-02,Q1,Wednesday
+TXN-10080,2023-01-13,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.1,2025.0,Government,Wire Transfer,2023,1,Jan,2023-01,Q1,Friday
+TXN-10081,2024-03-25,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.15,1912.5,Enterprise,PayPal,2024,3,Mar,2024-03,Q1,Monday
+TXN-10082,2025-04-08,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.05,7220.0,Small & Medium Business,Credit Card,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10083,2023-02-25,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,1,0.15,935.0,Government,Wire Transfer,2023,2,Feb,2023-02,Q1,Saturday
+TXN-10084,2024-06-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,4,0.1,4320.0,Government,Corporate Invoice,2024,6,Jun,2024-06,Q2,Sunday
+TXN-10085,2025-02-15,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.15,2422.5,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Saturday
+TXN-10086,2023-04-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,3,0.05,3420.0,Enterprise,Credit Card,2023,4,Apr,2023-04,Q2,Monday
+TXN-10087,2024-02-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,10,0.0,6000.0,Small & Medium Business,Wire Transfer,2024,2,Feb,2024-02,Q1,Tuesday
+TXN-10088,2025-08-27,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,8,0.0,12000.0,Small & Medium Business,PayPal,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-10089,2025-01-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.2,560.0,Enterprise,Wire Transfer,2025,1,Jan,2025-01,Q1,Saturday
+TXN-10090,2023-08-10,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,5,0.0,1750.0,Government,PayPal,2023,8,Aug,2023-08,Q3,Thursday
+TXN-10091,2023-06-05,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.05,2850.0,Consumer,Credit Card,2023,6,Jun,2023-06,Q2,Monday
+TXN-10092,2023-03-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,3,0.2,7680.0,Consumer,Credit Card,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10093,2024-11-29,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.15,637.5,Enterprise,PayPal,2024,11,Nov,2024-11,Q4,Friday
+TXN-10094,2025-07-30,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.05,7220.0,Small & Medium Business,Corporate Invoice,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10095,2025-09-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,4,0.15,10880.0,Consumer,Corporate Invoice,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10096,2023-06-27,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,3,0.15,1530.0,Government,PayPal,2023,6,Jun,2023-06,Q2,Tuesday
+TXN-10097,2023-02-28,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,4,0.1,3420.0,Government,Wire Transfer,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-10098,2024-06-13,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,3,0.1,2565.0,Consumer,Credit Card,2024,6,Jun,2024-06,Q2,Thursday
+TXN-10099,2024-01-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,1,0.05,237.5,Government,Wire Transfer,2024,1,Jan,2024-01,Q1,Saturday
+TXN-10100,2025-10-02,PROD-108,Standing Executive Desk,Furniture,750.0,North America,4,0.0,3000.0,Consumer,Wire Transfer,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10101,2024-05-13,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,3,0.2,2640.0,Government,Corporate Invoice,2024,5,May,2024-05,Q2,Monday
+TXN-10102,2024-11-08,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,8,0.15,7480.0,Consumer,Unspecified,2024,11,Nov,2024-11,Q4,Friday
+TXN-10103,2023-09-05,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,8,0.05,4560.0,Enterprise,Wire Transfer,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10104,2024-03-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,8,0.15,4080.0,Consumer,Credit Card,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10105,2024-08-29,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,2,0.1,1080.0,Consumer,Credit Card,2024,8,Aug,2024-08,Q3,Thursday
+TXN-10106,2023-09-17,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.0,750.0,Consumer,Wire Transfer,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10107,2023-07-30,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,10,0.0,7500.0,Consumer,PayPal,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10108,2025-06-21,PROD-108,Standing Executive Desk,Furniture,750.0,North America,3,0.05,2137.5,Consumer,PayPal,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10109,2023-05-14,PROD-102,AI Analytics License,Software,850.0,North America,4,0.15,2890.0,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Sunday
+TXN-10110,2024-09-14,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,1,0.05,1425.0,Government,Unspecified,2024,9,Sep,2024-09,Q3,Saturday
+TXN-10111,2025-02-18,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,4,0.15,850.0,Government,Corporate Invoice,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10112,2023-05-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.0,16000.0,Small & Medium Business,Corporate Invoice,2023,5,May,2023-05,Q2,Thursday
+TXN-10113,2023-11-18,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,5,0.05,4037.5,Enterprise,Wire Transfer,2023,11,Nov,2023-11,Q4,Saturday
+TXN-10114,2025-04-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,4,0.2,3840.0,Consumer,Credit Card,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10115,2024-08-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.1,4320.0,Enterprise,Wire Transfer,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10116,2024-02-10,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,4,0.0,1400.0,Small & Medium Business,Wire Transfer,2024,2,Feb,2024-02,Q1,Saturday
+TXN-10117,2023-10-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,1,0.0,350.0,Consumer,Corporate Invoice,2023,10,Oct,2023-10,Q4,Thursday
+TXN-10118,2023-09-12,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,4,0.1,2700.0,Consumer,PayPal,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10119,2023-06-14,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,5,0.0,3750.0,Consumer,Corporate Invoice,2023,6,Jun,2023-06,Q2,Wednesday
+TXN-10120,2023-07-07,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,2,0.2,1920.0,Enterprise,Corporate Invoice,2023,7,Jul,2023-07,Q3,Friday
+TXN-10121,2023-03-24,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,10,0.05,30400.0,Government,Corporate Invoice,2023,3,Mar,2023-03,Q1,Friday
+TXN-10122,2025-06-11,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,8,0.15,10200.0,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Wednesday
+TXN-10123,2024-11-13,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.0,8800.0,Consumer,PayPal,2024,11,Nov,2024-11,Q4,Wednesday
+TXN-10124,2024-08-13,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,8,0.15,5100.0,Enterprise,PayPal,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10125,2024-10-06,PROD-102,AI Analytics License,Software,850.0,North America,3,0.1,2295.0,Government,Credit Card,2024,10,Oct,2024-10,Q4,Sunday
+TXN-10126,2025-08-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,4,0.0,1000.0,Consumer,PayPal,2025,8,Aug,2025-08,Q3,Monday
+TXN-10127,2023-04-16,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.1,1350.0,Small & Medium Business,Corporate Invoice,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10128,2025-09-19,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,1,0.0,750.0,Small & Medium Business,Wire Transfer,2025,9,Sep,2025-09,Q3,Friday
+TXN-10129,2023-01-29,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,5,0.15,1487.5,Small & Medium Business,Credit Card,2023,1,Jan,2023-01,Q1,Sunday
+TXN-10130,2023-08-29,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,8,0.05,5700.0,Consumer,Corporate Invoice,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10131,2025-09-15,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,4,0.05,4180.0,Small & Medium Business,PayPal,2025,9,Sep,2025-09,Q3,Monday
+TXN-10132,2025-11-06,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,20,0.05,11400.0,Consumer,PayPal,2025,11,Nov,2025-11,Q4,Thursday
+TXN-10133,2025-11-05,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,8,0.0,7600.0,Consumer,PayPal,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10134,2025-07-03,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,5,0.15,6375.0,Consumer,PayPal,2025,7,Jul,2025-07,Q3,Thursday
+TXN-10135,2024-10-21,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,10,0.05,7125.0,Government,Wire Transfer,2024,10,Oct,2024-10,Q4,Monday
+TXN-10136,2023-03-31,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,3,0.15,2805.0,Government,Wire Transfer,2023,3,Mar,2023-03,Q1,Friday
+TXN-10137,2023-03-17,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.2,1200.0,Consumer,Credit Card,2023,3,Mar,2023-03,Q1,Friday
+TXN-10138,2023-07-24,PROD-108,Standing Executive Desk,Furniture,750.0,North America,5,0.15,3187.5,Small & Medium Business,PayPal,2023,7,Jul,2023-07,Q3,Monday
+TXN-10139,2023-06-03,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,4,0.1,5400.0,Government,Credit Card,2023,6,Jun,2023-06,Q2,Saturday
+TXN-10140,2025-12-28,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.1,8550.0,Enterprise,Credit Card,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10141,2024-08-11,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,2,0.0,1200.0,Enterprise,Credit Card,2024,8,Aug,2024-08,Q3,Sunday
+TXN-10142,2023-12-07,PROD-108,Standing Executive Desk,Furniture,750.0,North America,20,0.1,13500.0,Enterprise,Corporate Invoice,2023,12,Dec,2023-12,Q4,Thursday
+TXN-10143,2024-08-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,3,0.1,3240.0,Small & Medium Business,Wire Transfer,2024,8,Aug,2024-08,Q3,Friday
+TXN-10144,2025-04-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,5,0.05,1187.5,Small & Medium Business,Credit Card,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10145,2025-02-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,5,0.05,15200.0,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Saturday
+TXN-10146,2024-06-04,PROD-108,Standing Executive Desk,Furniture,750.0,North America,4,0.1,2700.0,Government,Corporate Invoice,2024,6,Jun,2024-06,Q2,Tuesday
+TXN-10147,2023-11-20,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,3,0.15,637.5,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Monday
+TXN-10148,2025-07-24,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,10,0.1,3150.0,Government,PayPal,2025,7,Jul,2025-07,Q3,Thursday
+TXN-10149,2024-04-30,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,4,0.2,2720.0,Consumer,Corporate Invoice,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10150,2025-03-21,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.0,3600.0,Enterprise,PayPal,2025,3,Mar,2025-03,Q1,Friday
+TXN-10151,2024-04-16,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,5,0.1,1575.0,Small & Medium Business,Corporate Invoice,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10152,2023-07-18,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,8,0.0,12000.0,Government,Credit Card,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-10153,2025-01-17,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,8,0.05,24320.0,Consumer,Corporate Invoice,2025,1,Jan,2025-01,Q1,Friday
+TXN-10154,2023-12-26,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.05,5225.0,Consumer,Corporate Invoice,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10155,2024-06-10,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,10,0.15,12750.0,Consumer,Credit Card,2024,6,Jun,2024-06,Q2,Monday
+TXN-10156,2023-06-04,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,2,0.05,1425.0,Consumer,Credit Card,2023,6,Jun,2023-06,Q2,Sunday
+TXN-10157,2023-01-29,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,3,0.2,2640.0,Government,Corporate Invoice,2023,1,Jan,2023-01,Q1,Sunday
+TXN-10158,2025-02-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,10,0.1,3150.0,Small & Medium Business,PayPal,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-10159,2024-11-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,15,0.05,17100.0,Government,Corporate Invoice,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10160,2023-08-27,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,2,0.0,2200.0,Consumer,PayPal,2023,8,Aug,2023-08,Q3,Sunday
+TXN-10161,2023-07-19,PROD-102,AI Analytics License,Software,850.0,Europe,2,0.2,1360.0,Government,PayPal,2023,7,Jul,2023-07,Q3,Wednesday
+TXN-10162,2025-05-08,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,5,0.05,4512.5,Enterprise,PayPal,2025,5,May,2025-05,Q2,Thursday
+TXN-10163,2025-04-15,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,3,0.0,9600.0,Small & Medium Business,PayPal,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10164,2024-04-28,PROD-108,Standing Executive Desk,Furniture,750.0,North America,10,0.1,6750.0,Consumer,Corporate Invoice,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10165,2025-03-26,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,3,0.05,3420.0,Government,Credit Card,2025,3,Mar,2025-03,Q1,Wednesday
+TXN-10166,2023-02-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,1,0.1,540.0,Small & Medium Business,Wire Transfer,2023,2,Feb,2023-02,Q1,Monday
+TXN-10167,2024-02-29,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.05,4037.5,Consumer,Wire Transfer,2024,2,Feb,2024-02,Q1,Thursday
+TXN-10168,2023-01-06,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,3,0.05,9120.0,Consumer,Wire Transfer,2023,1,Jan,2023-01,Q1,Friday
+TXN-10169,2023-02-22,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.0,1700.0,Small & Medium Business,Corporate Invoice,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10170,2023-12-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,8,0.0,9600.0,Government,Credit Card,2023,12,Dec,2023-12,Q4,Saturday
+TXN-10171,2025-09-02,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,4,0.1,3060.0,Enterprise,PayPal,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10172,2024-03-29,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,5,0.0,1250.0,Consumer,PayPal,2024,3,Mar,2024-03,Q1,Friday
+TXN-10173,2023-05-05,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,4,0.15,4080.0,Enterprise,PayPal,2023,5,May,2023-05,Q2,Friday
+TXN-10174,2023-05-31,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,1,0.1,675.0,Small & Medium Business,Credit Card,2023,5,May,2023-05,Q2,Wednesday
+TXN-10175,2024-07-17,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,5,0.2,6000.0,Consumer,PayPal,2024,7,Jul,2024-07,Q3,Wednesday
+TXN-10176,2025-12-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,8,0.15,21760.0,Government,Credit Card,2025,12,Dec,2025-12,Q4,Monday
+TXN-10177,2024-03-16,PROD-102,AI Analytics License,Software,850.0,Europe,4,0.15,2890.0,Government,Corporate Invoice,2024,3,Mar,2024-03,Q1,Saturday
+TXN-10178,2025-03-27,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,4,0.0,3000.0,Government,Corporate Invoice,2025,3,Mar,2025-03,Q1,Thursday
+TXN-10179,2025-02-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,2,0.15,595.0,Enterprise,Credit Card,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-10180,2025-06-03,PROD-102,AI Analytics License,Software,850.0,Europe,1,0.1,765.0,Enterprise,Corporate Invoice,2025,6,Jun,2025-06,Q2,Tuesday
+TXN-10181,2025-04-21,PROD-102,AI Analytics License,Software,850.0,North America,3,0.15,2167.5,Consumer,Corporate Invoice,2025,4,Apr,2025-04,Q2,Monday
+TXN-10182,2023-08-01,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,5,0.2,3800.0,Small & Medium Business,PayPal,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10183,2023-08-10,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,3,0.2,1440.0,Enterprise,Corporate Invoice,2023,8,Aug,2023-08,Q3,Thursday
+TXN-10184,2024-04-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,10,0.15,27200.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Monday
+TXN-10185,2024-01-05,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,3,0.1,3240.0,Consumer,Credit Card,2024,1,Jan,2024-01,Q1,Friday
+TXN-10186,2023-10-21,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,5,0.15,6375.0,Small & Medium Business,Credit Card,2023,10,Oct,2023-10,Q4,Saturday
+TXN-10187,2025-12-22,PROD-102,AI Analytics License,Software,850.0,Latin America,5,0.15,3612.5,Government,Corporate Invoice,2025,12,Dec,2025-12,Q4,Monday
+TXN-10188,2025-01-27,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,3,0.1,4050.0,Enterprise,Credit Card,2025,1,Jan,2025-01,Q1,Monday
+TXN-10189,2023-11-19,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,15,0.0,22500.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10190,2025-09-21,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,5,0.15,4675.0,Consumer,Wire Transfer,2025,9,Sep,2025-09,Q3,Sunday
+TXN-10191,2023-08-22,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.15,637.5,Consumer,PayPal,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10192,2024-09-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,1,0.05,237.5,Enterprise,Credit Card,2024,9,Sep,2024-09,Q3,Monday
+TXN-10193,2024-09-09,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,2,0.05,1140.0,Consumer,Corporate Invoice,2024,9,Sep,2024-09,Q3,Monday
+TXN-10194,2023-01-16,PROD-102,AI Analytics License,Software,850.0,Europe,4,0.15,2890.0,Small & Medium Business,PayPal,2023,1,Jan,2023-01,Q1,Monday
+TXN-10195,2024-04-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,5,0.2,1000.0,Enterprise,PayPal,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10196,2025-06-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,1,0.15,1020.0,Consumer,PayPal,2025,6,Jun,2025-06,Q2,Thursday
+TXN-10197,2025-04-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.15,21760.0,Enterprise,PayPal,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10198,2024-10-27,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,2,0.2,1920.0,Consumer,Credit Card,2024,10,Oct,2024-10,Q4,Sunday
+TXN-10199,2023-08-05,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,2,0.15,1870.0,Government,Credit Card,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10200,2024-09-27,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.1,7920.0,Consumer,Wire Transfer,2024,9,Sep,2024-09,Q3,Friday
+TXN-10201,2025-11-11,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,20,0.0,17000.0,Small & Medium Business,Corporate Invoice,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10202,2023-10-30,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.0,1900.0,Consumer,Wire Transfer,2023,10,Oct,2023-10,Q4,Monday
+TXN-10203,2023-11-10,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,20,0.0,30000.0,Government,PayPal,2023,11,Nov,2023-11,Q4,Friday
+TXN-10204,2025-07-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,8,0.2,20480.0,Consumer,Corporate Invoice,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10205,2025-06-19,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,1,0.15,1275.0,Consumer,Corporate Invoice,2025,6,Jun,2025-06,Q2,Thursday
+TXN-10206,2023-04-26,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,3,0.2,7680.0,Consumer,PayPal,2023,4,Apr,2023-04,Q2,Wednesday
+TXN-10207,2023-03-19,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.1,675.0,Enterprise,Credit Card,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10208,2025-11-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,10,0.15,27200.0,Enterprise,PayPal,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10209,2024-01-21,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,3,0.2,7680.0,Small & Medium Business,Credit Card,2024,1,Jan,2024-01,Q1,Sunday
+TXN-10210,2023-07-31,PROD-108,Standing Executive Desk,Furniture,750.0,North America,10,0.1,6750.0,Small & Medium Business,Credit Card,2023,7,Jul,2023-07,Q3,Monday
+TXN-10211,2025-06-15,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,4,0.2,1920.0,Small & Medium Business,Corporate Invoice,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10212,2024-08-02,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,4,0.15,3230.0,Enterprise,Corporate Invoice,2024,8,Aug,2024-08,Q3,Friday
+TXN-10213,2024-11-06,PROD-102,AI Analytics License,Software,850.0,Latin America,3,0.2,2040.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Wednesday
+TXN-10214,2023-11-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,8,0.0,25600.0,Small & Medium Business,Corporate Invoice,2023,11,Nov,2023-11,Q4,Saturday
+TXN-10215,2025-03-13,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,2,0.2,560.0,Consumer,PayPal,2025,3,Mar,2025-03,Q1,Thursday
+TXN-10216,2023-09-19,PROD-106,Smart Conference Hub,Electronics,950.0,North America,8,0.2,6080.0,Government,Corporate Invoice,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10217,2025-01-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,3,0.05,3420.0,Consumer,PayPal,2025,1,Jan,2025-01,Q1,Sunday
+TXN-10218,2024-04-08,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,2,0.05,1140.0,Consumer,Credit Card,2024,4,Apr,2024-04,Q2,Monday
+TXN-10219,2025-12-14,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,3,0.1,675.0,Small & Medium Business,PayPal,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10220,2023-11-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.2,6000.0,Government,Credit Card,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10221,2025-01-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,8,0.05,8360.0,Consumer,PayPal,2025,1,Jan,2025-01,Q1,Thursday
+TXN-10222,2025-12-29,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,5,0.1,2700.0,Small & Medium Business,Corporate Invoice,2025,12,Dec,2025-12,Q4,Monday
+TXN-10223,2025-06-21,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,4,0.1,11520.0,Government,Wire Transfer,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10224,2023-10-11,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,10,0.1,5400.0,Government,Corporate Invoice,2023,10,Oct,2023-10,Q4,Wednesday
+TXN-10225,2023-07-30,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.2,1600.0,Consumer,Credit Card,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10226,2024-07-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,4,0.2,4800.0,Government,Credit Card,2024,7,Jul,2024-07,Q3,Friday
+TXN-10227,2025-07-12,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,3,0.0,1800.0,Enterprise,PayPal,2025,7,Jul,2025-07,Q3,Saturday
+TXN-10228,2025-02-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,2,0.15,425.0,Consumer,Wire Transfer,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10229,2024-10-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,1,0.1,1080.0,Small & Medium Business,Credit Card,2024,10,Oct,2024-10,Q4,Monday
+TXN-10230,2025-08-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,8,0.05,2660.0,Government,Credit Card,2025,8,Aug,2025-08,Q3,Monday
+TXN-10231,2023-02-08,PROD-102,AI Analytics License,Software,850.0,Europe,3,0.05,2422.5,Government,Credit Card,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10232,2024-05-01,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.0,1050.0,Small & Medium Business,Unspecified,2024,5,May,2024-05,Q2,Wednesday
+TXN-10233,2025-07-25,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,1,0.0,3200.0,Enterprise,Wire Transfer,2025,7,Jul,2025-07,Q3,Friday
+TXN-10234,2024-08-19,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,4,0.0,6000.0,Consumer,Wire Transfer,2024,8,Aug,2024-08,Q3,Monday
+TXN-10235,2025-05-03,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,2,0.0,6400.0,Consumer,Credit Card,2025,5,May,2025-05,Q2,Saturday
+TXN-10236,2025-11-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,15,0.2,3000.0,Government,PayPal,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10237,2025-03-03,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,3,0.1,3240.0,Consumer,Credit Card,2025,3,Mar,2025-03,Q1,Monday
+TXN-10238,2024-05-08,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,8,0.0,7600.0,Consumer,Wire Transfer,2024,5,May,2024-05,Q2,Wednesday
+TXN-10239,2024-12-22,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,15,0.1,16200.0,Government,PayPal,2024,12,Dec,2024-12,Q4,Sunday
+TXN-10240,2023-10-04,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,1,0.15,1275.0,Consumer,Wire Transfer,2023,10,Oct,2023-10,Q4,Wednesday
+TXN-10241,2024-02-13,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,1,0.1,1080.0,Government,PayPal,2024,2,Feb,2024-02,Q1,Tuesday
+TXN-10242,2023-03-16,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,10,0.05,3325.0,Consumer,Credit Card,2023,3,Mar,2023-03,Q1,Thursday
+TXN-10243,2024-07-13,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.1,855.0,Government,PayPal,2024,7,Jul,2024-07,Q3,Saturday
+TXN-10244,2024-11-25,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,5,0.15,4675.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Monday
+TXN-10245,2025-05-19,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.15,722.5,Small & Medium Business,Corporate Invoice,2025,5,May,2025-05,Q2,Monday
+TXN-10246,2023-07-30,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,1,0.1,855.0,Consumer,PayPal,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10247,2025-05-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,2,0.15,5440.0,Government,Credit Card,2025,5,May,2025-05,Q2,Thursday
+TXN-10248,2025-06-09,PROD-106,Smart Conference Hub,Electronics,950.0,North America,3,0.0,2850.0,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Monday
+TXN-10249,2023-11-24,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,3,0.05,712.5,Government,Credit Card,2023,11,Nov,2023-11,Q4,Friday
+TXN-10250,2023-05-18,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,2,0.1,2700.0,Government,Credit Card,2023,5,May,2023-05,Q2,Thursday
+TXN-10251,2023-11-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,20,0.15,54400.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Saturday
+TXN-10252,2023-10-09,PROD-102,AI Analytics License,Software,850.0,Latin America,5,0.1,3825.0,Consumer,Corporate Invoice,2023,10,Oct,2023-10,Q4,Monday
+TXN-10253,2023-08-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.05,570.0,Government,Credit Card,2023,8,Aug,2023-08,Q3,Monday
+TXN-10254,2024-06-17,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.15,2380.0,Consumer,PayPal,2024,6,Jun,2024-06,Q2,Monday
+TXN-10255,2023-09-09,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,2,0.0,1200.0,Small & Medium Business,PayPal,2023,9,Sep,2023-09,Q3,Saturday
+TXN-10256,2024-10-16,PROD-102,AI Analytics License,Software,850.0,North America,8,0.1,6120.0,Consumer,Corporate Invoice,2024,10,Oct,2024-10,Q4,Wednesday
+TXN-10257,2023-12-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,8,0.2,9600.0,Enterprise,Wire Transfer,2023,12,Dec,2023-12,Q4,Saturday
+TXN-10258,2024-04-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,10,0.15,12750.0,Consumer,Corporate Invoice,2024,4,Apr,2024-04,Q2,Monday
+TXN-10259,2023-09-23,PROD-108,Standing Executive Desk,Furniture,750.0,North America,5,0.0,3750.0,Consumer,PayPal,2023,9,Sep,2023-09,Q3,Saturday
+TXN-10260,2025-12-12,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,10,0.15,6375.0,Enterprise,Wire Transfer,2025,12,Dec,2025-12,Q4,Friday
+TXN-10261,2023-06-01,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,4,0.15,3230.0,Consumer,Wire Transfer,2023,6,Jun,2023-06,Q2,Thursday
+TXN-10262,2024-01-08,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,10,0.05,2375.0,Enterprise,Credit Card,2024,1,Jan,2024-01,Q1,Monday
+TXN-10263,2023-11-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,8,0.05,1900.0,Consumer,Wire Transfer,2023,11,Nov,2023-11,Q4,Friday
+TXN-10264,2025-11-28,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,8,0.0,7600.0,Small & Medium Business,Corporate Invoice,2025,11,Nov,2025-11,Q4,Friday
+TXN-10265,2024-09-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,5,0.2,6000.0,Small & Medium Business,Wire Transfer,2024,9,Sep,2024-09,Q3,Thursday
+TXN-10266,2024-11-22,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,15,0.0,22500.0,Enterprise,Credit Card,2024,11,Nov,2024-11,Q4,Friday
+TXN-10267,2024-06-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,8,0.05,24320.0,Government,Credit Card,2024,6,Jun,2024-06,Q2,Wednesday
+TXN-10268,2024-08-16,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,8,0.1,5400.0,Small & Medium Business,PayPal,2024,8,Aug,2024-08,Q3,Friday
+TXN-10269,2025-07-17,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,1,0.0,350.0,Government,PayPal,2025,7,Jul,2025-07,Q3,Thursday
+TXN-10270,2025-08-09,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.1,1350.0,Small & Medium Business,Corporate Invoice,2025,8,Aug,2025-08,Q3,Saturday
+TXN-10271,2024-12-08,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,10,0.05,9025.0,Enterprise,Corporate Invoice,2024,12,Dec,2024-12,Q4,Sunday
+TXN-10272,2025-08-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.1,540.0,Small & Medium Business,Wire Transfer,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-10273,2023-04-14,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,3,0.15,2167.5,Government,Wire Transfer,2023,4,Apr,2023-04,Q2,Friday
+TXN-10274,2024-11-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,15,0.1,20250.0,Small & Medium Business,PayPal,2024,11,Nov,2024-11,Q4,Friday
+TXN-10275,2025-08-14,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,4,0.1,900.0,Enterprise,Credit Card,2025,8,Aug,2025-08,Q3,Thursday
+TXN-10276,2025-11-01,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,10,0.05,10450.0,Consumer,Credit Card,2025,11,Nov,2025-11,Q4,Saturday
+TXN-10277,2024-07-30,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,4,0.2,3840.0,Consumer,Credit Card,2024,7,Jul,2024-07,Q3,Tuesday
+TXN-10278,2025-06-01,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.1,1530.0,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10279,2025-03-31,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,1,0.2,960.0,Small & Medium Business,Corporate Invoice,2025,3,Mar,2025-03,Q1,Monday
+TXN-10280,2024-08-14,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,1,0.15,212.5,Government,Corporate Invoice,2024,8,Aug,2024-08,Q3,Wednesday
+TXN-10281,2023-09-01,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,2,0.0,6400.0,Consumer,Corporate Invoice,2023,9,Sep,2023-09,Q3,Friday
+TXN-10282,2025-01-18,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,10,0.05,2375.0,Government,Credit Card,2025,1,Jan,2025-01,Q1,Saturday
+TXN-10283,2023-03-21,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,2,0.1,2160.0,Government,Wire Transfer,2023,3,Mar,2023-03,Q1,Tuesday
+TXN-10284,2025-11-21,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,5,0.1,14400.0,Consumer,Wire Transfer,2025,11,Nov,2025-11,Q4,Friday
+TXN-10285,2024-09-04,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.1,4950.0,Government,Corporate Invoice,2024,9,Sep,2024-09,Q3,Wednesday
+TXN-10286,2023-02-04,PROD-108,Standing Executive Desk,Furniture,750.0,North America,3,0.1,2025.0,Government,Corporate Invoice,2023,2,Feb,2023-02,Q1,Saturday
+TXN-10287,2025-08-29,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.2,2880.0,Small & Medium Business,Credit Card,2025,8,Aug,2025-08,Q3,Friday
+TXN-10288,2025-09-10,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,2,0.2,5120.0,Government,Wire Transfer,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10289,2023-03-06,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,5,0.0,3000.0,Enterprise,PayPal,2023,3,Mar,2023-03,Q1,Monday
+TXN-10290,2025-05-07,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.15,1615.0,Government,PayPal,2025,5,May,2025-05,Q2,Wednesday
+TXN-10291,2023-10-10,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,5,0.05,5700.0,Consumer,PayPal,2023,10,Oct,2023-10,Q4,Tuesday
+TXN-10292,2025-02-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.05,712.5,Consumer,Corporate Invoice,2025,2,Feb,2025-02,Q1,Monday
+TXN-10293,2025-09-18,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,2,0.05,665.0,Consumer,Wire Transfer,2025,9,Sep,2025-09,Q3,Thursday
+TXN-10294,2024-08-14,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,8,0.05,2660.0,Consumer,PayPal,2024,8,Aug,2024-08,Q3,Wednesday
+TXN-10295,2024-07-14,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,3,0.0,2850.0,Government,PayPal,2024,7,Jul,2024-07,Q3,Sunday
+TXN-10296,2023-10-27,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.0,2850.0,Enterprise,Corporate Invoice,2023,10,Oct,2023-10,Q4,Friday
+TXN-10297,2024-06-09,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,8,0.15,5100.0,Small & Medium Business,Corporate Invoice,2024,6,Jun,2024-06,Q2,Sunday
+TXN-10298,2024-07-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.0,500.0,Small & Medium Business,Wire Transfer,2024,7,Jul,2024-07,Q3,Wednesday
+TXN-10299,2025-12-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,5,0.05,5700.0,Enterprise,PayPal,2025,12,Dec,2025-12,Q4,Tuesday
+TXN-10300,2025-08-25,PROD-106,Smart Conference Hub,Electronics,950.0,North America,1,0.05,902.5,Small & Medium Business,PayPal,2025,8,Aug,2025-08,Q3,Monday
+TXN-10301,2025-09-04,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,8,0.05,5700.0,Consumer,Corporate Invoice,2025,9,Sep,2025-09,Q3,Thursday
+TXN-10302,2023-07-03,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,8,0.2,7680.0,Enterprise,Wire Transfer,2023,7,Jul,2023-07,Q3,Monday
+TXN-10303,2023-12-27,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,3,0.15,2805.0,Small & Medium Business,Corporate Invoice,2023,12,Dec,2023-12,Q4,Wednesday
+TXN-10304,2023-01-19,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.2,2880.0,Enterprise,Corporate Invoice,2023,1,Jan,2023-01,Q1,Thursday
+TXN-10305,2025-07-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.2,2240.0,Government,Wire Transfer,2025,7,Jul,2025-07,Q3,Saturday
+TXN-10306,2025-08-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.05,712.5,Consumer,Wire Transfer,2025,8,Aug,2025-08,Q3,Saturday
+TXN-10307,2024-06-10,PROD-108,Standing Executive Desk,Furniture,750.0,North America,8,0.05,5700.0,Consumer,Corporate Invoice,2024,6,Jun,2024-06,Q2,Monday
+TXN-10308,2024-01-31,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,2,0.2,5120.0,Government,Corporate Invoice,2024,1,Jan,2024-01,Q1,Wednesday
+TXN-10309,2025-03-31,PROD-102,AI Analytics License,Software,850.0,Europe,8,0.0,6800.0,Small & Medium Business,PayPal,2025,3,Mar,2025-03,Q1,Monday
+TXN-10310,2024-05-23,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.1,855.0,Small & Medium Business,Unspecified,2024,5,May,2024-05,Q2,Thursday
+TXN-10311,2024-11-06,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.2,2240.0,Enterprise,Corporate Invoice,2024,11,Nov,2024-11,Q4,Wednesday
+TXN-10312,2024-04-28,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.0,950.0,Consumer,Wire Transfer,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10313,2025-10-26,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,8,0.1,7920.0,Consumer,Corporate Invoice,2025,10,Oct,2025-10,Q4,Sunday
+TXN-10314,2024-03-28,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,2,0.05,6080.0,Small & Medium Business,PayPal,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10315,2025-02-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,4,0.2,10240.0,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10316,2023-06-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,5,0.15,13600.0,Consumer,Credit Card,2023,6,Jun,2023-06,Q2,Saturday
+TXN-10317,2023-08-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,1,0.2,2560.0,Small & Medium Business,Wire Transfer,2023,8,Aug,2023-08,Q3,Friday
+TXN-10318,2024-11-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,15,0.15,19125.0,Small & Medium Business,PayPal,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10319,2025-11-11,PROD-102,AI Analytics License,Software,850.0,Latin America,10,0.0,8500.0,Small & Medium Business,PayPal,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10320,2023-04-29,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,5,0.15,3187.5,Enterprise,PayPal,2023,4,Apr,2023-04,Q2,Saturday
+TXN-10321,2023-01-07,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.05,2660.0,Enterprise,Credit Card,2023,1,Jan,2023-01,Q1,Saturday
+TXN-10322,2024-12-06,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,20,0.0,22000.0,Enterprise,Credit Card,2024,12,Dec,2024-12,Q4,Friday
+TXN-10323,2023-03-06,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,3,0.15,1912.5,Small & Medium Business,PayPal,2023,3,Mar,2023-03,Q1,Monday
+TXN-10324,2025-02-22,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,4,0.15,3230.0,Enterprise,Wire Transfer,2025,2,Feb,2025-02,Q1,Saturday
+TXN-10325,2023-08-31,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,2,0.2,1520.0,Small & Medium Business,Wire Transfer,2023,8,Aug,2023-08,Q3,Thursday
+TXN-10326,2023-02-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.15,3060.0,Government,PayPal,2023,2,Feb,2023-02,Q1,Thursday
+TXN-10327,2024-05-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,4,0.1,2160.0,Consumer,Wire Transfer,2024,5,May,2024-05,Q2,Tuesday
+TXN-10328,2023-03-07,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,10,0.15,7225.0,Enterprise,Wire Transfer,2023,3,Mar,2023-03,Q1,Tuesday
+TXN-10329,2023-05-18,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,1,0.2,480.0,Government,Credit Card,2023,5,May,2023-05,Q2,Thursday
+TXN-10330,2023-04-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,4,0.15,2040.0,Small & Medium Business,Credit Card,2023,4,Apr,2023-04,Q2,Saturday
+TXN-10331,2025-10-28,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,3,0.05,4275.0,Consumer,Corporate Invoice,2025,10,Oct,2025-10,Q4,Tuesday
+TXN-10332,2024-09-10,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,2,0.2,960.0,Government,Corporate Invoice,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10333,2023-05-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,5,0.2,1400.0,Government,PayPal,2023,5,May,2023-05,Q2,Friday
+TXN-10334,2024-12-06,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,20,0.15,20400.0,Consumer,PayPal,2024,12,Dec,2024-12,Q4,Friday
+TXN-10335,2023-11-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.15,7480.0,Government,Wire Transfer,2023,11,Nov,2023-11,Q4,Thursday
+TXN-10336,2024-09-07,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,10,0.05,5700.0,Enterprise,PayPal,2024,9,Sep,2024-09,Q3,Saturday
+TXN-10337,2025-12-21,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,5,0.15,4675.0,Consumer,Wire Transfer,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10338,2023-06-11,PROD-106,Smart Conference Hub,Electronics,950.0,North America,4,0.1,3420.0,Small & Medium Business,Credit Card,2023,6,Jun,2023-06,Q2,Sunday
+TXN-10339,2025-02-11,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.2,2240.0,Enterprise,Credit Card,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10340,2024-03-20,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.05,2280.0,Consumer,Credit Card,2024,3,Mar,2024-03,Q1,Wednesday
+TXN-10341,2024-01-25,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.0,4800.0,Small & Medium Business,Wire Transfer,2024,1,Jan,2024-01,Q1,Thursday
+TXN-10342,2024-05-05,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,5,0.1,4950.0,Government,PayPal,2024,5,May,2024-05,Q2,Sunday
+TXN-10343,2025-01-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,3,0.1,675.0,Government,PayPal,2025,1,Jan,2025-01,Q1,Sunday
+TXN-10344,2025-08-19,PROD-102,AI Analytics License,Software,850.0,Europe,10,0.1,7650.0,Consumer,Corporate Invoice,2025,8,Aug,2025-08,Q3,Tuesday
+TXN-10345,2023-04-04,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,5,0.05,5225.0,Enterprise,Corporate Invoice,2023,4,Apr,2023-04,Q2,Tuesday
+TXN-10346,2025-05-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,3,0.05,712.5,Consumer,Wire Transfer,2025,5,May,2025-05,Q2,Monday
+TXN-10347,2024-05-18,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.2,3520.0,Consumer,PayPal,2024,5,May,2024-05,Q2,Saturday
+TXN-10348,2025-08-01,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,2,0.1,1350.0,Small & Medium Business,PayPal,2025,8,Aug,2025-08,Q3,Friday
+TXN-10349,2023-05-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,5,0.0,7500.0,Enterprise,Credit Card,2023,5,May,2023-05,Q2,Monday
+TXN-10350,2023-10-09,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,10,0.05,10450.0,Small & Medium Business,Credit Card,2023,10,Oct,2023-10,Q4,Monday
+TXN-10351,2025-11-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,10,0.1,5400.0,Government,PayPal,2025,11,Nov,2025-11,Q4,Saturday
+TXN-10352,2023-01-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,5,0.2,4800.0,Enterprise,Credit Card,2023,1,Jan,2023-01,Q1,Saturday
+TXN-10353,2024-07-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,5,0.1,1125.0,Government,Wire Transfer,2024,7,Jul,2024-07,Q3,Tuesday
+TXN-10354,2023-07-17,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.05,4037.5,Small & Medium Business,Corporate Invoice,2023,7,Jul,2023-07,Q3,Monday
+TXN-10355,2024-07-01,PROD-106,Smart Conference Hub,Electronics,950.0,North America,10,0.15,8075.0,Consumer,PayPal,2024,7,Jul,2024-07,Q3,Monday
+TXN-10356,2024-05-13,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,8,0.05,5700.0,Enterprise,Credit Card,2024,5,May,2024-05,Q2,Monday
+TXN-10357,2025-04-10,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,4,0.15,2890.0,Government,Credit Card,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10358,2023-12-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,3,0.15,3060.0,Consumer,Credit Card,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10359,2023-03-29,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.05,475.0,Government,Corporate Invoice,2023,3,Mar,2023-03,Q1,Wednesday
+TXN-10360,2023-06-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,8,0.1,8640.0,Enterprise,Wire Transfer,2023,6,Jun,2023-06,Q2,Friday
+TXN-10361,2023-02-02,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.2,1520.0,Government,Credit Card,2023,2,Feb,2023-02,Q1,Thursday
+TXN-10362,2023-11-29,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,15,0.05,4987.5,Government,Corporate Invoice,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10363,2023-10-14,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,10,0.0,11000.0,Consumer,Credit Card,2023,10,Oct,2023-10,Q4,Saturday
+TXN-10364,2025-06-14,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.0,1700.0,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10365,2024-07-13,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,10,0.15,10200.0,Small & Medium Business,Corporate Invoice,2024,7,Jul,2024-07,Q3,Saturday
+TXN-10366,2025-02-07,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,4,0.05,950.0,Government,Credit Card,2025,2,Feb,2025-02,Q1,Friday
+TXN-10367,2024-08-27,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,10,0.05,30400.0,Enterprise,Corporate Invoice,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10368,2025-02-17,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.05,11400.0,Consumer,Corporate Invoice,2025,2,Feb,2025-02,Q1,Monday
+TXN-10369,2023-07-07,PROD-102,AI Analytics License,Software,850.0,Latin America,1,0.1,765.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Friday
+TXN-10370,2023-09-29,PROD-102,AI Analytics License,Software,850.0,Latin America,1,0.05,807.5,Government,PayPal,2023,9,Sep,2023-09,Q3,Friday
+TXN-10371,2023-02-23,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.1,765.0,Enterprise,Corporate Invoice,2023,2,Feb,2023-02,Q1,Thursday
+TXN-10372,2023-01-26,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,3,0.15,2805.0,Enterprise,Wire Transfer,2023,1,Jan,2023-01,Q1,Thursday
+TXN-10373,2025-12-03,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.15,13600.0,Small & Medium Business,Corporate Invoice,2025,12,Dec,2025-12,Q4,Wednesday
+TXN-10374,2024-07-03,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,4,0.05,1330.0,Small & Medium Business,PayPal,2024,7,Jul,2024-07,Q3,Wednesday
+TXN-10375,2025-05-12,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.15,892.5,Consumer,Corporate Invoice,2025,5,May,2025-05,Q2,Monday
+TXN-10376,2025-10-12,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,5,0.2,2400.0,Government,Credit Card,2025,10,Oct,2025-10,Q4,Sunday
+TXN-10377,2024-09-15,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,1,0.15,1275.0,Government,Corporate Invoice,2024,9,Sep,2024-09,Q3,Sunday
+TXN-10378,2024-11-16,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,10,0.2,6000.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10379,2024-02-16,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,4,0.1,11520.0,Government,Corporate Invoice,2024,2,Feb,2024-02,Q1,Friday
+TXN-10380,2025-10-02,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,5,0.05,1662.5,Government,Corporate Invoice,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10381,2025-01-17,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,1,0.2,880.0,Small & Medium Business,Credit Card,2025,1,Jan,2025-01,Q1,Friday
+TXN-10382,2024-03-05,PROD-108,Standing Executive Desk,Furniture,750.0,North America,4,0.1,2700.0,Government,PayPal,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10383,2024-09-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,2,0.1,2700.0,Government,PayPal,2024,9,Sep,2024-09,Q3,Thursday
+TXN-10384,2025-07-08,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,5,0.15,3612.5,Government,PayPal,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10385,2023-03-17,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.1,2250.0,Enterprise,Credit Card,2023,3,Mar,2023-03,Q1,Friday
+TXN-10386,2024-12-28,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.2,2400.0,Government,Corporate Invoice,2024,12,Dec,2024-12,Q4,Saturday
+TXN-10387,2023-08-05,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,1,0.0,1100.0,Small & Medium Business,Wire Transfer,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10388,2025-02-05,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,4,0.15,2550.0,Small & Medium Business,Corporate Invoice,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-10389,2025-09-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,1,0.1,1080.0,Enterprise,Credit Card,2025,9,Sep,2025-09,Q3,Monday
+TXN-10390,2024-12-14,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.1,10800.0,Small & Medium Business,PayPal,2024,12,Dec,2024-12,Q4,Saturday
+TXN-10391,2025-09-02,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.15,807.5,Consumer,Credit Card,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10392,2023-04-02,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,10,0.0,3500.0,Consumer,Credit Card,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10393,2024-05-14,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,5,0.05,7125.0,Small & Medium Business,Corporate Invoice,2024,5,May,2024-05,Q2,Tuesday
+TXN-10394,2025-05-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,4,0.05,950.0,Small & Medium Business,Wire Transfer,2025,5,May,2025-05,Q2,Friday
+TXN-10395,2025-03-21,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,1,0.2,880.0,Government,PayPal,2025,3,Mar,2025-03,Q1,Friday
+TXN-10396,2023-01-10,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.05,8360.0,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10397,2023-07-28,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,10,0.2,25600.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Friday
+TXN-10398,2025-07-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.1,540.0,Consumer,PayPal,2025,7,Jul,2025-07,Q3,Saturday
+TXN-10399,2025-03-14,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,5,0.0,16000.0,Consumer,PayPal,2025,3,Mar,2025-03,Q1,Friday
+TXN-10400,2023-12-20,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,20,0.1,57600.0,Enterprise,Wire Transfer,2023,12,Dec,2023-12,Q4,Wednesday
+TXN-10401,2023-08-30,PROD-106,Smart Conference Hub,Electronics,950.0,North America,2,0.1,1710.0,Small & Medium Business,Corporate Invoice,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10402,2025-11-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.15,12750.0,Small & Medium Business,PayPal,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10403,2024-01-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,4,0.2,3520.0,Small & Medium Business,PayPal,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-10404,2023-10-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.1,630.0,Enterprise,Corporate Invoice,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10405,2025-09-19,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,2,0.05,2280.0,Government,PayPal,2025,9,Sep,2025-09,Q3,Friday
+TXN-10406,2025-05-01,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,8,0.15,5100.0,Small & Medium Business,Credit Card,2025,5,May,2025-05,Q2,Thursday
+TXN-10407,2023-03-05,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,10,0.05,30400.0,Enterprise,Corporate Invoice,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10408,2024-08-14,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,2,0.15,1020.0,Government,Credit Card,2024,8,Aug,2024-08,Q3,Wednesday
+TXN-10409,2023-08-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,3,0.2,7680.0,Enterprise,PayPal,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10410,2024-03-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,4,0.0,1000.0,Consumer,Credit Card,2024,3,Mar,2024-03,Q1,Saturday
+TXN-10411,2024-06-22,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.0,2250.0,Enterprise,Wire Transfer,2024,6,Jun,2024-06,Q2,Saturday
+TXN-10412,2024-12-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,20,0.2,9600.0,Small & Medium Business,Wire Transfer,2024,12,Dec,2024-12,Q4,Thursday
+TXN-10413,2024-02-28,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,10,0.0,6000.0,Consumer,Corporate Invoice,2024,2,Feb,2024-02,Q1,Wednesday
+TXN-10414,2023-12-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.1,23040.0,Consumer,Credit Card,2023,12,Dec,2023-12,Q4,Monday
+TXN-10415,2025-04-22,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,1,0.1,1350.0,Small & Medium Business,Wire Transfer,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10416,2024-10-21,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,10,0.05,14250.0,Government,Wire Transfer,2024,10,Oct,2024-10,Q4,Monday
+TXN-10417,2024-07-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,8,0.15,21760.0,Government,Credit Card,2024,7,Jul,2024-07,Q3,Thursday
+TXN-10418,2025-04-05,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,5,0.1,3825.0,Government,PayPal,2025,4,Apr,2025-04,Q2,Saturday
+TXN-10419,2023-01-06,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.0,9500.0,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Friday
+TXN-10420,2025-03-25,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,2,0.15,425.0,Government,Corporate Invoice,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10421,2024-08-03,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,3,0.2,2280.0,Small & Medium Business,PayPal,2024,8,Aug,2024-08,Q3,Saturday
+TXN-10422,2023-04-10,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.0,950.0,Enterprise,Credit Card,2023,4,Apr,2023-04,Q2,Monday
+TXN-10423,2025-06-22,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,4,0.0,6000.0,Small & Medium Business,Wire Transfer,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10424,2023-11-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,8,0.0,2800.0,Consumer,Credit Card,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10425,2023-12-05,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.15,2422.5,Small & Medium Business,PayPal,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10426,2023-07-14,PROD-102,AI Analytics License,Software,850.0,Latin America,1,0.05,807.5,Enterprise,Wire Transfer,2023,7,Jul,2023-07,Q3,Friday
+TXN-10427,2024-04-08,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,5,0.15,13600.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Monday
+TXN-10428,2025-05-14,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.05,6460.0,Enterprise,Wire Transfer,2025,5,May,2025-05,Q2,Wednesday
+TXN-10429,2023-07-02,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,8,0.0,8800.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10430,2023-10-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,4,0.05,1330.0,Enterprise,Credit Card,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10431,2023-12-03,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,10,0.1,28800.0,Small & Medium Business,PayPal,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10432,2025-06-25,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,10,0.05,30400.0,Enterprise,Wire Transfer,2025,6,Jun,2025-06,Q2,Wednesday
+TXN-10433,2025-02-25,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,3,0.15,2167.5,Small & Medium Business,Unspecified,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10434,2023-06-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.2,560.0,Consumer,Credit Card,2023,6,Jun,2023-06,Q2,Thursday
+TXN-10435,2024-02-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,5,0.2,1400.0,Small & Medium Business,PayPal,2024,2,Feb,2024-02,Q1,Sunday
+TXN-10436,2023-04-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,10,0.05,3325.0,Government,Credit Card,2023,4,Apr,2023-04,Q2,Saturday
+TXN-10437,2025-10-20,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,8,0.2,3840.0,Enterprise,Corporate Invoice,2025,10,Oct,2025-10,Q4,Monday
+TXN-10438,2023-09-28,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,4,0.2,3040.0,Consumer,Wire Transfer,2023,9,Sep,2023-09,Q3,Thursday
+TXN-10439,2023-05-30,PROD-108,Standing Executive Desk,Furniture,750.0,North America,1,0.2,600.0,Enterprise,Corporate Invoice,2023,5,May,2023-05,Q2,Tuesday
+TXN-10440,2023-03-23,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,1,0.15,510.0,Consumer,PayPal,2023,3,Mar,2023-03,Q1,Thursday
+TXN-10441,2025-04-03,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.2,880.0,Small & Medium Business,Corporate Invoice,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10442,2024-09-26,PROD-102,AI Analytics License,Software,850.0,Europe,1,0.2,680.0,Small & Medium Business,Corporate Invoice,2024,9,Sep,2024-09,Q3,Thursday
+TXN-10443,2023-05-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,3,0.15,2805.0,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Tuesday
+TXN-10444,2025-06-08,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.15,722.5,Enterprise,Corporate Invoice,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10445,2023-09-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,1,0.05,1425.0,Small & Medium Business,PayPal,2023,9,Sep,2023-09,Q3,Saturday
+TXN-10446,2025-12-07,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,15,0.1,12825.0,Consumer,Wire Transfer,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10447,2023-08-30,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,10,0.0,3500.0,Government,Corporate Invoice,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10448,2023-05-11,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.2,600.0,Government,PayPal,2023,5,May,2023-05,Q2,Thursday
+TXN-10449,2025-01-07,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,1,0.15,212.5,Small & Medium Business,Corporate Invoice,2025,1,Jan,2025-01,Q1,Tuesday
+TXN-10450,2024-06-06,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.0,15000.0,Enterprise,Wire Transfer,2024,6,Jun,2024-06,Q2,Thursday
+TXN-10451,2023-01-06,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,1,0.0,250.0,Enterprise,PayPal,2023,1,Jan,2023-01,Q1,Friday
+TXN-10452,2025-02-23,PROD-106,Smart Conference Hub,Electronics,950.0,North America,2,0.05,1805.0,Government,Wire Transfer,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10453,2024-05-23,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,4,0.1,3420.0,Enterprise,Corporate Invoice,2024,5,May,2024-05,Q2,Thursday
+TXN-10454,2025-10-25,PROD-102,AI Analytics License,Software,850.0,Europe,8,0.0,6800.0,Small & Medium Business,Credit Card,2025,10,Oct,2025-10,Q4,Saturday
+TXN-10455,2023-05-22,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.1,3960.0,Consumer,Credit Card,2023,5,May,2023-05,Q2,Monday
+TXN-10456,2025-07-24,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,1,0.1,225.0,Consumer,Corporate Invoice,2025,7,Jul,2025-07,Q3,Thursday
+TXN-10457,2024-05-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,4,0.1,11520.0,Government,Wire Transfer,2024,5,May,2024-05,Q2,Saturday
+TXN-10458,2024-05-17,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,2,0.0,500.0,Enterprise,Wire Transfer,2024,5,May,2024-05,Q2,Friday
+TXN-10459,2024-12-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,20,0.0,5000.0,Enterprise,PayPal,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10460,2023-08-01,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,2,0.2,560.0,Government,PayPal,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10461,2023-10-19,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,8,0.1,8640.0,Enterprise,Wire Transfer,2023,10,Oct,2023-10,Q4,Thursday
+TXN-10462,2025-04-25,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,8,0.1,1800.0,Enterprise,Credit Card,2025,4,Apr,2025-04,Q2,Friday
+TXN-10463,2023-10-01,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.15,1700.0,Enterprise,PayPal,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10464,2024-04-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,3,0.1,4050.0,Government,Corporate Invoice,2024,4,Apr,2024-04,Q2,Monday
+TXN-10465,2025-07-16,PROD-106,Smart Conference Hub,Electronics,950.0,North America,3,0.05,2707.5,Small & Medium Business,Wire Transfer,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10466,2023-08-12,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,2,0.0,6400.0,Government,PayPal,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10467,2025-04-12,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,1,0.2,760.0,Small & Medium Business,PayPal,2025,4,Apr,2025-04,Q2,Saturday
+TXN-10468,2025-08-06,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.0,1050.0,Small & Medium Business,Corporate Invoice,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-10469,2023-03-24,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,2,0.1,5760.0,Enterprise,Wire Transfer,2023,3,Mar,2023-03,Q1,Friday
+TXN-10470,2025-03-22,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,5,0.0,4750.0,Consumer,Wire Transfer,2025,3,Mar,2025-03,Q1,Saturday
+TXN-10471,2025-04-08,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,10,0.15,10200.0,Small & Medium Business,Credit Card,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10472,2023-07-28,PROD-108,Standing Executive Desk,Furniture,750.0,North America,10,0.05,7125.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Friday
+TXN-10473,2023-09-25,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,2,0.15,1020.0,Enterprise,Corporate Invoice,2023,9,Sep,2023-09,Q3,Monday
+TXN-10474,2023-02-14,PROD-102,AI Analytics License,Software,850.0,Latin America,1,0.05,807.5,Small & Medium Business,Credit Card,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-10475,2023-09-08,PROD-106,Smart Conference Hub,Electronics,950.0,North America,1,0.15,807.5,Small & Medium Business,PayPal,2023,9,Sep,2023-09,Q3,Friday
+TXN-10476,2025-10-13,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,1,0.15,935.0,Small & Medium Business,Corporate Invoice,2025,10,Oct,2025-10,Q4,Monday
+TXN-10477,2024-01-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,3,0.1,1620.0,Small & Medium Business,Credit Card,2024,1,Jan,2024-01,Q1,Friday
+TXN-10478,2024-05-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,8,0.1,23040.0,Government,PayPal,2024,5,May,2024-05,Q2,Saturday
+TXN-10479,2023-06-29,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,3,0.15,3060.0,Government,Wire Transfer,2023,6,Jun,2023-06,Q2,Thursday
+TXN-10480,2024-05-25,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.2,1600.0,Government,Corporate Invoice,2024,5,May,2024-05,Q2,Saturday
+TXN-10481,2025-09-19,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,3,0.2,1800.0,Consumer,PayPal,2025,9,Sep,2025-09,Q3,Friday
+TXN-10482,2024-01-04,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,1,0.1,315.0,Small & Medium Business,Credit Card,2024,1,Jan,2024-01,Q1,Thursday
+TXN-10483,2023-04-30,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,10,0.15,2975.0,Consumer,Wire Transfer,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10484,2023-07-25,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,2,0.05,2850.0,Enterprise,Wire Transfer,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-10485,2025-03-06,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,3,0.05,9120.0,Small & Medium Business,Corporate Invoice,2025,3,Mar,2025-03,Q1,Thursday
+TXN-10486,2023-02-27,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,8,0.1,6840.0,Small & Medium Business,Wire Transfer,2023,2,Feb,2023-02,Q1,Monday
+TXN-10487,2024-09-24,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.15,1275.0,Enterprise,Credit Card,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10488,2024-03-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.2,480.0,Enterprise,Corporate Invoice,2024,3,Mar,2024-03,Q1,Sunday
+TXN-10489,2024-02-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,10,0.05,30400.0,Small & Medium Business,Corporate Invoice,2024,2,Feb,2024-02,Q1,Saturday
+TXN-10490,2023-02-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,2,0.2,1920.0,Enterprise,Corporate Invoice,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-10491,2025-02-04,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,8,0.15,5780.0,Enterprise,Corporate Invoice,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10492,2024-10-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.05,665.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Tuesday
+TXN-10493,2024-12-31,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.2,6000.0,Government,Corporate Invoice,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10494,2023-09-18,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.0,700.0,Government,Credit Card,2023,9,Sep,2023-09,Q3,Monday
+TXN-10495,2024-10-13,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.2,12000.0,Enterprise,PayPal,2024,10,Oct,2024-10,Q4,Sunday
+TXN-10496,2024-11-09,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,20,0.0,30000.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10497,2023-07-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,10,0.1,13500.0,Enterprise,Corporate Invoice,2023,7,Jul,2023-07,Q3,Saturday
+TXN-10498,2024-05-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,8,0.0,4800.0,Consumer,Credit Card,2024,5,May,2024-05,Q2,Sunday
+TXN-10499,2023-04-09,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,4,0.15,4080.0,Small & Medium Business,PayPal,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10500,2025-02-14,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.2,1800.0,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Friday
+TXN-10501,2024-04-06,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,2,0.15,5440.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Saturday
+TXN-10502,2024-10-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,3,0.0,3600.0,Consumer,Wire Transfer,2024,10,Oct,2024-10,Q4,Monday
+TXN-10503,2023-11-26,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,20,0.0,22000.0,Enterprise,Corporate Invoice,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10504,2025-09-15,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,8,0.0,25600.0,Small & Medium Business,PayPal,2025,9,Sep,2025-09,Q3,Monday
+TXN-10505,2023-04-20,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,1,0.1,1350.0,Small & Medium Business,PayPal,2023,4,Apr,2023-04,Q2,Thursday
+TXN-10506,2024-06-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,8,0.1,1800.0,Small & Medium Business,Credit Card,2024,6,Jun,2024-06,Q2,Thursday
+TXN-10507,2025-03-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,5,0.2,4800.0,Small & Medium Business,Credit Card,2025,3,Mar,2025-03,Q1,Saturday
+TXN-10508,2023-01-08,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,4,0.0,3800.0,Government,Wire Transfer,2023,1,Jan,2023-01,Q1,Sunday
+TXN-10509,2023-02-22,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.05,1615.0,Enterprise,PayPal,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10510,2024-09-23,PROD-102,AI Analytics License,Software,850.0,Latin America,10,0.15,7225.0,Government,Corporate Invoice,2024,9,Sep,2024-09,Q3,Monday
+TXN-10511,2025-03-04,PROD-102,AI Analytics License,Software,850.0,Latin America,2,0.1,1530.0,Consumer,Wire Transfer,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10512,2023-04-02,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.15,1912.5,Consumer,Wire Transfer,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10513,2023-05-07,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,2,0.0,700.0,Consumer,PayPal,2023,5,May,2023-05,Q2,Sunday
+TXN-10514,2024-04-10,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,5,0.0,16000.0,Government,PayPal,2024,4,Apr,2024-04,Q2,Wednesday
+TXN-10515,2024-04-27,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,4,0.1,11520.0,Government,Credit Card,2024,4,Apr,2024-04,Q2,Saturday
+TXN-10516,2025-11-24,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,15,0.2,3000.0,Enterprise,PayPal,2025,11,Nov,2025-11,Q4,Monday
+TXN-10517,2023-12-09,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.05,7125.0,Enterprise,PayPal,2023,12,Dec,2023-12,Q4,Saturday
+TXN-10518,2025-06-10,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,2,0.05,1615.0,Consumer,Corporate Invoice,2025,6,Jun,2025-06,Q2,Tuesday
+TXN-10519,2023-06-28,PROD-102,AI Analytics License,Software,850.0,Latin America,4,0.2,2720.0,Consumer,Corporate Invoice,2023,6,Jun,2023-06,Q2,Wednesday
+TXN-10520,2025-07-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.0,2500.0,Government,Credit Card,2025,7,Jul,2025-07,Q3,Sunday
+TXN-10521,2023-11-03,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.2,4400.0,Enterprise,Credit Card,2023,11,Nov,2023-11,Q4,Friday
+TXN-10522,2023-07-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,10,0.1,28800.0,Consumer,PayPal,2023,7,Jul,2023-07,Q3,Wednesday
+TXN-10523,2025-02-23,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.15,2380.0,Government,Credit Card,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10524,2024-07-18,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,4,0.05,5700.0,Government,Credit Card,2024,7,Jul,2024-07,Q3,Thursday
+TXN-10525,2024-11-09,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,20,0.05,20900.0,Government,Corporate Invoice,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10526,2023-02-11,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.1,2565.0,Consumer,PayPal,2023,2,Feb,2023-02,Q1,Saturday
+TXN-10527,2024-04-11,PROD-102,AI Analytics License,Software,850.0,Latin America,2,0.1,1530.0,Consumer,Corporate Invoice,2024,4,Apr,2024-04,Q2,Thursday
+TXN-10528,2023-07-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,2,0.15,1870.0,Government,PayPal,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10529,2025-02-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.0,2500.0,Small & Medium Business,Credit Card,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10530,2025-11-03,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,10,0.05,3325.0,Enterprise,Wire Transfer,2025,11,Nov,2025-11,Q4,Monday
+TXN-10531,2024-02-16,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,10,0.0,6000.0,Enterprise,PayPal,2024,2,Feb,2024-02,Q1,Friday
+TXN-10532,2025-01-08,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,8,0.05,9120.0,Consumer,PayPal,2025,1,Jan,2025-01,Q1,Wednesday
+TXN-10533,2025-03-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.0,2000.0,Small & Medium Business,Corporate Invoice,2025,3,Mar,2025-03,Q1,Sunday
+TXN-10534,2025-07-02,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.15,1275.0,Consumer,Corporate Invoice,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10535,2024-06-13,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,8,0.0,12000.0,Enterprise,PayPal,2024,6,Jun,2024-06,Q2,Thursday
+TXN-10536,2023-11-30,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,15,0.05,17100.0,Small & Medium Business,Wire Transfer,2023,11,Nov,2023-11,Q4,Thursday
+TXN-10537,2025-04-18,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,5,0.0,1750.0,Government,Wire Transfer,2025,4,Apr,2025-04,Q2,Friday
+TXN-10538,2023-01-18,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,2,0.1,2700.0,Consumer,Corporate Invoice,2023,1,Jan,2023-01,Q1,Wednesday
+TXN-10539,2025-02-10,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,10,0.1,9900.0,Consumer,Wire Transfer,2025,2,Feb,2025-02,Q1,Monday
+TXN-10540,2024-09-10,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,8,0.2,4800.0,Government,Credit Card,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10541,2025-11-13,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,20,0.1,21600.0,Consumer,Corporate Invoice,2025,11,Nov,2025-11,Q4,Thursday
+TXN-10542,2025-09-13,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,1,0.1,765.0,Consumer,Corporate Invoice,2025,9,Sep,2025-09,Q3,Saturday
+TXN-10543,2024-09-03,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.05,665.0,Small & Medium Business,Credit Card,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10544,2025-04-07,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,8,0.1,23040.0,Enterprise,PayPal,2025,4,Apr,2025-04,Q2,Monday
+TXN-10545,2024-06-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,4,0.15,1190.0,Enterprise,Wire Transfer,2024,6,Jun,2024-06,Q2,Saturday
+TXN-10546,2024-03-31,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.2,6080.0,Consumer,Corporate Invoice,2024,3,Mar,2024-03,Q1,Sunday
+TXN-10547,2024-01-06,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,3,0.0,4500.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Saturday
+TXN-10548,2024-01-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.1,1800.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Wednesday
+TXN-10549,2024-09-20,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.1,2160.0,Consumer,Corporate Invoice,2024,9,Sep,2024-09,Q3,Friday
+TXN-10550,2023-08-30,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,4,0.0,3000.0,Enterprise,PayPal,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10551,2025-10-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,1,0.15,510.0,Consumer,PayPal,2025,10,Oct,2025-10,Q4,Tuesday
+TXN-10552,2023-11-05,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,5,0.05,5700.0,Government,PayPal,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10553,2024-10-09,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,10,0.05,14250.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Wednesday
+TXN-10554,2024-10-03,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,8,0.0,12000.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Thursday
+TXN-10555,2023-12-12,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,15,0.05,8550.0,Enterprise,Wire Transfer,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10556,2025-06-07,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,8,0.15,21760.0,Government,PayPal,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10557,2023-01-10,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,1,0.2,880.0,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10558,2025-12-23,PROD-106,Smart Conference Hub,Electronics,950.0,North America,5,0.0,4750.0,Small & Medium Business,Wire Transfer,2025,12,Dec,2025-12,Q4,Tuesday
+TXN-10559,2024-10-01,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,2,0.0,1900.0,Consumer,Wire Transfer,2024,10,Oct,2024-10,Q4,Tuesday
+TXN-10560,2023-04-04,PROD-102,AI Analytics License,Software,850.0,Latin America,3,0.1,2295.0,Consumer,PayPal,2023,4,Apr,2023-04,Q2,Tuesday
+TXN-10561,2024-12-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.1,13500.0,Small & Medium Business,PayPal,2024,12,Dec,2024-12,Q4,Monday
+TXN-10562,2024-04-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,2,0.05,2280.0,Enterprise,Wire Transfer,2024,4,Apr,2024-04,Q2,Friday
+TXN-10563,2025-01-20,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.0,6800.0,Consumer,Credit Card,2025,1,Jan,2025-01,Q1,Monday
+TXN-10564,2023-04-09,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,8,0.0,25600.0,Enterprise,Credit Card,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10565,2025-06-28,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,4,0.0,4400.0,Consumer,PayPal,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10566,2024-02-25,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,8,0.0,12000.0,Government,Credit Card,2024,2,Feb,2024-02,Q1,Sunday
+TXN-10567,2024-07-06,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,5,0.2,1000.0,Government,Credit Card,2024,7,Jul,2024-07,Q3,Saturday
+TXN-10568,2023-08-30,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.0,750.0,Government,Wire Transfer,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10569,2024-02-14,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,10,0.1,28800.0,Small & Medium Business,Corporate Invoice,2024,2,Feb,2024-02,Q1,Wednesday
+TXN-10570,2024-08-27,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,2,0.0,2200.0,Government,Wire Transfer,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10571,2024-11-08,PROD-108,Standing Executive Desk,Furniture,750.0,North America,5,0.0,3750.0,Enterprise,Credit Card,2024,11,Nov,2024-11,Q4,Friday
+TXN-10572,2025-10-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,2,0.0,6400.0,Enterprise,Credit Card,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10573,2024-04-18,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,4,0.1,1260.0,Government,Credit Card,2024,4,Apr,2024-04,Q2,Thursday
+TXN-10574,2023-12-24,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,3,0.1,2295.0,Consumer,PayPal,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10575,2023-07-14,PROD-102,AI Analytics License,Software,850.0,North America,10,0.0,8500.0,Small & Medium Business,Wire Transfer,2023,7,Jul,2023-07,Q3,Friday
+TXN-10576,2025-01-02,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,4,0.2,3040.0,Enterprise,Corporate Invoice,2025,1,Jan,2025-01,Q1,Thursday
+TXN-10577,2024-01-10,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,1,0.15,807.5,Government,Corporate Invoice,2024,1,Jan,2024-01,Q1,Wednesday
+TXN-10578,2025-09-06,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,10,0.15,9350.0,Enterprise,Wire Transfer,2025,9,Sep,2025-09,Q3,Saturday
+TXN-10579,2023-11-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.15,3060.0,Government,PayPal,2023,11,Nov,2023-11,Q4,Thursday
+TXN-10580,2025-02-16,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.1,13500.0,Enterprise,Wire Transfer,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10581,2025-09-26,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,1,0.15,637.5,Enterprise,Credit Card,2025,9,Sep,2025-09,Q3,Friday
+TXN-10582,2024-10-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,1,0.2,280.0,Small & Medium Business,Corporate Invoice,2024,10,Oct,2024-10,Q4,Saturday
+TXN-10583,2025-12-07,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,20,0.2,4000.0,Government,Wire Transfer,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10584,2024-12-09,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,20,0.15,12750.0,Enterprise,Credit Card,2024,12,Dec,2024-12,Q4,Monday
+TXN-10585,2025-11-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.15,12750.0,Enterprise,PayPal,2025,11,Nov,2025-11,Q4,Saturday
+TXN-10586,2024-05-08,PROD-106,Smart Conference Hub,Electronics,950.0,North America,3,0.1,2565.0,Small & Medium Business,PayPal,2024,5,May,2024-05,Q2,Wednesday
+TXN-10587,2024-04-26,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,1,0.15,935.0,Government,Credit Card,2024,4,Apr,2024-04,Q2,Friday
+TXN-10588,2025-07-04,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.0,2250.0,Enterprise,Credit Card,2025,7,Jul,2025-07,Q3,Friday
+TXN-10589,2025-04-24,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.2,880.0,Enterprise,Credit Card,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10590,2024-09-15,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.2,12800.0,Government,Corporate Invoice,2024,9,Sep,2024-09,Q3,Sunday
+TXN-10591,2023-04-22,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.05,9025.0,Consumer,PayPal,2023,4,Apr,2023-04,Q2,Saturday
+TXN-10592,2025-07-15,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,1,0.0,950.0,Enterprise,Corporate Invoice,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10593,2024-08-20,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,5,0.2,3800.0,Enterprise,Credit Card,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10594,2025-10-05,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,2,0.15,2550.0,Consumer,Wire Transfer,2025,10,Oct,2025-10,Q4,Sunday
+TXN-10595,2023-09-05,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,10,0.15,5100.0,Government,Wire Transfer,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10596,2023-08-09,PROD-106,Smart Conference Hub,Electronics,950.0,North America,10,0.15,8075.0,Enterprise,PayPal,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10597,2025-10-29,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.15,1275.0,Enterprise,PayPal,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10598,2025-09-16,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,5,0.05,15200.0,Small & Medium Business,Wire Transfer,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10599,2025-03-04,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,8,0.2,5440.0,Consumer,PayPal,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10600,2024-05-23,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,3,0.15,2805.0,Consumer,PayPal,2024,5,May,2024-05,Q2,Thursday
+TXN-10601,2023-10-10,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,4,0.2,4800.0,Consumer,Corporate Invoice,2023,10,Oct,2023-10,Q4,Tuesday
+TXN-10602,2024-03-21,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.05,475.0,Consumer,Corporate Invoice,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10603,2023-12-31,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,15,0.2,18000.0,Enterprise,Corporate Invoice,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10604,2025-09-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,5,0.2,1000.0,Consumer,PayPal,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10605,2025-12-06,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,3,0.0,3600.0,Small & Medium Business,Credit Card,2025,12,Dec,2025-12,Q4,Saturday
+TXN-10606,2024-02-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,3,0.05,3420.0,Consumer,Wire Transfer,2024,2,Feb,2024-02,Q1,Wednesday
+TXN-10607,2024-08-27,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,2,0.2,1920.0,Consumer,PayPal,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10608,2024-04-04,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.2,5440.0,Small & Medium Business,Corporate Invoice,2024,4,Apr,2024-04,Q2,Thursday
+TXN-10609,2025-02-20,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,4,0.15,4080.0,Enterprise,Credit Card,2025,2,Feb,2025-02,Q1,Thursday
+TXN-10610,2024-02-20,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,5,0.15,1487.5,Consumer,Wire Transfer,2024,2,Feb,2024-02,Q1,Tuesday
+TXN-10611,2024-08-25,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,4,0.05,2280.0,Small & Medium Business,Wire Transfer,2024,8,Aug,2024-08,Q3,Sunday
+TXN-10612,2023-09-02,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,4,0.0,1000.0,Consumer,Corporate Invoice,2023,9,Sep,2023-09,Q3,Saturday
+TXN-10613,2023-11-26,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,15,0.1,20250.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10614,2023-03-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,2,0.1,2700.0,Enterprise,Corporate Invoice,2023,3,Mar,2023-03,Q1,Thursday
+TXN-10615,2025-01-03,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,1,0.1,675.0,Small & Medium Business,Wire Transfer,2025,1,Jan,2025-01,Q1,Friday
+TXN-10616,2023-05-20,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,10,0.2,2000.0,Government,PayPal,2023,5,May,2023-05,Q2,Saturday
+TXN-10617,2024-12-16,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,5,0.05,4037.5,Consumer,Corporate Invoice,2024,12,Dec,2024-12,Q4,Monday
+TXN-10618,2024-03-23,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,10,0.2,2800.0,Government,Credit Card,2024,3,Mar,2024-03,Q1,Saturday
+TXN-10619,2024-12-09,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,10,0.05,8075.0,Small & Medium Business,Credit Card,2024,12,Dec,2024-12,Q4,Monday
+TXN-10620,2025-02-20,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.0,9500.0,Consumer,Corporate Invoice,2025,2,Feb,2025-02,Q1,Thursday
+TXN-10621,2025-11-24,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,8,0.2,7680.0,Government,PayPal,2025,11,Nov,2025-11,Q4,Monday
+TXN-10622,2024-08-30,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,8,0.05,9120.0,Enterprise,Credit Card,2024,8,Aug,2024-08,Q3,Friday
+TXN-10623,2025-12-28,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,3,0.0,4500.0,Small & Medium Business,PayPal,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10624,2024-02-26,PROD-102,AI Analytics License,Software,850.0,North America,5,0.15,3612.5,Small & Medium Business,Credit Card,2024,2,Feb,2024-02,Q1,Monday
+TXN-10625,2024-11-10,PROD-108,Standing Executive Desk,Furniture,750.0,North America,3,0.0,2250.0,Enterprise,Wire Transfer,2024,11,Nov,2024-11,Q4,Sunday
+TXN-10626,2023-05-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,5,0.05,1662.5,Government,PayPal,2023,5,May,2023-05,Q2,Thursday
+TXN-10627,2025-04-08,PROD-108,Standing Executive Desk,Furniture,750.0,North America,4,0.1,2700.0,Government,Credit Card,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10628,2023-01-13,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,8,0.2,1600.0,Enterprise,Credit Card,2023,1,Jan,2023-01,Q1,Friday
+TXN-10629,2025-10-26,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,1,0.1,855.0,Enterprise,Corporate Invoice,2025,10,Oct,2025-10,Q4,Sunday
+TXN-10630,2025-02-20,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,4,0.0,3000.0,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Thursday
+TXN-10631,2025-03-11,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,10,0.2,12000.0,Small & Medium Business,Corporate Invoice,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10632,2023-01-23,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,5,0.2,3800.0,Enterprise,Credit Card,2023,1,Jan,2023-01,Q1,Monday
+TXN-10633,2025-03-18,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,5,0.2,4800.0,Consumer,Wire Transfer,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10634,2024-03-09,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,4,0.2,3040.0,Small & Medium Business,Wire Transfer,2024,3,Mar,2024-03,Q1,Saturday
+TXN-10635,2024-06-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,2,0.0,1200.0,Enterprise,PayPal,2024,6,Jun,2024-06,Q2,Saturday
+TXN-10636,2023-05-30,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,3,0.0,750.0,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Tuesday
+TXN-10637,2025-09-24,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,3,0.1,8640.0,Small & Medium Business,Credit Card,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10638,2023-05-23,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.1,630.0,Government,Corporate Invoice,2023,5,May,2023-05,Q2,Tuesday
+TXN-10639,2024-09-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,8,0.2,20480.0,Consumer,Corporate Invoice,2024,9,Sep,2024-09,Q3,Wednesday
+TXN-10640,2023-12-12,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,3,0.1,2970.0,Small & Medium Business,PayPal,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10641,2025-01-06,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.1,630.0,Government,PayPal,2025,1,Jan,2025-01,Q1,Monday
+TXN-10642,2024-09-17,PROD-106,Smart Conference Hub,Electronics,950.0,North America,4,0.2,3040.0,Small & Medium Business,Credit Card,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10643,2023-10-14,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,5,0.05,1662.5,Enterprise,Credit Card,2023,10,Oct,2023-10,Q4,Saturday
+TXN-10644,2025-11-04,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,20,0.0,24000.0,Government,Wire Transfer,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10645,2024-06-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,5,0.2,4800.0,Small & Medium Business,Corporate Invoice,2024,6,Jun,2024-06,Q2,Monday
+TXN-10646,2024-04-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,10,0.2,8800.0,Small & Medium Business,PayPal,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10647,2025-11-11,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,3,0.15,637.5,Enterprise,Wire Transfer,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10648,2023-12-06,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,15,0.05,45600.0,Small & Medium Business,Wire Transfer,2023,12,Dec,2023-12,Q4,Wednesday
+TXN-10649,2023-10-27,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.15,21760.0,Enterprise,Wire Transfer,2023,10,Oct,2023-10,Q4,Friday
+TXN-10650,2024-04-19,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.1,675.0,Small & Medium Business,Credit Card,2024,4,Apr,2024-04,Q2,Friday
+TXN-10651,2025-11-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.15,4080.0,Government,Credit Card,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10652,2024-10-25,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,1,0.2,960.0,Consumer,Wire Transfer,2024,10,Oct,2024-10,Q4,Friday
+TXN-10653,2025-02-14,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,3,0.2,2640.0,Consumer,Unspecified,2025,2,Feb,2025-02,Q1,Friday
+TXN-10654,2025-11-23,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,10,0.1,5400.0,Government,PayPal,2025,11,Nov,2025-11,Q4,Sunday
+TXN-10655,2023-01-14,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,5,0.05,15200.0,Small & Medium Business,Wire Transfer,2023,1,Jan,2023-01,Q1,Saturday
+TXN-10656,2025-11-19,PROD-102,AI Analytics License,Software,850.0,Europe,20,0.1,15300.0,Small & Medium Business,Wire Transfer,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10657,2025-01-11,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.0,7500.0,Government,Corporate Invoice,2025,1,Jan,2025-01,Q1,Saturday
+TXN-10658,2025-09-13,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.15,5780.0,Small & Medium Business,Wire Transfer,2025,9,Sep,2025-09,Q3,Saturday
+TXN-10659,2023-02-15,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,2,0.0,2200.0,Small & Medium Business,Wire Transfer,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10660,2023-03-22,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,5,0.05,1187.5,Small & Medium Business,Corporate Invoice,2023,3,Mar,2023-03,Q1,Wednesday
+TXN-10661,2025-11-24,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.2,12000.0,Enterprise,Corporate Invoice,2025,11,Nov,2025-11,Q4,Monday
+TXN-10662,2024-03-19,PROD-102,AI Analytics License,Software,850.0,Latin America,4,0.2,2720.0,Government,Wire Transfer,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10663,2025-04-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,5,0.05,2850.0,Small & Medium Business,Corporate Invoice,2025,4,Apr,2025-04,Q2,Monday
+TXN-10664,2024-12-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.2,12000.0,Enterprise,Wire Transfer,2024,12,Dec,2024-12,Q4,Monday
+TXN-10665,2025-02-28,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,2,0.0,2200.0,Small & Medium Business,PayPal,2025,2,Feb,2025-02,Q1,Friday
+TXN-10666,2023-07-17,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,2,0.15,2550.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Monday
+TXN-10667,2025-09-14,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,8,0.05,6460.0,Enterprise,PayPal,2025,9,Sep,2025-09,Q3,Sunday
+TXN-10668,2025-05-11,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,3,0.0,750.0,Government,Wire Transfer,2025,5,May,2025-05,Q2,Sunday
+TXN-10669,2025-02-19,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,3,0.2,1800.0,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-10670,2024-06-05,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,4,0.05,5700.0,Consumer,PayPal,2024,6,Jun,2024-06,Q2,Wednesday
+TXN-10671,2024-01-23,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,1,0.0,350.0,Enterprise,Credit Card,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-10672,2024-02-25,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,8,0.1,7920.0,Consumer,Credit Card,2024,2,Feb,2024-02,Q1,Sunday
+TXN-10673,2025-05-22,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,8,0.2,9600.0,Consumer,PayPal,2025,5,May,2025-05,Q2,Thursday
+TXN-10674,2025-01-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,5,0.1,14400.0,Small & Medium Business,PayPal,2025,1,Jan,2025-01,Q1,Saturday
+TXN-10675,2025-09-15,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.1,450.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Monday
+TXN-10676,2024-12-06,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,20,0.15,5950.0,Enterprise,Wire Transfer,2024,12,Dec,2024-12,Q4,Friday
+TXN-10677,2023-11-28,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,3,0.05,2137.5,Government,Corporate Invoice,2023,11,Nov,2023-11,Q4,Tuesday
+TXN-10678,2023-04-17,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,2,0.15,425.0,Enterprise,Wire Transfer,2023,4,Apr,2023-04,Q2,Monday
+TXN-10679,2025-06-10,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.0,750.0,Small & Medium Business,Corporate Invoice,2025,6,Jun,2025-06,Q2,Tuesday
+TXN-10680,2023-03-19,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.15,5780.0,Consumer,Credit Card,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10681,2025-10-09,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,4,0.0,6000.0,Consumer,Wire Transfer,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10682,2025-11-11,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,15,0.05,17100.0,Small & Medium Business,Credit Card,2025,11,Nov,2025-11,Q4,Tuesday
+TXN-10683,2024-05-04,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,8,0.0,7600.0,Enterprise,Corporate Invoice,2024,5,May,2024-05,Q2,Saturday
+TXN-10684,2024-12-24,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,20,0.15,18700.0,Small & Medium Business,Credit Card,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10685,2023-07-04,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,5,0.1,3825.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-10686,2024-04-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,5,0.05,1662.5,Government,Credit Card,2024,4,Apr,2024-04,Q2,Monday
+TXN-10687,2023-12-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,10,0.2,2800.0,Enterprise,Corporate Invoice,2023,12,Dec,2023-12,Q4,Monday
+TXN-10688,2023-08-28,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,10,0.2,7600.0,Consumer,PayPal,2023,8,Aug,2023-08,Q3,Monday
+TXN-10689,2025-09-17,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,10,0.05,10450.0,Government,PayPal,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10690,2023-02-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,4,0.0,12800.0,Enterprise,PayPal,2023,2,Feb,2023-02,Q1,Sunday
+TXN-10691,2024-04-15,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,10,0.1,5400.0,Consumer,Credit Card,2024,4,Apr,2024-04,Q2,Monday
+TXN-10692,2024-05-23,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,3,0.0,1050.0,Consumer,Credit Card,2024,5,May,2024-05,Q2,Thursday
+TXN-10693,2024-01-01,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,4,0.1,900.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Monday
+TXN-10694,2024-01-25,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,4,0.05,5700.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Thursday
+TXN-10695,2024-04-14,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,2,0.05,1140.0,Consumer,Wire Transfer,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10696,2023-09-03,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.15,722.5,Enterprise,Credit Card,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10697,2025-01-30,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,5,0.1,3375.0,Consumer,PayPal,2025,1,Jan,2025-01,Q1,Thursday
+TXN-10698,2025-11-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,8,0.15,10200.0,Small & Medium Business,Credit Card,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10699,2025-05-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,4,0.2,800.0,Consumer,PayPal,2025,5,May,2025-05,Q2,Friday
+TXN-10700,2025-07-25,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,1,0.2,1200.0,Consumer,Credit Card,2025,7,Jul,2025-07,Q3,Friday
+TXN-10701,2024-03-07,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,4,0.2,3840.0,Consumer,Corporate Invoice,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10702,2024-06-15,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,2,0.2,5120.0,Small & Medium Business,Corporate Invoice,2024,6,Jun,2024-06,Q2,Saturday
+TXN-10703,2024-12-03,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,8,0.05,5700.0,Government,Wire Transfer,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10704,2025-02-01,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,3,0.15,2805.0,Government,Wire Transfer,2025,2,Feb,2025-02,Q1,Saturday
+TXN-10705,2023-09-26,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,5,0.05,15200.0,Consumer,Wire Transfer,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10706,2025-06-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,10,0.15,2125.0,Small & Medium Business,Wire Transfer,2025,6,Jun,2025-06,Q2,Wednesday
+TXN-10707,2023-01-20,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,2,0.15,1275.0,Small & Medium Business,Corporate Invoice,2023,1,Jan,2023-01,Q1,Friday
+TXN-10708,2024-09-06,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,3,0.2,1800.0,Enterprise,PayPal,2024,9,Sep,2024-09,Q3,Friday
+TXN-10709,2023-12-01,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,3,0.05,2422.5,Government,Credit Card,2023,12,Dec,2023-12,Q4,Friday
+TXN-10710,2024-11-16,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,8,0.1,5400.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10711,2025-04-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,1,0.1,1080.0,Small & Medium Business,Wire Transfer,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10712,2024-12-28,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,8,0.2,2240.0,Government,Credit Card,2024,12,Dec,2024-12,Q4,Saturday
+TXN-10713,2024-08-09,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,4,0.05,4180.0,Consumer,PayPal,2024,8,Aug,2024-08,Q3,Friday
+TXN-10714,2025-04-08,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,10,0.0,32000.0,Small & Medium Business,Corporate Invoice,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10715,2024-10-04,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,3,0.1,1620.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Friday
+TXN-10716,2025-01-13,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,8,0.2,4800.0,Government,PayPal,2025,1,Jan,2025-01,Q1,Monday
+TXN-10717,2024-01-12,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.0,15000.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Friday
+TXN-10718,2024-03-07,PROD-102,AI Analytics License,Software,850.0,North America,2,0.15,1445.0,Enterprise,Credit Card,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10719,2023-04-21,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,1,0.15,637.5,Enterprise,Credit Card,2023,4,Apr,2023-04,Q2,Friday
+TXN-10720,2023-11-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,3,0.15,892.5,Small & Medium Business,Wire Transfer,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10721,2025-06-26,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.05,2660.0,Small & Medium Business,Credit Card,2025,6,Jun,2025-06,Q2,Thursday
+TXN-10722,2024-12-31,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,8,0.15,8160.0,Consumer,PayPal,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10723,2023-12-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,15,0.2,18000.0,Government,Corporate Invoice,2023,12,Dec,2023-12,Q4,Friday
+TXN-10724,2025-09-13,PROD-106,Smart Conference Hub,Electronics,950.0,North America,5,0.05,4512.5,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Saturday
+TXN-10725,2025-04-24,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.05,2707.5,Enterprise,Credit Card,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10726,2023-10-07,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.1,675.0,Enterprise,PayPal,2023,10,Oct,2023-10,Q4,Saturday
+TXN-10727,2024-09-05,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.15,637.5,Small & Medium Business,Credit Card,2024,9,Sep,2024-09,Q3,Thursday
+TXN-10728,2025-02-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.15,425.0,Government,PayPal,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10729,2023-12-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,20,0.15,10200.0,Small & Medium Business,Corporate Invoice,2023,12,Dec,2023-12,Q4,Friday
+TXN-10730,2025-05-14,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,8,0.05,6460.0,Consumer,Corporate Invoice,2025,5,May,2025-05,Q2,Wednesday
+TXN-10731,2024-07-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,4,0.05,950.0,Small & Medium Business,Wire Transfer,2024,7,Jul,2024-07,Q3,Thursday
+TXN-10732,2023-08-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,8,0.15,2380.0,Government,Corporate Invoice,2023,8,Aug,2023-08,Q3,Tuesday
+TXN-10733,2025-10-04,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,2,0.1,5760.0,Small & Medium Business,Credit Card,2025,10,Oct,2025-10,Q4,Saturday
+TXN-10734,2023-02-15,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,2,0.0,500.0,Consumer,Wire Transfer,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10735,2023-01-17,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,2,0.0,1500.0,Enterprise,PayPal,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10736,2024-12-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,10,0.1,5400.0,Consumer,PayPal,2024,12,Dec,2024-12,Q4,Sunday
+TXN-10737,2024-11-07,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,3,0.05,3420.0,Consumer,PayPal,2024,11,Nov,2024-11,Q4,Thursday
+TXN-10738,2025-08-20,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,2,0.05,1615.0,Government,Credit Card,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-10739,2024-05-24,PROD-102,AI Analytics License,Software,850.0,Europe,4,0.15,2890.0,Enterprise,Wire Transfer,2024,5,May,2024-05,Q2,Friday
+TXN-10740,2023-07-12,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,5,0.05,3562.5,Government,Corporate Invoice,2023,7,Jul,2023-07,Q3,Wednesday
+TXN-10741,2023-11-21,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,20,0.0,19000.0,Enterprise,Corporate Invoice,2023,11,Nov,2023-11,Q4,Tuesday
+TXN-10742,2024-09-03,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.1,1350.0,Small & Medium Business,Credit Card,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10743,2025-06-08,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,3,0.0,1800.0,Consumer,Credit Card,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10744,2024-05-12,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.0,1100.0,Government,Wire Transfer,2024,5,May,2024-05,Q2,Sunday
+TXN-10745,2023-07-03,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,2,0.05,1805.0,Enterprise,Corporate Invoice,2023,7,Jul,2023-07,Q3,Monday
+TXN-10746,2023-05-03,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,3,0.05,3420.0,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Wednesday
+TXN-10747,2024-04-21,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,3,0.2,1800.0,Government,Wire Transfer,2024,4,Apr,2024-04,Q2,Sunday
+TXN-10748,2025-02-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,3,0.05,3420.0,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-10749,2024-08-26,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,5,0.15,3187.5,Small & Medium Business,Corporate Invoice,2024,8,Aug,2024-08,Q3,Monday
+TXN-10750,2025-08-17,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,3,0.2,2280.0,Small & Medium Business,Credit Card,2025,8,Aug,2025-08,Q3,Sunday
+TXN-10751,2023-11-14,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,10,0.1,2250.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Tuesday
+TXN-10752,2025-11-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,10,0.05,11400.0,Consumer,Wire Transfer,2025,11,Nov,2025-11,Q4,Sunday
+TXN-10753,2023-05-10,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.2,6080.0,Small & Medium Business,PayPal,2023,5,May,2023-05,Q2,Wednesday
+TXN-10754,2023-11-12,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,15,0.1,3375.0,Government,Corporate Invoice,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10755,2023-07-17,PROD-102,AI Analytics License,Software,850.0,North America,5,0.0,4250.0,Small & Medium Business,Wire Transfer,2023,7,Jul,2023-07,Q3,Monday
+TXN-10756,2024-02-18,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,1,0.15,1020.0,Enterprise,Credit Card,2024,2,Feb,2024-02,Q1,Sunday
+TXN-10757,2025-03-06,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,8,0.15,21760.0,Consumer,Credit Card,2025,3,Mar,2025-03,Q1,Thursday
+TXN-10758,2024-03-28,PROD-106,Smart Conference Hub,Electronics,950.0,North America,5,0.0,4750.0,Small & Medium Business,PayPal,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10759,2025-08-16,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,10,0.0,8500.0,Government,Corporate Invoice,2025,8,Aug,2025-08,Q3,Saturday
+TXN-10760,2024-06-28,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,5,0.0,6000.0,Consumer,Credit Card,2024,6,Jun,2024-06,Q2,Friday
+TXN-10761,2025-11-29,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,3,0.0,1800.0,Government,Wire Transfer,2025,11,Nov,2025-11,Q4,Saturday
+TXN-10762,2025-12-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,20,0.05,11400.0,Small & Medium Business,PayPal,2025,12,Dec,2025-12,Q4,Saturday
+TXN-10763,2025-01-03,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.15,5780.0,Enterprise,Wire Transfer,2025,1,Jan,2025-01,Q1,Friday
+TXN-10764,2025-04-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.1,6750.0,Government,Corporate Invoice,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10765,2024-10-26,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.1,8550.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Saturday
+TXN-10766,2024-05-07,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.2,12800.0,Government,Corporate Invoice,2024,5,May,2024-05,Q2,Tuesday
+TXN-10767,2025-07-15,PROD-106,Smart Conference Hub,Electronics,950.0,North America,4,0.15,3230.0,Enterprise,Corporate Invoice,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10768,2023-02-03,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,5,0.05,15200.0,Enterprise,Corporate Invoice,2023,2,Feb,2023-02,Q1,Friday
+TXN-10769,2024-03-15,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,10,0.1,5400.0,Consumer,Wire Transfer,2024,3,Mar,2024-03,Q1,Friday
+TXN-10770,2023-03-19,PROD-102,AI Analytics License,Software,850.0,Europe,4,0.1,3060.0,Small & Medium Business,Corporate Invoice,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10771,2024-05-26,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,2,0.1,1710.0,Enterprise,PayPal,2024,5,May,2024-05,Q2,Sunday
+TXN-10772,2024-03-21,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.0,25600.0,Government,Wire Transfer,2024,3,Mar,2024-03,Q1,Thursday
+TXN-10773,2023-07-15,PROD-108,Standing Executive Desk,Furniture,750.0,North America,5,0.1,3375.0,Government,Credit Card,2023,7,Jul,2023-07,Q3,Saturday
+TXN-10774,2024-11-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,8,0.15,8160.0,Enterprise,Wire Transfer,2024,11,Nov,2024-11,Q4,Friday
+TXN-10775,2023-01-24,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,8,0.15,21760.0,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10776,2023-11-03,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,8,0.2,6080.0,Small & Medium Business,Credit Card,2023,11,Nov,2023-11,Q4,Friday
+TXN-10777,2025-07-01,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,10,0.2,8800.0,Enterprise,Wire Transfer,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10778,2024-08-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,10,0.15,9350.0,Small & Medium Business,Corporate Invoice,2024,8,Aug,2024-08,Q3,Friday
+TXN-10779,2025-09-01,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,5,0.0,4250.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Monday
+TXN-10780,2025-03-27,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.15,3612.5,Small & Medium Business,PayPal,2025,3,Mar,2025-03,Q1,Thursday
+TXN-10781,2024-02-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,4,0.15,850.0,Small & Medium Business,Wire Transfer,2024,2,Feb,2024-02,Q1,Saturday
+TXN-10782,2023-05-27,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,3,0.15,1530.0,Enterprise,Credit Card,2023,5,May,2023-05,Q2,Saturday
+TXN-10783,2025-05-17,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,3,0.1,2970.0,Consumer,Corporate Invoice,2025,5,May,2025-05,Q2,Saturday
+TXN-10784,2023-02-19,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,10,0.1,28800.0,Consumer,PayPal,2023,2,Feb,2023-02,Q1,Sunday
+TXN-10785,2023-10-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,4,0.0,12800.0,Small & Medium Business,Corporate Invoice,2023,10,Oct,2023-10,Q4,Thursday
+TXN-10786,2023-06-25,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,1,0.0,1500.0,Small & Medium Business,Corporate Invoice,2023,6,Jun,2023-06,Q2,Sunday
+TXN-10787,2024-12-04,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,20,0.0,24000.0,Government,PayPal,2024,12,Dec,2024-12,Q4,Wednesday
+TXN-10788,2024-11-10,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,5,0.2,4800.0,Small & Medium Business,Corporate Invoice,2024,11,Nov,2024-11,Q4,Sunday
+TXN-10789,2025-09-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,5,0.05,1187.5,Government,Credit Card,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10790,2023-12-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,3,0.1,945.0,Consumer,Credit Card,2023,12,Dec,2023-12,Q4,Friday
+TXN-10791,2023-01-18,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.15,637.5,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Wednesday
+TXN-10792,2024-08-22,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,10,0.15,10200.0,Government,Credit Card,2024,8,Aug,2024-08,Q3,Thursday
+TXN-10793,2025-09-19,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,10,0.2,7600.0,Enterprise,Wire Transfer,2025,9,Sep,2025-09,Q3,Friday
+TXN-10794,2025-10-22,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,4,0.2,1920.0,Enterprise,Wire Transfer,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10795,2024-09-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.15,637.5,Small & Medium Business,Credit Card,2024,9,Sep,2024-09,Q3,Monday
+TXN-10796,2024-12-21,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,8,0.1,6840.0,Consumer,Credit Card,2024,12,Dec,2024-12,Q4,Saturday
+TXN-10797,2025-03-03,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,10,0.0,3500.0,Consumer,Wire Transfer,2025,3,Mar,2025-03,Q1,Monday
+TXN-10798,2024-11-30,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,10,0.05,14250.0,Government,Wire Transfer,2024,11,Nov,2024-11,Q4,Saturday
+TXN-10799,2024-05-07,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,5,0.05,5225.0,Consumer,Corporate Invoice,2024,5,May,2024-05,Q2,Tuesday
+TXN-10800,2023-09-27,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.05,1425.0,Small & Medium Business,Wire Transfer,2023,9,Sep,2023-09,Q3,Wednesday
+TXN-10801,2025-12-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,5,0.15,1487.5,Small & Medium Business,Corporate Invoice,2025,12,Dec,2025-12,Q4,Monday
+TXN-10802,2025-12-27,PROD-102,AI Analytics License,Software,850.0,Europe,20,0.0,17000.0,Consumer,Wire Transfer,2025,12,Dec,2025-12,Q4,Saturday
+TXN-10803,2024-10-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,4,0.15,4080.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Monday
+TXN-10804,2024-01-20,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,1,0.05,1425.0,Enterprise,Corporate Invoice,2024,1,Jan,2024-01,Q1,Saturday
+TXN-10805,2024-04-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.05,15200.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Wednesday
+TXN-10806,2025-09-03,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,2,0.2,1360.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Wednesday
+TXN-10807,2025-03-04,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,4,0.15,5100.0,Small & Medium Business,Wire Transfer,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10808,2023-03-08,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.0,2400.0,Government,Wire Transfer,2023,3,Mar,2023-03,Q1,Wednesday
+TXN-10809,2024-02-23,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.05,570.0,Government,Corporate Invoice,2024,2,Feb,2024-02,Q1,Friday
+TXN-10810,2024-05-20,PROD-108,Standing Executive Desk,Furniture,750.0,North America,4,0.15,2550.0,Government,Corporate Invoice,2024,5,May,2024-05,Q2,Monday
+TXN-10811,2025-12-11,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,20,0.0,22000.0,Enterprise,PayPal,2025,12,Dec,2025-12,Q4,Thursday
+TXN-10812,2023-03-28,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,2,0.2,1200.0,Government,Credit Card,2023,3,Mar,2023-03,Q1,Tuesday
+TXN-10813,2025-03-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,5,0.0,1250.0,Consumer,PayPal,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10814,2024-09-15,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,10,0.1,9900.0,Small & Medium Business,PayPal,2024,9,Sep,2024-09,Q3,Sunday
+TXN-10815,2023-04-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.2,2240.0,Government,PayPal,2023,4,Apr,2023-04,Q2,Saturday
+TXN-10816,2025-10-22,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.05,807.5,Small & Medium Business,PayPal,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10817,2024-10-24,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,4,0.0,4400.0,Government,Wire Transfer,2024,10,Oct,2024-10,Q4,Thursday
+TXN-10818,2023-07-04,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,3,0.1,2025.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-10819,2025-07-09,PROD-102,AI Analytics License,Software,850.0,North America,8,0.1,6120.0,Government,Wire Transfer,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10820,2025-02-18,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,1,0.05,1045.0,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Tuesday
+TXN-10821,2024-01-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,10,0.0,15000.0,Consumer,Corporate Invoice,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-10822,2024-08-14,PROD-108,Standing Executive Desk,Furniture,750.0,North America,8,0.05,5700.0,Small & Medium Business,Wire Transfer,2024,8,Aug,2024-08,Q3,Wednesday
+TXN-10823,2024-06-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,1,0.15,1020.0,Government,Credit Card,2024,6,Jun,2024-06,Q2,Sunday
+TXN-10824,2025-10-07,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,2,0.05,6080.0,Government,PayPal,2025,10,Oct,2025-10,Q4,Tuesday
+TXN-10825,2025-06-23,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.2,880.0,Enterprise,Wire Transfer,2025,6,Jun,2025-06,Q2,Monday
+TXN-10826,2024-07-23,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,5,0.2,1000.0,Enterprise,Wire Transfer,2024,7,Jul,2024-07,Q3,Tuesday
+TXN-10827,2023-04-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,8,0.1,10800.0,Small & Medium Business,Credit Card,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10828,2024-09-03,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,3,0.0,9600.0,Enterprise,PayPal,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10829,2023-11-27,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,20,0.1,27000.0,Small & Medium Business,PayPal,2023,11,Nov,2023-11,Q4,Monday
+TXN-10830,2025-01-07,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,1,0.0,3200.0,Consumer,Corporate Invoice,2025,1,Jan,2025-01,Q1,Tuesday
+TXN-10831,2023-05-19,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,10,0.15,9350.0,Enterprise,Corporate Invoice,2023,5,May,2023-05,Q2,Friday
+TXN-10832,2023-10-03,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.1,675.0,Government,Wire Transfer,2023,10,Oct,2023-10,Q4,Tuesday
+TXN-10833,2023-04-30,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,1,0.2,480.0,Enterprise,PayPal,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10834,2024-08-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,4,0.2,10240.0,Consumer,Corporate Invoice,2024,8,Aug,2024-08,Q3,Sunday
+TXN-10835,2025-10-13,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,5,0.15,6375.0,Small & Medium Business,Wire Transfer,2025,10,Oct,2025-10,Q4,Monday
+TXN-10836,2024-02-01,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,1,0.0,350.0,Government,Credit Card,2024,2,Feb,2024-02,Q1,Thursday
+TXN-10837,2025-04-29,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.0,2400.0,Consumer,Wire Transfer,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-10838,2024-02-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,8,0.1,8640.0,Enterprise,Corporate Invoice,2024,2,Feb,2024-02,Q1,Saturday
+TXN-10839,2025-11-03,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,15,0.1,4725.0,Enterprise,Corporate Invoice,2025,11,Nov,2025-11,Q4,Monday
+TXN-10840,2025-03-22,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,8,0.2,6080.0,Enterprise,Wire Transfer,2025,3,Mar,2025-03,Q1,Saturday
+TXN-10841,2024-11-07,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.15,4080.0,Enterprise,Wire Transfer,2024,11,Nov,2024-11,Q4,Thursday
+TXN-10842,2023-11-15,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,20,0.15,12750.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10843,2023-04-25,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,10,0.2,8800.0,Consumer,Credit Card,2023,4,Apr,2023-04,Q2,Tuesday
+TXN-10844,2024-11-10,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,8,0.0,4800.0,Consumer,Credit Card,2024,11,Nov,2024-11,Q4,Sunday
+TXN-10845,2025-02-07,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,8,0.2,6080.0,Government,Wire Transfer,2025,2,Feb,2025-02,Q1,Friday
+TXN-10846,2023-08-28,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,10,0.1,28800.0,Enterprise,Corporate Invoice,2023,8,Aug,2023-08,Q3,Monday
+TXN-10847,2023-06-27,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.05,4180.0,Government,Corporate Invoice,2023,6,Jun,2023-06,Q2,Tuesday
+TXN-10848,2025-12-11,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,8,0.05,4560.0,Consumer,Credit Card,2025,12,Dec,2025-12,Q4,Thursday
+TXN-10849,2023-07-09,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,4,0.2,1920.0,Government,Wire Transfer,2023,7,Jul,2023-07,Q3,Sunday
+TXN-10850,2024-11-27,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,10,0.2,4800.0,Consumer,Wire Transfer,2024,11,Nov,2024-11,Q4,Wednesday
+TXN-10851,2025-11-23,PROD-102,AI Analytics License,Software,850.0,Europe,20,0.05,16150.0,Enterprise,PayPal,2025,11,Nov,2025-11,Q4,Sunday
+TXN-10852,2025-12-05,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,3,0.0,3300.0,Enterprise,Credit Card,2025,12,Dec,2025-12,Q4,Friday
+TXN-10853,2025-08-14,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,1,0.0,950.0,Consumer,Credit Card,2025,8,Aug,2025-08,Q3,Thursday
+TXN-10854,2024-10-01,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.05,24320.0,Small & Medium Business,Wire Transfer,2024,10,Oct,2024-10,Q4,Tuesday
+TXN-10855,2024-07-20,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,5,0.1,1575.0,Enterprise,Corporate Invoice,2024,7,Jul,2024-07,Q3,Saturday
+TXN-10856,2023-11-19,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,8,0.0,12000.0,Enterprise,Wire Transfer,2023,11,Nov,2023-11,Q4,Sunday
+TXN-10857,2024-12-18,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,15,0.1,3375.0,Small & Medium Business,Corporate Invoice,2024,12,Dec,2024-12,Q4,Wednesday
+TXN-10858,2024-05-16,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,2,0.0,6400.0,Consumer,PayPal,2024,5,May,2024-05,Q2,Thursday
+TXN-10859,2023-09-24,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,1,0.15,1020.0,Enterprise,PayPal,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10860,2023-06-26,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,4,0.15,4080.0,Government,Corporate Invoice,2023,6,Jun,2023-06,Q2,Monday
+TXN-10861,2024-11-11,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,5,0.2,1400.0,Government,Wire Transfer,2024,11,Nov,2024-11,Q4,Monday
+TXN-10862,2025-08-17,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,1,0.15,722.5,Government,PayPal,2025,8,Aug,2025-08,Q3,Sunday
+TXN-10863,2024-04-03,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,2,0.2,960.0,Consumer,PayPal,2024,4,Apr,2024-04,Q2,Wednesday
+TXN-10864,2024-11-07,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.15,10200.0,Enterprise,Credit Card,2024,11,Nov,2024-11,Q4,Thursday
+TXN-10865,2023-08-20,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,3,0.15,1912.5,Small & Medium Business,Corporate Invoice,2023,8,Aug,2023-08,Q3,Sunday
+TXN-10866,2023-09-18,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,5,0.0,4750.0,Enterprise,Corporate Invoice,2023,9,Sep,2023-09,Q3,Monday
+TXN-10867,2023-05-26,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.1,2250.0,Government,PayPal,2023,5,May,2023-05,Q2,Friday
+TXN-10868,2025-04-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,2,0.2,5120.0,Small & Medium Business,PayPal,2025,4,Apr,2025-04,Q2,Saturday
+TXN-10869,2023-05-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,3,0.05,3135.0,Government,PayPal,2023,5,May,2023-05,Q2,Tuesday
+TXN-10870,2024-12-01,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,15,0.05,45600.0,Enterprise,PayPal,2024,12,Dec,2024-12,Q4,Sunday
+TXN-10871,2025-08-06,PROD-102,AI Analytics License,Software,850.0,North America,3,0.2,2040.0,Government,Wire Transfer,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-10872,2025-04-11,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,1,0.2,280.0,Government,Corporate Invoice,2025,4,Apr,2025-04,Q2,Friday
+TXN-10873,2023-05-06,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,1,0.05,712.5,Enterprise,Wire Transfer,2023,5,May,2023-05,Q2,Saturday
+TXN-10874,2025-07-16,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,5,0.1,6750.0,Government,Wire Transfer,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10875,2024-10-10,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,3,0.2,1440.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Thursday
+TXN-10876,2023-01-17,PROD-102,AI Analytics License,Software,850.0,Latin America,5,0.2,3400.0,Small & Medium Business,Corporate Invoice,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10877,2025-01-26,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,5,0.0,6000.0,Consumer,Credit Card,2025,1,Jan,2025-01,Q1,Sunday
+TXN-10878,2023-03-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.15,595.0,Government,Corporate Invoice,2023,3,Mar,2023-03,Q1,Sunday
+TXN-10879,2025-04-11,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,4,0.15,3740.0,Small & Medium Business,Wire Transfer,2025,4,Apr,2025-04,Q2,Friday
+TXN-10880,2023-10-12,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,2,0.2,1200.0,Consumer,PayPal,2023,10,Oct,2023-10,Q4,Thursday
+TXN-10881,2024-08-13,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.05,14250.0,Enterprise,Credit Card,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-10882,2023-10-22,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,8,0.15,8160.0,Small & Medium Business,Credit Card,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10883,2025-05-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.15,12750.0,Government,Wire Transfer,2025,5,May,2025-05,Q2,Thursday
+TXN-10884,2025-11-09,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,10,0.2,6000.0,Government,Corporate Invoice,2025,11,Nov,2025-11,Q4,Sunday
+TXN-10885,2024-01-16,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,4,0.2,1920.0,Government,Wire Transfer,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-10886,2024-07-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,4,0.2,800.0,Consumer,Credit Card,2024,7,Jul,2024-07,Q3,Friday
+TXN-10887,2025-09-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,8,0.1,8640.0,Government,Credit Card,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10888,2025-12-14,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,8,0.15,10200.0,Enterprise,Credit Card,2025,12,Dec,2025-12,Q4,Sunday
+TXN-10889,2025-08-25,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,8,0.0,4800.0,Consumer,Credit Card,2025,8,Aug,2025-08,Q3,Monday
+TXN-10890,2025-12-31,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,3,0.15,2422.5,Government,Corporate Invoice,2025,12,Dec,2025-12,Q4,Wednesday
+TXN-10891,2024-12-23,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.1,7920.0,Enterprise,Corporate Invoice,2024,12,Dec,2024-12,Q4,Monday
+TXN-10892,2024-06-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,1,0.15,2720.0,Small & Medium Business,Credit Card,2024,6,Jun,2024-06,Q2,Monday
+TXN-10893,2023-02-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.15,892.5,Small & Medium Business,Credit Card,2023,2,Feb,2023-02,Q1,Saturday
+TXN-10894,2024-05-31,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,2,0.2,560.0,Consumer,Corporate Invoice,2024,5,May,2024-05,Q2,Friday
+TXN-10895,2023-08-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,5,0.05,5700.0,Small & Medium Business,PayPal,2023,8,Aug,2023-08,Q3,Thursday
+TXN-10896,2023-12-26,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.05,7220.0,Small & Medium Business,Credit Card,2023,12,Dec,2023-12,Q4,Tuesday
+TXN-10897,2023-06-22,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.2,1520.0,Government,PayPal,2023,6,Jun,2023-06,Q2,Thursday
+TXN-10898,2024-05-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,8,0.15,7480.0,Small & Medium Business,Corporate Invoice,2024,5,May,2024-05,Q2,Thursday
+TXN-10899,2024-06-25,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,10,0.0,12000.0,Small & Medium Business,PayPal,2024,6,Jun,2024-06,Q2,Tuesday
+TXN-10900,2025-09-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,3,0.15,2805.0,Small & Medium Business,PayPal,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10901,2025-08-29,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,3,0.05,3135.0,Government,Credit Card,2025,8,Aug,2025-08,Q3,Friday
+TXN-10902,2025-07-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,4,0.1,1260.0,Enterprise,Credit Card,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-10903,2024-12-25,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,10,0.2,2000.0,Consumer,Corporate Invoice,2024,12,Dec,2024-12,Q4,Wednesday
+TXN-10904,2023-07-21,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,3,0.2,840.0,Government,Wire Transfer,2023,7,Jul,2023-07,Q3,Friday
+TXN-10905,2024-02-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.1,14400.0,Consumer,Credit Card,2024,2,Feb,2024-02,Q1,Sunday
+TXN-10906,2023-05-20,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,1,0.15,1020.0,Enterprise,PayPal,2023,5,May,2023-05,Q2,Saturday
+TXN-10907,2024-03-25,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,8,0.1,6840.0,Small & Medium Business,Credit Card,2024,3,Mar,2024-03,Q1,Monday
+TXN-10908,2023-07-08,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,1,0.2,960.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Saturday
+TXN-10909,2023-09-24,PROD-102,AI Analytics License,Software,850.0,Europe,4,0.2,2720.0,Enterprise,Wire Transfer,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10910,2024-08-26,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,4,0.0,1400.0,Consumer,PayPal,2024,8,Aug,2024-08,Q3,Monday
+TXN-10911,2024-06-11,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,2,0.0,1900.0,Enterprise,PayPal,2024,6,Jun,2024-06,Q2,Tuesday
+TXN-10912,2024-11-12,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,3,0.1,2970.0,Small & Medium Business,PayPal,2024,11,Nov,2024-11,Q4,Tuesday
+TXN-10913,2025-10-04,PROD-102,AI Analytics License,Software,850.0,Latin America,2,0.2,1360.0,Small & Medium Business,PayPal,2025,10,Oct,2025-10,Q4,Saturday
+TXN-10914,2023-10-22,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.15,3612.5,Enterprise,PayPal,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10915,2023-07-31,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,1,0.0,350.0,Consumer,PayPal,2023,7,Jul,2023-07,Q3,Monday
+TXN-10916,2025-10-16,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,2,0.0,2400.0,Government,Corporate Invoice,2025,10,Oct,2025-10,Q4,Thursday
+TXN-10917,2024-11-06,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,10,0.2,12000.0,Government,PayPal,2024,11,Nov,2024-11,Q4,Wednesday
+TXN-10918,2025-04-07,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,10,0.0,11000.0,Small & Medium Business,Credit Card,2025,4,Apr,2025-04,Q2,Monday
+TXN-10919,2025-09-14,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.2,880.0,Consumer,Corporate Invoice,2025,9,Sep,2025-09,Q3,Sunday
+TXN-10920,2025-03-31,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,1,0.0,350.0,Consumer,Credit Card,2025,3,Mar,2025-03,Q1,Monday
+TXN-10921,2024-08-16,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,8,0.05,5700.0,Enterprise,PayPal,2024,8,Aug,2024-08,Q3,Friday
+TXN-10922,2024-09-04,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,8,0.15,4080.0,Consumer,PayPal,2024,9,Sep,2024-09,Q3,Wednesday
+TXN-10923,2025-06-15,PROD-102,AI Analytics License,Software,850.0,Europe,8,0.05,6460.0,Enterprise,Wire Transfer,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10924,2024-05-03,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,4,0.15,4080.0,Consumer,PayPal,2024,5,May,2024-05,Q2,Friday
+TXN-10925,2025-07-09,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,1,0.0,250.0,Enterprise,Corporate Invoice,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-10926,2025-04-10,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,1,0.05,1140.0,Government,Wire Transfer,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10927,2024-04-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,1,0.0,3200.0,Government,Credit Card,2024,4,Apr,2024-04,Q2,Monday
+TXN-10928,2023-04-04,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.05,1425.0,Small & Medium Business,Credit Card,2023,4,Apr,2023-04,Q2,Tuesday
+TXN-10929,2023-07-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,4,0.2,1120.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Wednesday
+TXN-10930,2025-10-15,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.2,3400.0,Enterprise,Wire Transfer,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10931,2024-11-21,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,20,0.15,18700.0,Enterprise,Wire Transfer,2024,11,Nov,2024-11,Q4,Thursday
+TXN-10932,2024-03-12,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,10,0.0,9500.0,Small & Medium Business,Corporate Invoice,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10933,2023-09-05,PROD-102,AI Analytics License,Software,850.0,Latin America,3,0.05,2422.5,Small & Medium Business,Corporate Invoice,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-10934,2023-12-04,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.05,2375.0,Enterprise,Wire Transfer,2023,12,Dec,2023-12,Q4,Monday
+TXN-10935,2025-02-09,PROD-102,AI Analytics License,Software,850.0,North America,10,0.05,8075.0,Government,Credit Card,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10936,2023-01-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,2,0.0,2400.0,Consumer,PayPal,2023,1,Jan,2023-01,Q1,Sunday
+TXN-10937,2023-09-17,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,2,0.05,1425.0,Government,PayPal,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10938,2023-12-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,15,0.0,9000.0,Small & Medium Business,PayPal,2023,12,Dec,2023-12,Q4,Sunday
+TXN-10939,2023-06-30,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.1,23040.0,Government,Credit Card,2023,6,Jun,2023-06,Q2,Friday
+TXN-10940,2024-04-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.0,500.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Saturday
+TXN-10941,2025-11-05,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,5,0.15,1062.5,Consumer,Credit Card,2025,11,Nov,2025-11,Q4,Wednesday
+TXN-10942,2023-08-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,10,0.05,5700.0,Government,Wire Transfer,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10943,2023-03-30,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,1,0.1,1350.0,Small & Medium Business,PayPal,2023,3,Mar,2023-03,Q1,Thursday
+TXN-10944,2024-11-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,15,0.15,4462.5,Enterprise,Unspecified,2024,11,Nov,2024-11,Q4,Friday
+TXN-10945,2023-12-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,5,0.0,1250.0,Enterprise,Credit Card,2023,12,Dec,2023-12,Q4,Wednesday
+TXN-10946,2025-06-29,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,5,0.2,2400.0,Government,Wire Transfer,2025,6,Jun,2025-06,Q2,Sunday
+TXN-10947,2024-04-16,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,10,0.0,9500.0,Small & Medium Business,Credit Card,2024,4,Apr,2024-04,Q2,Tuesday
+TXN-10948,2025-04-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,10,0.05,5700.0,Small & Medium Business,Credit Card,2025,4,Apr,2025-04,Q2,Thursday
+TXN-10949,2025-09-19,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,1,0.15,637.5,Small & Medium Business,PayPal,2025,9,Sep,2025-09,Q3,Friday
+TXN-10950,2025-03-04,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,3,0.05,4275.0,Small & Medium Business,Corporate Invoice,2025,3,Mar,2025-03,Q1,Tuesday
+TXN-10951,2024-02-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.05,997.5,Enterprise,Corporate Invoice,2024,2,Feb,2024-02,Q1,Monday
+TXN-10952,2023-08-16,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,10,0.15,12750.0,Government,Wire Transfer,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-10953,2024-03-26,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,3,0.2,2280.0,Small & Medium Business,Wire Transfer,2024,3,Mar,2024-03,Q1,Tuesday
+TXN-10954,2025-04-23,PROD-102,AI Analytics License,Software,850.0,Latin America,10,0.2,6800.0,Small & Medium Business,PayPal,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10955,2024-07-25,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,1,0.15,637.5,Small & Medium Business,Corporate Invoice,2024,7,Jul,2024-07,Q3,Thursday
+TXN-10956,2024-03-31,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.05,5225.0,Enterprise,PayPal,2024,3,Mar,2024-03,Q1,Sunday
+TXN-10957,2023-03-24,PROD-101,Enterprise Cloud Suite,Software,1200.0,North America,4,0.2,3840.0,Government,PayPal,2023,3,Mar,2023-03,Q1,Friday
+TXN-10958,2023-07-20,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,4,0.15,2550.0,Enterprise,Credit Card,2023,7,Jul,2023-07,Q3,Thursday
+TXN-10959,2024-03-22,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,2,0.1,1980.0,Small & Medium Business,Credit Card,2024,3,Mar,2024-03,Q1,Friday
+TXN-10960,2025-09-09,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,8,0.1,8640.0,Government,Credit Card,2025,9,Sep,2025-09,Q3,Tuesday
+TXN-10961,2025-08-07,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,10,0.05,7125.0,Small & Medium Business,Corporate Invoice,2025,8,Aug,2025-08,Q3,Thursday
+TXN-10962,2023-01-03,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,10,0.0,7500.0,Consumer,Credit Card,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-10963,2025-05-22,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,10,0.1,3150.0,Small & Medium Business,Credit Card,2025,5,May,2025-05,Q2,Thursday
+TXN-10964,2024-11-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,20,0.0,64000.0,Consumer,Credit Card,2024,11,Nov,2024-11,Q4,Monday
+TXN-10965,2025-02-23,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,3,0.15,2167.5,Enterprise,Corporate Invoice,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10966,2023-12-25,PROD-106,Smart Conference Hub,Electronics,950.0,North America,20,0.2,15200.0,Small & Medium Business,Wire Transfer,2023,12,Dec,2023-12,Q4,Monday
+TXN-10967,2024-05-03,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,5,0.0,4750.0,Small & Medium Business,Wire Transfer,2024,5,May,2024-05,Q2,Friday
+TXN-10968,2024-12-23,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.2,6080.0,Consumer,Credit Card,2024,12,Dec,2024-12,Q4,Monday
+TXN-10969,2025-02-02,PROD-102,AI Analytics License,Software,850.0,Latin America,3,0.15,2167.5,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Sunday
+TXN-10970,2025-12-27,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,8,0.15,1700.0,Consumer,Credit Card,2025,12,Dec,2025-12,Q4,Saturday
+TXN-10971,2025-07-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.0,600.0,Small & Medium Business,Corporate Invoice,2025,7,Jul,2025-07,Q3,Saturday
+TXN-10972,2023-08-12,PROD-102,AI Analytics License,Software,850.0,North America,2,0.1,1530.0,Small & Medium Business,PayPal,2023,8,Aug,2023-08,Q3,Saturday
+TXN-10973,2024-02-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,5,0.0,7500.0,Government,Wire Transfer,2024,2,Feb,2024-02,Q1,Friday
+TXN-10974,2024-12-11,PROD-108,Standing Executive Desk,Furniture,750.0,North America,10,0.15,6375.0,Consumer,Wire Transfer,2024,12,Dec,2024-12,Q4,Wednesday
+TXN-10975,2023-02-15,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,10,0.05,8075.0,Consumer,PayPal,2023,2,Feb,2023-02,Q1,Wednesday
+TXN-10976,2024-12-03,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,20,0.1,57600.0,Government,PayPal,2024,12,Dec,2024-12,Q4,Tuesday
+TXN-10977,2023-09-28,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,10,0.1,3150.0,Consumer,Wire Transfer,2023,9,Sep,2023-09,Q3,Thursday
+TXN-10978,2025-01-31,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,3,0.0,2250.0,Consumer,Corporate Invoice,2025,1,Jan,2025-01,Q1,Friday
+TXN-10979,2023-12-07,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,15,0.05,10687.5,Consumer,Wire Transfer,2023,12,Dec,2023-12,Q4,Thursday
+TXN-10980,2023-11-11,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,5,0.05,7125.0,Enterprise,Corporate Invoice,2023,11,Nov,2023-11,Q4,Saturday
+TXN-10981,2023-09-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,4,0.1,11520.0,Small & Medium Business,Wire Transfer,2023,9,Sep,2023-09,Q3,Sunday
+TXN-10982,2023-03-13,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,8,0.1,1800.0,Small & Medium Business,Corporate Invoice,2023,3,Mar,2023-03,Q1,Monday
+TXN-10983,2023-11-29,PROD-108,Standing Executive Desk,Furniture,750.0,North America,15,0.1,10125.0,Enterprise,PayPal,2023,11,Nov,2023-11,Q4,Wednesday
+TXN-10984,2023-10-25,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,4,0.1,2700.0,Enterprise,Corporate Invoice,2023,10,Oct,2023-10,Q4,Wednesday
+TXN-10985,2025-08-28,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,3,0.2,840.0,Government,Corporate Invoice,2025,8,Aug,2025-08,Q3,Thursday
+TXN-10986,2025-09-07,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.05,807.5,Enterprise,Corporate Invoice,2025,9,Sep,2025-09,Q3,Sunday
+TXN-10987,2025-04-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,5,0.05,5700.0,Consumer,Credit Card,2025,4,Apr,2025-04,Q2,Wednesday
+TXN-10988,2023-04-23,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,5,0.05,4512.5,Small & Medium Business,Corporate Invoice,2023,4,Apr,2023-04,Q2,Sunday
+TXN-10989,2023-02-16,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.2,480.0,Enterprise,PayPal,2023,2,Feb,2023-02,Q1,Thursday
+TXN-10990,2025-10-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,3,0.2,1440.0,Enterprise,Corporate Invoice,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-10991,2023-10-30,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,8,0.15,7480.0,Government,Corporate Invoice,2023,10,Oct,2023-10,Q4,Monday
+TXN-10992,2024-08-05,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,3,0.1,3240.0,Government,Credit Card,2024,8,Aug,2024-08,Q3,Monday
+TXN-10993,2025-06-28,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.15,4080.0,Consumer,Wire Transfer,2025,6,Jun,2025-06,Q2,Saturday
+TXN-10994,2025-04-28,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,2,0.2,1760.0,Enterprise,Wire Transfer,2025,4,Apr,2025-04,Q2,Monday
+TXN-10995,2024-09-13,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,4,0.2,1920.0,Enterprise,PayPal,2024,9,Sep,2024-09,Q3,Friday
+TXN-10996,2023-01-14,PROD-102,AI Analytics License,Software,850.0,Latin America,4,0.1,3060.0,Small & Medium Business,PayPal,2023,1,Jan,2023-01,Q1,Saturday
+TXN-10997,2023-10-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,2,0.05,6080.0,Consumer,PayPal,2023,10,Oct,2023-10,Q4,Sunday
+TXN-10998,2024-09-10,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,10,0.2,9600.0,Government,PayPal,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-10999,2023-02-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,10,0.0,6000.0,Consumer,Corporate Invoice,2023,2,Feb,2023-02,Q1,Friday
+TXN-11000,2023-09-12,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,8,0.1,5400.0,Small & Medium Business,PayPal,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-11001,2023-02-28,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,1,0.1,540.0,Enterprise,Corporate Invoice,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-11002,2025-09-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,5,0.15,13600.0,Government,Credit Card,2025,9,Sep,2025-09,Q3,Thursday
+TXN-11003,2025-11-15,PROD-106,Smart Conference Hub,Electronics,950.0,North America,20,0.2,15200.0,Consumer,Wire Transfer,2025,11,Nov,2025-11,Q4,Saturday
+TXN-11004,2023-04-30,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,2,0.1,5760.0,Small & Medium Business,Corporate Invoice,2023,4,Apr,2023-04,Q2,Sunday
+TXN-11005,2023-04-19,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,3,0.1,4050.0,Consumer,Credit Card,2023,4,Apr,2023-04,Q2,Wednesday
+TXN-11006,2024-08-20,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,5,0.0,1750.0,Small & Medium Business,Wire Transfer,2024,8,Aug,2024-08,Q3,Tuesday
+TXN-11007,2023-12-09,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,15,0.1,11475.0,Consumer,Corporate Invoice,2023,12,Dec,2023-12,Q4,Saturday
+TXN-11008,2023-07-16,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,5,0.2,3800.0,Small & Medium Business,Credit Card,2023,7,Jul,2023-07,Q3,Sunday
+TXN-11009,2025-11-27,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.1,10800.0,Government,Corporate Invoice,2025,11,Nov,2025-11,Q4,Thursday
+TXN-11010,2023-07-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,2,0.05,2850.0,Small & Medium Business,Wire Transfer,2023,7,Jul,2023-07,Q3,Saturday
+TXN-11011,2025-12-12,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,15,0.2,3000.0,Government,PayPal,2025,12,Dec,2025-12,Q4,Friday
+TXN-11012,2023-08-27,PROD-102,AI Analytics License,Software,850.0,North America,10,0.05,8075.0,Government,Corporate Invoice,2023,8,Aug,2023-08,Q3,Sunday
+TXN-11013,2025-01-12,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,2,0.15,595.0,Consumer,Wire Transfer,2025,1,Jan,2025-01,Q1,Sunday
+TXN-11014,2023-02-28,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.0,2800.0,Small & Medium Business,Wire Transfer,2023,2,Feb,2023-02,Q1,Tuesday
+TXN-11015,2024-09-21,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,2,0.05,1140.0,Enterprise,PayPal,2024,9,Sep,2024-09,Q3,Saturday
+TXN-11016,2023-06-09,PROD-102,AI Analytics License,Software,850.0,Latin America,1,0.15,722.5,Enterprise,Wire Transfer,2023,6,Jun,2023-06,Q2,Friday
+TXN-11017,2023-03-09,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,10,0.2,6800.0,Enterprise,PayPal,2023,3,Mar,2023-03,Q1,Thursday
+TXN-11018,2024-06-02,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,1,0.0,850.0,Enterprise,Credit Card,2024,6,Jun,2024-06,Q2,Sunday
+TXN-11019,2024-02-25,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.05,4037.5,Consumer,Credit Card,2024,2,Feb,2024-02,Q1,Sunday
+TXN-11020,2023-10-26,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,10,0.1,7650.0,Consumer,Corporate Invoice,2023,10,Oct,2023-10,Q4,Thursday
+TXN-11021,2025-10-22,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.2,12000.0,Enterprise,Credit Card,2025,10,Oct,2025-10,Q4,Wednesday
+TXN-11022,2023-01-29,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,5,0.05,15200.0,Consumer,Wire Transfer,2023,1,Jan,2023-01,Q1,Sunday
+TXN-11023,2023-01-09,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,8,0.0,2000.0,Government,Corporate Invoice,2023,1,Jan,2023-01,Q1,Monday
+TXN-11024,2024-01-15,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,4,0.0,12800.0,Consumer,PayPal,2024,1,Jan,2024-01,Q1,Monday
+TXN-11025,2024-03-14,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,5,0.05,5225.0,Enterprise,Corporate Invoice,2024,3,Mar,2024-03,Q1,Thursday
+TXN-11026,2025-08-12,PROD-102,AI Analytics License,Software,850.0,Europe,1,0.2,680.0,Government,Corporate Invoice,2025,8,Aug,2025-08,Q3,Tuesday
+TXN-11027,2023-03-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,1,0.1,315.0,Enterprise,PayPal,2023,3,Mar,2023-03,Q1,Saturday
+TXN-11028,2025-07-24,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,5,0.1,1575.0,Small & Medium Business,PayPal,2025,7,Jul,2025-07,Q3,Thursday
+TXN-11029,2025-05-26,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.0,700.0,Consumer,Wire Transfer,2025,5,May,2025-05,Q2,Monday
+TXN-11030,2025-10-03,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,8,0.0,9600.0,Government,Credit Card,2025,10,Oct,2025-10,Q4,Friday
+TXN-11031,2023-10-21,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,4,0.15,2890.0,Enterprise,Wire Transfer,2023,10,Oct,2023-10,Q4,Saturday
+TXN-11032,2025-01-14,PROD-102,AI Analytics License,Software,850.0,Europe,2,0.1,1530.0,Government,Credit Card,2025,1,Jan,2025-01,Q1,Tuesday
+TXN-11033,2025-05-19,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,8,0.15,4080.0,Consumer,PayPal,2025,5,May,2025-05,Q2,Monday
+TXN-11034,2025-09-01,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,8,0.2,6080.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Monday
+TXN-11035,2025-07-20,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,1,0.0,1500.0,Government,PayPal,2025,7,Jul,2025-07,Q3,Sunday
+TXN-11036,2023-10-03,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,1,0.0,600.0,Enterprise,PayPal,2023,10,Oct,2023-10,Q4,Tuesday
+TXN-11037,2024-01-02,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,4,0.2,3840.0,Small & Medium Business,Corporate Invoice,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-11038,2023-07-17,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,10,0.0,32000.0,Government,PayPal,2023,7,Jul,2023-07,Q3,Monday
+TXN-11039,2024-08-24,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,8,0.15,4080.0,Consumer,Corporate Invoice,2024,8,Aug,2024-08,Q3,Saturday
+TXN-11040,2023-02-06,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,10,0.0,2500.0,Enterprise,PayPal,2023,2,Feb,2023-02,Q1,Monday
+TXN-11041,2024-10-06,PROD-108,Standing Executive Desk,Furniture,750.0,Latin America,10,0.15,6375.0,Government,Credit Card,2024,10,Oct,2024-10,Q4,Sunday
+TXN-11042,2023-12-29,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,15,0.1,16200.0,Government,PayPal,2023,12,Dec,2023-12,Q4,Friday
+TXN-11043,2024-10-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.15,10200.0,Enterprise,PayPal,2024,10,Oct,2024-10,Q4,Tuesday
+TXN-11044,2025-08-20,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,4,0.2,800.0,Enterprise,PayPal,2025,8,Aug,2025-08,Q3,Wednesday
+TXN-11045,2025-10-10,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,5,0.15,1487.5,Consumer,Corporate Invoice,2025,10,Oct,2025-10,Q4,Friday
+TXN-11046,2023-05-06,PROD-106,Smart Conference Hub,Electronics,950.0,North America,1,0.2,760.0,Small & Medium Business,Corporate Invoice,2023,5,May,2023-05,Q2,Saturday
+TXN-11047,2023-02-25,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,10,0.1,8550.0,Enterprise,PayPal,2023,2,Feb,2023-02,Q1,Saturday
+TXN-11048,2025-01-01,PROD-106,Smart Conference Hub,Electronics,950.0,North America,4,0.1,3420.0,Small & Medium Business,Wire Transfer,2025,1,Jan,2025-01,Q1,Wednesday
+TXN-11049,2024-10-01,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,5,0.0,3000.0,Consumer,Credit Card,2024,10,Oct,2024-10,Q4,Tuesday
+TXN-11050,2023-12-14,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,3,0.2,2280.0,Enterprise,PayPal,2023,12,Dec,2023-12,Q4,Thursday
+TXN-11051,2025-11-20,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,10,0.1,9900.0,Government,Credit Card,2025,11,Nov,2025-11,Q4,Thursday
+TXN-11052,2025-02-12,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,5,0.15,4037.5,Enterprise,PayPal,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-11053,2024-02-26,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,3,0.15,2167.5,Consumer,Wire Transfer,2024,2,Feb,2024-02,Q1,Monday
+TXN-11054,2024-09-05,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,3,0.15,8160.0,Government,Credit Card,2024,9,Sep,2024-09,Q3,Thursday
+TXN-11055,2024-03-14,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.1,675.0,Consumer,PayPal,2024,3,Mar,2024-03,Q1,Thursday
+TXN-11056,2023-07-08,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,8,0.2,3840.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Saturday
+TXN-11057,2025-12-23,PROD-102,AI Analytics License,Software,850.0,Europe,10,0.15,7225.0,Consumer,Credit Card,2025,12,Dec,2025-12,Q4,Tuesday
+TXN-11058,2025-10-30,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,10,0.1,3150.0,Consumer,Wire Transfer,2025,10,Oct,2025-10,Q4,Thursday
+TXN-11059,2025-04-03,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,3,0.2,2640.0,Government,Wire Transfer,2025,4,Apr,2025-04,Q2,Thursday
+TXN-11060,2025-11-23,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,5,0.2,4800.0,Small & Medium Business,PayPal,2025,11,Nov,2025-11,Q4,Sunday
+TXN-11061,2025-12-27,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,15,0.15,4462.5,Enterprise,Wire Transfer,2025,12,Dec,2025-12,Q4,Saturday
+TXN-11062,2025-08-05,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.05,1805.0,Consumer,PayPal,2025,8,Aug,2025-08,Q3,Tuesday
+TXN-11063,2024-10-14,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,10,0.0,11000.0,Government,Corporate Invoice,2024,10,Oct,2024-10,Q4,Monday
+TXN-11064,2023-11-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.2,2240.0,Government,Wire Transfer,2023,11,Nov,2023-11,Q4,Saturday
+TXN-11065,2023-11-04,PROD-102,AI Analytics License,Software,850.0,Europe,5,0.0,4250.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Saturday
+TXN-11066,2025-06-12,PROD-108,Standing Executive Desk,Furniture,750.0,Europe,4,0.0,3000.0,Small & Medium Business,Corporate Invoice,2025,6,Jun,2025-06,Q2,Thursday
+TXN-11067,2023-03-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,3,0.1,4050.0,Small & Medium Business,Credit Card,2023,3,Mar,2023-03,Q1,Wednesday
+TXN-11068,2023-02-10,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.0,750.0,Consumer,Credit Card,2023,2,Feb,2023-02,Q1,Friday
+TXN-11069,2025-01-14,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,8,0.0,8800.0,Small & Medium Business,Wire Transfer,2025,1,Jan,2025-01,Q1,Tuesday
+TXN-11070,2025-10-21,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,1,0.2,680.0,Consumer,PayPal,2025,10,Oct,2025-10,Q4,Tuesday
+TXN-11071,2024-05-02,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,5,0.0,4250.0,Consumer,PayPal,2024,5,May,2024-05,Q2,Thursday
+TXN-11072,2025-05-16,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,2,0.05,1140.0,Small & Medium Business,Wire Transfer,2025,5,May,2025-05,Q2,Friday
+TXN-11073,2025-06-19,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,4,0.1,1260.0,Enterprise,PayPal,2025,6,Jun,2025-06,Q2,Thursday
+TXN-11074,2025-02-06,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Asia-Pacific,8,0.0,2000.0,Government,PayPal,2025,2,Feb,2025-02,Q1,Thursday
+TXN-11075,2024-07-22,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,10,0.05,5700.0,Government,Corporate Invoice,2024,7,Jul,2024-07,Q3,Monday
+TXN-11076,2023-02-13,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,8,0.2,2240.0,Enterprise,Wire Transfer,2023,2,Feb,2023-02,Q1,Monday
+TXN-11077,2025-02-26,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,3,0.1,945.0,Small & Medium Business,PayPal,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-11078,2023-01-17,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.1,3960.0,Enterprise,Wire Transfer,2023,1,Jan,2023-01,Q1,Tuesday
+TXN-11079,2024-03-06,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,10,0.05,3325.0,Consumer,PayPal,2024,3,Mar,2024-03,Q1,Wednesday
+TXN-11080,2024-07-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,10,0.0,12000.0,Government,PayPal,2024,7,Jul,2024-07,Q3,Monday
+TXN-11081,2025-05-15,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,10,0.0,9500.0,Consumer,Credit Card,2025,5,May,2025-05,Q2,Thursday
+TXN-11082,2025-05-11,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,5,0.2,3800.0,Government,Credit Card,2025,5,May,2025-05,Q2,Sunday
+TXN-11083,2024-01-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,8,0.15,8160.0,Enterprise,PayPal,2024,1,Jan,2024-01,Q1,Friday
+TXN-11084,2024-09-17,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,3,0.2,1440.0,Enterprise,Wire Transfer,2024,9,Sep,2024-09,Q3,Tuesday
+TXN-11085,2025-11-23,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Middle East & Africa,20,0.05,11400.0,Government,Corporate Invoice,2025,11,Nov,2025-11,Q4,Sunday
+TXN-11086,2025-09-06,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,10,0.05,7125.0,Small & Medium Business,Corporate Invoice,2025,9,Sep,2025-09,Q3,Saturday
+TXN-11087,2024-02-11,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,1,0.15,297.5,Small & Medium Business,PayPal,2024,2,Feb,2024-02,Q1,Sunday
+TXN-11088,2024-04-04,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,1,0.0,1100.0,Small & Medium Business,Credit Card,2024,4,Apr,2024-04,Q2,Thursday
+TXN-11089,2024-02-11,PROD-108,Standing Executive Desk,Furniture,750.0,North America,3,0.05,2137.5,Government,PayPal,2024,2,Feb,2024-02,Q1,Sunday
+TXN-11090,2024-06-16,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,2,0.0,6400.0,Small & Medium Business,Credit Card,2024,6,Jun,2024-06,Q2,Sunday
+TXN-11091,2025-12-12,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,10,0.15,10200.0,Enterprise,Wire Transfer,2025,12,Dec,2025-12,Q4,Friday
+TXN-11092,2024-01-26,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Asia-Pacific,10,0.1,5400.0,Government,PayPal,2024,1,Jan,2024-01,Q1,Friday
+TXN-11093,2025-06-02,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,10,0.05,14250.0,Small & Medium Business,Corporate Invoice,2025,6,Jun,2025-06,Q2,Monday
+TXN-11094,2025-05-06,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,2,0.15,1020.0,Enterprise,Corporate Invoice,2025,5,May,2025-05,Q2,Tuesday
+TXN-11095,2024-04-27,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,5,0.15,1487.5,Consumer,PayPal,2024,4,Apr,2024-04,Q2,Saturday
+TXN-11096,2023-01-22,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,4,0.05,3230.0,Government,Wire Transfer,2023,1,Jan,2023-01,Q1,Sunday
+TXN-11097,2025-05-16,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,8,0.2,7040.0,Enterprise,Credit Card,2025,5,May,2025-05,Q2,Friday
+TXN-11098,2023-05-01,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Europe,1,0.1,225.0,Government,Corporate Invoice,2023,5,May,2023-05,Q2,Monday
+TXN-11099,2023-04-04,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,1,0.1,2880.0,Government,Corporate Invoice,2023,4,Apr,2023-04,Q2,Tuesday
+TXN-11100,2025-01-29,PROD-107,Cybersecurity Gateway,Software,1100.0,North America,2,0.2,1760.0,Small & Medium Business,Corporate Invoice,2025,1,Jan,2025-01,Q1,Wednesday
+TXN-11101,2025-10-28,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,4,0.1,5400.0,Small & Medium Business,Credit Card,2025,10,Oct,2025-10,Q4,Tuesday
+TXN-11102,2025-12-22,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,10,0.05,9025.0,Enterprise,Corporate Invoice,2025,12,Dec,2025-12,Q4,Monday
+TXN-11103,2023-09-19,PROD-101,Enterprise Cloud Suite,Software,1200.0,Asia-Pacific,4,0.1,4320.0,Government,Corporate Invoice,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-11104,2024-06-24,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,5,0.1,1575.0,Small & Medium Business,Corporate Invoice,2024,6,Jun,2024-06,Q2,Monday
+TXN-11105,2023-11-06,PROD-108,Standing Executive Desk,Furniture,750.0,North America,15,0.15,9562.5,Small & Medium Business,Wire Transfer,2023,11,Nov,2023-11,Q4,Monday
+TXN-11106,2024-04-15,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,2,0.0,2400.0,Consumer,Wire Transfer,2024,4,Apr,2024-04,Q2,Monday
+TXN-11107,2025-06-12,PROD-108,Standing Executive Desk,Furniture,750.0,North America,1,0.15,637.5,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Thursday
+TXN-11108,2025-09-20,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,4,0.15,850.0,Small & Medium Business,Credit Card,2025,9,Sep,2025-09,Q3,Saturday
+TXN-11109,2023-07-11,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,2,0.1,1710.0,Small & Medium Business,Corporate Invoice,2023,7,Jul,2023-07,Q3,Tuesday
+TXN-11110,2024-03-10,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,5,0.0,16000.0,Small & Medium Business,PayPal,2024,3,Mar,2024-03,Q1,Sunday
+TXN-11111,2024-05-19,PROD-102,AI Analytics License,Software,850.0,North America,10,0.15,7225.0,Consumer,Credit Card,2024,5,May,2024-05,Q2,Sunday
+TXN-11112,2023-09-07,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Middle East & Africa,4,0.1,1260.0,Enterprise,Corporate Invoice,2023,9,Sep,2023-09,Q3,Thursday
+TXN-11113,2023-03-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,1,0.15,1275.0,Government,Corporate Invoice,2023,3,Mar,2023-03,Q1,Wednesday
+TXN-11114,2023-01-12,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,3,0.0,9600.0,Government,Corporate Invoice,2023,1,Jan,2023-01,Q1,Thursday
+TXN-11115,2023-09-22,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,2,0.0,6400.0,Consumer,Credit Card,2023,9,Sep,2023-09,Q3,Friday
+TXN-11116,2025-02-20,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,1,0.15,722.5,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Thursday
+TXN-11117,2023-07-02,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,1,0.05,1045.0,Government,PayPal,2023,7,Jul,2023-07,Q3,Sunday
+TXN-11118,2023-11-12,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,3,0.1,945.0,Government,Corporate Invoice,2023,11,Nov,2023-11,Q4,Sunday
+TXN-11119,2023-09-26,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,3,0.0,9600.0,Small & Medium Business,PayPal,2023,9,Sep,2023-09,Q3,Tuesday
+TXN-11120,2025-03-05,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,4,0.1,2700.0,Government,Credit Card,2025,3,Mar,2025-03,Q1,Wednesday
+TXN-11121,2025-01-24,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,5,0.05,5225.0,Government,Credit Card,2025,1,Jan,2025-01,Q1,Friday
+TXN-11122,2025-11-17,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,8,0.15,8160.0,Small & Medium Business,PayPal,2025,11,Nov,2025-11,Q4,Monday
+TXN-11123,2025-12-10,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.1,675.0,Government,Credit Card,2025,12,Dec,2025-12,Q4,Wednesday
+TXN-11124,2024-09-07,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,2,0.05,1425.0,Small & Medium Business,PayPal,2024,9,Sep,2024-09,Q3,Saturday
+TXN-11125,2023-04-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,5,0.0,1750.0,Enterprise,PayPal,2023,4,Apr,2023-04,Q2,Saturday
+TXN-11126,2023-07-13,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.2,3520.0,Consumer,Corporate Invoice,2023,7,Jul,2023-07,Q3,Thursday
+TXN-11127,2023-06-17,PROD-110,Server Rack Server X1,Hardware,3200.0,North America,10,0.2,25600.0,Enterprise,PayPal,2023,6,Jun,2023-06,Q2,Saturday
+TXN-11128,2024-01-09,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,10,0.15,12750.0,Enterprise,PayPal,2024,1,Jan,2024-01,Q1,Tuesday
+TXN-11129,2024-10-04,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,5,0.15,1487.5,Consumer,Corporate Invoice,2024,10,Oct,2024-10,Q4,Friday
+TXN-11130,2024-03-08,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,2,0.0,3000.0,Consumer,Credit Card,2024,3,Mar,2024-03,Q1,Friday
+TXN-11131,2025-12-30,PROD-107,Cybersecurity Gateway,Software,1100.0,Latin America,3,0.0,3300.0,Enterprise,Credit Card,2025,12,Dec,2025-12,Q4,Tuesday
+TXN-11132,2025-09-04,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Middle East & Africa,4,0.15,5100.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Thursday
+TXN-11133,2025-01-08,PROD-110,Server Rack Server X1,Hardware,3200.0,Asia-Pacific,8,0.15,21760.0,Enterprise,Wire Transfer,2025,1,Jan,2025-01,Q1,Wednesday
+TXN-11134,2023-01-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,North America,2,0.0,3000.0,Small & Medium Business,Credit Card,2023,1,Jan,2023-01,Q1,Sunday
+TXN-11135,2025-09-12,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,8,0.05,4560.0,Government,Wire Transfer,2025,9,Sep,2025-09,Q3,Friday
+TXN-11136,2024-09-08,PROD-102,AI Analytics License,Software,850.0,Europe,10,0.15,7225.0,Government,PayPal,2024,9,Sep,2024-09,Q3,Sunday
+TXN-11137,2023-08-27,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,2,0.05,2280.0,Government,PayPal,2023,8,Aug,2023-08,Q3,Sunday
+TXN-11138,2025-07-09,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,5,0.05,5700.0,Consumer,PayPal,2025,7,Jul,2025-07,Q3,Wednesday
+TXN-11139,2024-11-14,PROD-101,Enterprise Cloud Suite,Software,1200.0,Latin America,3,0.0,3600.0,Government,PayPal,2024,11,Nov,2024-11,Q4,Thursday
+TXN-11140,2024-08-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,1,0.15,2720.0,Government,PayPal,2024,8,Aug,2024-08,Q3,Sunday
+TXN-11141,2023-05-05,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Latin America,5,0.0,3000.0,Consumer,Credit Card,2023,5,May,2023-05,Q2,Friday
+TXN-11142,2025-05-04,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,4,0.0,1400.0,Consumer,PayPal,2025,5,May,2025-05,Q2,Sunday
+TXN-11143,2023-02-12,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,2,0.1,1980.0,Government,Corporate Invoice,2023,2,Feb,2023-02,Q1,Sunday
+TXN-11144,2024-04-20,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,5,0.05,3562.5,Consumer,PayPal,2024,4,Apr,2024-04,Q2,Saturday
+TXN-11145,2024-08-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,8,0.15,10200.0,Consumer,PayPal,2024,8,Aug,2024-08,Q3,Friday
+TXN-11146,2024-02-29,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,3,0.0,4500.0,Small & Medium Business,Wire Transfer,2024,2,Feb,2024-02,Q1,Thursday
+TXN-11147,2023-11-17,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,15,0.15,7650.0,Government,PayPal,2023,11,Nov,2023-11,Q4,Friday
+TXN-11148,2024-04-25,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,2,0.2,560.0,Enterprise,Corporate Invoice,2024,4,Apr,2024-04,Q2,Thursday
+TXN-11149,2025-01-01,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.05,2660.0,Enterprise,Credit Card,2025,1,Jan,2025-01,Q1,Wednesday
+TXN-11150,2025-05-31,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,1,0.2,760.0,Enterprise,Wire Transfer,2025,5,May,2025-05,Q2,Saturday
+TXN-11151,2024-06-12,PROD-108,Standing Executive Desk,Furniture,750.0,North America,3,0.1,2025.0,Consumer,Wire Transfer,2024,6,Jun,2024-06,Q2,Wednesday
+TXN-11152,2023-08-02,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,8,0.0,2000.0,Government,Credit Card,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-11153,2023-07-28,PROD-102,AI Analytics License,Software,850.0,North America,10,0.2,6800.0,Enterprise,Wire Transfer,2023,7,Jul,2023-07,Q3,Friday
+TXN-11154,2024-02-25,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,3,0.05,2422.5,Government,PayPal,2024,2,Feb,2024-02,Q1,Sunday
+TXN-11155,2023-11-12,PROD-102,AI Analytics License,Software,850.0,Asia-Pacific,20,0.1,15300.0,Small & Medium Business,Credit Card,2023,11,Nov,2023-11,Q4,Sunday
+TXN-11156,2025-06-18,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,Europe,4,0.0,2400.0,Government,Corporate Invoice,2025,6,Jun,2025-06,Q2,Wednesday
+TXN-11157,2025-10-31,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Asia-Pacific,2,0.0,700.0,Consumer,PayPal,2025,10,Oct,2025-10,Q4,Friday
+TXN-11158,2024-05-17,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,2,0.2,1520.0,Small & Medium Business,Wire Transfer,2024,5,May,2024-05,Q2,Friday
+TXN-11159,2025-04-26,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,4,0.15,3740.0,Consumer,Credit Card,2025,4,Apr,2025-04,Q2,Saturday
+TXN-11160,2023-10-26,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,10,0.0,7500.0,Enterprise,Credit Card,2023,10,Oct,2023-10,Q4,Thursday
+TXN-11161,2024-10-06,PROD-106,Smart Conference Hub,Electronics,950.0,Latin America,4,0.05,3610.0,Enterprise,PayPal,2024,10,Oct,2024-10,Q4,Sunday
+TXN-11162,2023-11-06,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,15,0.0,18000.0,Consumer,PayPal,2023,11,Nov,2023-11,Q4,Monday
+TXN-11163,2024-09-15,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,8,0.1,7920.0,Enterprise,Corporate Invoice,2024,9,Sep,2024-09,Q3,Sunday
+TXN-11164,2023-10-28,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,8,0.15,1700.0,Small & Medium Business,PayPal,2023,10,Oct,2023-10,Q4,Saturday
+TXN-11165,2025-04-08,PROD-106,Smart Conference Hub,Electronics,950.0,Asia-Pacific,10,0.05,9025.0,Enterprise,Credit Card,2025,4,Apr,2025-04,Q2,Tuesday
+TXN-11166,2024-11-16,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,10,0.05,2375.0,Consumer,Wire Transfer,2024,11,Nov,2024-11,Q4,Saturday
+TXN-11167,2025-11-13,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,15,0.1,11475.0,Consumer,Wire Transfer,2025,11,Nov,2025-11,Q4,Thursday
+TXN-11168,2023-02-27,PROD-101,Enterprise Cloud Suite,Software,1200.0,Middle East & Africa,10,0.2,9600.0,Consumer,Wire Transfer,2023,2,Feb,2023-02,Q1,Monday
+TXN-11169,2025-05-15,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,5,0.0,1750.0,Consumer,Corporate Invoice,2025,5,May,2025-05,Q2,Thursday
+TXN-11170,2024-12-26,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,North America,3,0.0,750.0,Government,Corporate Invoice,2024,12,Dec,2024-12,Q4,Thursday
+TXN-11171,2023-01-11,PROD-110,Server Rack Server X1,Hardware,3200.0,Europe,4,0.1,11520.0,Small & Medium Business,Corporate Invoice,2023,1,Jan,2023-01,Q1,Wednesday
+TXN-11172,2024-08-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,8,0.2,2240.0,Government,Wire Transfer,2024,8,Aug,2024-08,Q3,Monday
+TXN-11173,2024-11-02,PROD-102,AI Analytics License,Software,850.0,Europe,15,0.2,10200.0,Consumer,PayPal,2024,11,Nov,2024-11,Q4,Saturday
+TXN-11174,2023-10-28,PROD-102,AI Analytics License,Software,850.0,Latin America,8,0.15,5780.0,Enterprise,Credit Card,2023,10,Oct,2023-10,Q4,Saturday
+TXN-11175,2025-05-20,PROD-101,Enterprise Cloud Suite,Software,1200.0,Europe,2,0.15,2040.0,Government,Credit Card,2025,5,May,2025-05,Q2,Tuesday
+TXN-11176,2025-12-13,PROD-106,Smart Conference Hub,Electronics,950.0,Middle East & Africa,10,0.2,7600.0,Government,Corporate Invoice,2025,12,Dec,2025-12,Q4,Saturday
+TXN-11177,2025-10-18,PROD-110,Server Rack Server X1,Hardware,3200.0,Latin America,8,0.15,21760.0,Government,PayPal,2025,10,Oct,2025-10,Q4,Saturday
+TXN-11178,2023-10-23,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,5,0.05,7125.0,Government,Wire Transfer,2023,10,Oct,2023-10,Q4,Monday
+TXN-11179,2025-12-19,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Latin America,3,0.05,712.5,Government,Credit Card,2025,12,Dec,2025-12,Q4,Friday
+TXN-11180,2025-01-26,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Latin America,1,0.2,1200.0,Enterprise,Credit Card,2025,1,Jan,2025-01,Q1,Sunday
+TXN-11181,2024-08-16,PROD-106,Smart Conference Hub,Electronics,950.0,Europe,1,0.2,760.0,Enterprise,Corporate Invoice,2024,8,Aug,2024-08,Q3,Friday
+TXN-11182,2025-02-05,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,3,0.1,945.0,Enterprise,Wire Transfer,2025,2,Feb,2025-02,Q1,Wednesday
+TXN-11183,2025-05-13,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Asia-Pacific,1,0.1,1350.0,Small & Medium Business,Wire Transfer,2025,5,May,2025-05,Q2,Tuesday
+TXN-11184,2023-01-05,PROD-108,Standing Executive Desk,Furniture,750.0,Asia-Pacific,1,0.2,600.0,Enterprise,Credit Card,2023,1,Jan,2023-01,Q1,Thursday
+TXN-11185,2025-09-12,PROD-107,Cybersecurity Gateway,Software,1100.0,Middle East & Africa,5,0.1,4950.0,Government,Corporate Invoice,2025,9,Sep,2025-09,Q3,Friday
+TXN-11186,2025-08-31,PROD-107,Cybersecurity Gateway,Software,1100.0,Europe,10,0.2,8800.0,Small & Medium Business,PayPal,2025,8,Aug,2025-08,Q3,Sunday
+TXN-11187,2025-07-08,PROD-108,Standing Executive Desk,Furniture,750.0,North America,2,0.1,1350.0,Government,PayPal,2025,7,Jul,2025-07,Q3,Tuesday
+TXN-11188,2025-03-20,PROD-104,Ultra-Wide Monitor 34,Hardware,600.0,North America,3,0.2,1440.0,Government,Corporate Invoice,2025,3,Mar,2025-03,Q1,Thursday
+TXN-11189,2023-12-06,PROD-102,AI Analytics License,Software,850.0,Middle East & Africa,20,0.0,17000.0,Consumer,Credit Card,2023,12,Dec,2023-12,Q4,Wednesday
+TXN-11190,2023-06-24,PROD-109,Wireless Noise-Canceling Headset,Electronics,250.0,Middle East & Africa,2,0.2,400.0,Enterprise,Wire Transfer,2023,6,Jun,2023-06,Q2,Saturday
+TXN-11191,2025-10-26,PROD-108,Standing Executive Desk,Furniture,750.0,Middle East & Africa,1,0.0,750.0,Small & Medium Business,Credit Card,2025,10,Oct,2025-10,Q4,Sunday
+TXN-11192,2024-02-26,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Latin America,2,0.2,560.0,Enterprise,Corporate Invoice,2024,2,Feb,2024-02,Q1,Monday
+TXN-11193,2023-04-03,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,4,0.0,4400.0,Government,Wire Transfer,2023,4,Apr,2023-04,Q2,Monday
+TXN-11194,2023-02-19,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,10,0.2,8800.0,Government,Corporate Invoice,2023,2,Feb,2023-02,Q1,Sunday
+TXN-11195,2023-08-23,PROD-102,AI Analytics License,Software,850.0,Europe,1,0.2,680.0,Consumer,Wire Transfer,2023,8,Aug,2023-08,Q3,Wednesday
+TXN-11196,2024-06-07,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,10,0.0,15000.0,Consumer,PayPal,2024,6,Jun,2024-06,Q2,Friday
+TXN-11197,2023-05-01,PROD-103,Pro Workstation Laptop,Hardware,1500.0,Europe,5,0.1,6750.0,Enterprise,Credit Card,2023,5,May,2023-05,Q2,Monday
+TXN-11198,2025-03-09,PROD-105,Ergonomic Desk Chair,Furniture,350.0,Europe,1,0.1,315.0,Government,Corporate Invoice,2025,3,Mar,2025-03,Q1,Sunday
+TXN-11199,2025-02-08,PROD-105,Ergonomic Desk Chair,Furniture,350.0,North America,10,0.0,3500.0,Small & Medium Business,Wire Transfer,2025,2,Feb,2025-02,Q1,Saturday
+TXN-11200,2024-04-29,PROD-110,Server Rack Server X1,Hardware,3200.0,Middle East & Africa,4,0.2,10240.0,Government,Credit Card,2024,4,Apr,2024-04,Q2,Monday
+TXN-10102,2024-11-08,PROD-107,Cybersecurity Gateway,Software,1100.0,Asia-Pacific,8,0.15,7480.0,Consumer,Corporate Invoice,2024,11,Nov,2024-11,Q4,Friday
