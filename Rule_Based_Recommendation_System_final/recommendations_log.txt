@@ -1,0 +1,271 @@
+============================================================
+PROJECT 2 — RULE-BASED RECOMMENDATION SYSTEM DECISION LOG AUDIT
+============================================================
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:32
+USER ID          : U_TEST
+APPLIED RULES    : RULE_CO_PURCHASE
+RECOMMENDATIONS  :
+  Rank #1 | Product: P101 | Score: 7.5 | Rule: RULE_CO_PURCHASE | Reason: Test reason
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:52
+USER ID          : U1001
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P102 | Score: 15.0414 | Rule: RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #2 | Product: P105 | Score: 12.4692 | Rule: RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #3 | Product: P106 | Score: 6.4 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P110 | Score: 5.87 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #5 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:52
+USER ID          : U1002
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P103 | Score: 14.0607 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #2 | Product: P104 | Score: 12.8092 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:52
+USER ID          : U1003
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 20.9673 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #2 | Product: P110 | Score: 14.4536 | Rule: RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P107
+  Rank #3 | Product: P101 | Score: 6.45 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Platinum tier / VIP spend
+  Rank #5 | Product: P102 | Score: 4.38 | Rule: RULE_CATEGORY_TOP | Reason: Top-selling product in preferred category 'Electronics'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:52
+USER ID          : U1004
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P109 | Score: 7.8907 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT | Reason: Top-selling product in preferred category 'Footwear'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:19:52
+USER ID          : U1005
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 11.4754 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #2 | Product: P110 | Score: 9.8734 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #3 | Product: P104 | Score: 9.7014 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #4 | Product: P103 | Score: 6.32 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Home'
+  Rank #5 | Product: P101 | Score: 5.95 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:37
+USER ID          : U1001
+APPLIED RULES    : RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P102 | Score: 15.0414 | Rule: RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #2 | Product: P105 | Score: 12.4692 | Rule: RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #3 | Product: P106 | Score: 6.4 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P110 | Score: 5.87 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #5 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:37
+USER ID          : U1002
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P103 | Score: 14.0607 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #2 | Product: P104 | Score: 12.8092 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:37
+USER ID          : U1003
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 20.9673 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #2 | Product: P110 | Score: 14.4536 | Rule: RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P107
+  Rank #3 | Product: P101 | Score: 6.45 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Platinum tier / VIP spend
+  Rank #5 | Product: P102 | Score: 4.38 | Rule: RULE_CATEGORY_TOP | Reason: Top-selling product in preferred category 'Electronics'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:37
+USER ID          : U1004
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P109 | Score: 7.8907 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT | Reason: Top-selling product in preferred category 'Footwear'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:37
+USER ID          : U1005
+APPLIED RULES    : RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 11.4754 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #2 | Product: P110 | Score: 9.8734 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #3 | Product: P104 | Score: 9.7014 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #4 | Product: P103 | Score: 6.32 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Home'
+  Rank #5 | Product: P101 | Score: 5.95 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:22:49
+USER ID          : U_TEST
+APPLIED RULES    : RULE_CO_PURCHASE
+RECOMMENDATIONS  :
+  Rank #1 | Product: P101 | Score: 7.5 | Rule: RULE_CO_PURCHASE | Reason: Test reason
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:24:44
+USER ID          : U_TEST
+APPLIED RULES    : RULE_CO_PURCHASE
+RECOMMENDATIONS  :
+  Rank #1 | Product: P101 | Score: 7.5 | Rule: RULE_CO_PURCHASE | Reason: Test reason
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:25:04
+USER ID          : U1001
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P102 | Score: 15.0414 | Rule: RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #2 | Product: P105 | Score: 12.4692 | Rule: RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #3 | Product: P106 | Score: 6.4 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P110 | Score: 5.87 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #5 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:25:17
+USER ID          : U1003
+APPLIED RULES    : RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 20.9673 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #2 | Product: P110 | Score: 14.4536 | Rule: RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P107
+  Rank #3 | Product: P101 | Score: 6.45 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Platinum tier / VIP spend
+  Rank #5 | Product: P102 | Score: 4.38 | Rule: RULE_CATEGORY_TOP | Reason: Top-selling product in preferred category 'Electronics'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:25:29
+USER ID          : U1004
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P109 | Score: 7.8907 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT | Reason: Top-selling product in preferred category 'Footwear'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:05
+USER ID          : U1001
+APPLIED RULES    : RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P102 | Score: 15.0414 | Rule: RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #2 | Product: P105 | Score: 12.4692 | Rule: RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #3 | Product: P106 | Score: 6.4 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P110 | Score: 5.87 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #5 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:05
+USER ID          : U1002
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P103 | Score: 14.0607 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #2 | Product: P104 | Score: 12.8092 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:05
+USER ID          : U1003
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 20.9673 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #2 | Product: P110 | Score: 14.4536 | Rule: RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P107
+  Rank #3 | Product: P101 | Score: 6.45 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Platinum tier / VIP spend
+  Rank #5 | Product: P102 | Score: 4.38 | Rule: RULE_CATEGORY_TOP | Reason: Top-selling product in preferred category 'Electronics'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:05
+USER ID          : U1004
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P109 | Score: 7.8907 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT | Reason: Top-selling product in preferred category 'Footwear'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:05
+USER ID          : U1005
+APPLIED RULES    : RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 11.4754 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #2 | Product: P110 | Score: 9.8734 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #3 | Product: P104 | Score: 9.7014 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #4 | Product: P103 | Score: 6.32 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Home'
+  Rank #5 | Product: P101 | Score: 5.95 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:15
+USER ID          : U1001
+APPLIED RULES    : RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P102 | Score: 15.0414 | Rule: RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #2 | Product: P105 | Score: 12.4691 | Rule: RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P101
+  Rank #3 | Product: P106 | Score: 6.4 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P110 | Score: 5.87 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #5 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:15
+USER ID          : U1002
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P103 | Score: 14.0607 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #2 | Product: P104 | Score: 12.8091 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:15
+USER ID          : U1003
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_PREMIUM_CATALOG
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 20.9672 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #2 | Product: P110 | Score: 14.4535 | Rule: RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Complementary product cross-sell based on past purchase of P107
+  Rank #3 | Product: P101 | Score: 6.45 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Electronics'
+  Rank #4 | Product: P103 | Score: 5.82 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Platinum tier / VIP spend
+  Rank #5 | Product: P102 | Score: 4.38 | Rule: RULE_CATEGORY_TOP | Reason: Top-selling product in preferred category 'Electronics'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:15
+USER ID          : U1004
+APPLIED RULES    : RULE_CATEGORY_TOP, RULE_SEARCH_INTENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P109 | Score: 7.8907 | Rule: RULE_CATEGORY_TOP, RULE_SEARCH_INTENT | Reason: Top-selling product in preferred category 'Footwear'
+============================================================
+
+============================================================
+TIMESTAMP        : 2026-08-13 23:27:15
+USER ID          : U1005
+APPLIED RULES    : RULE_PREMIUM_CATALOG, RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT, RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT
+RECOMMENDATIONS  :
+  Rank #1 | Product: P106 | Score: 11.4754 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #2 | Product: P110 | Score: 9.8734 | Rule: RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+  Rank #3 | Product: P104 | Score: 9.7014 | Rule: RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT | Reason: Top-selling product in preferred category 'Home'
+  Rank #4 | Product: P103 | Score: 6.32 | Rule: RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG | Reason: Top-selling product in preferred category 'Home'
+  Rank #5 | Product: P101 | Score: 5.95 | Rule: RULE_PREMIUM_CATALOG | Reason: Exclusive premium catalog selection for Gold tier / VIP spend
+============================================================
+

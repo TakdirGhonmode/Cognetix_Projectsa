@@ -1,0 +1,86 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "Takdir@1234",
+    "database": "recommendation_db"
+  },
+  "rules": {
+    "RULE_CO_PURCHASE": {
+      "enabled": true,
+      "weight": 3.5,
+      "description": "If user purchased Product A -> Recommend complementary products",
+      "co_purchase_map": {
+        "P101": ["P102", "P105"],
+        "P102": ["P101", "P106"],
+        "P103": ["P104", "P108"],
+        "P104": ["P103", "P107"],
+        "P107": ["P108", "P110"]
+      }
+    },
+    "RULE_CATEGORY_TOP": {
+      "enabled": true,
+      "weight": 2.5,
+      "description": "If frequent category interactions -> Recommend top sellers in category",
+      "top_sellers_by_category": {
+        "Electronics": ["P101", "P102", "P106"],
+        "Accessories": ["P105", "P107"],
+        "Home": ["P103", "P104"],
+        "Footwear": ["P108", "P109"],
+        "Apparel": ["P110"]
+      }
+    },
+    "RULE_PREMIUM_CATALOG": {
+      "enabled": true,
+      "weight": 4.0,
+      "description": "If high-value or Gold/Platinum customer -> Recommend premium products",
+      "spend_threshold": 500.0,
+      "premium_tiers": ["Gold", "Platinum"],
+      "premium_product_ids": ["P101", "P103", "P106", "P110"]
+    },
+    "RULE_SEARCH_INTENT": {
+      "enabled": true,
+      "weight": 3.0,
+      "description": "If search query matches product tags or title -> Recommend matched items",
+      "search_keywords": {
+        "laptop": ["P101"],
+        "wireless": ["P102", "P105"],
+        "coffee": ["P103"],
+        "chair": ["P104"],
+        "watch": ["P106"],
+        "backpack": ["P107"],
+        "running": ["P108"],
+        "shoes": ["P108", "P109"],
+        "jacket": ["P110"]
+      }
+    },
+    "RULE_CART_ABANDONMENT": {
+      "enabled": true,
+      "weight": 3.2,
+      "description": "If items added to cart or repeatedly viewed without purchase -> Recommend deals",
+      "min_views_without_purchase": 2
+    }
+  },
+  "scoring": {
+    "frequency_weight": 1.5,
+    "recency_weight": 2.0,
+    "recency_half_life_days": 7.0,
+    "popularity_weight": 1.0
+  },
+  "ranking": {
+    "top_n": 5
+  },
+  "optimization": {
+    "exclude_already_purchased": true,
+    "exclude_out_of_stock": true,
+    "min_score_threshold": 0.5
+  },
+  "logging": {
+    "log_file_path": "recommendations_log.txt"
+  },
+  "reports": {
+    "csv_report_path": "recommendations_report.csv",
+    "excel_report_path": "recommendations_report.xlsx"
+  }
+}
