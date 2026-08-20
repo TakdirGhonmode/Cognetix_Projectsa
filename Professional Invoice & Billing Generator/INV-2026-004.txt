@@ -1,0 +1,25 @@
+=========================================
+        PROFESSIONAL INVOICE
+=========================================
+
+Invoice Number : INV-2026-004
+Date           : 18-07-2026
+
+Customer Details
+-----------------------------------------
+Customer ID : 4
+Name        : Sandip Hichami
+Email       : sandiphichami7@gmail.com
+Phone       : 7733225544
+Address     : nagpur,Maharashtra
+
+Items
+-----------------------------------------
+HP Laptop | Qty : 4 | Price : 55000.0 | Total : 220000.0
+
+-----------------------------------------
+Subtotal          : 220000.00
+Tax Amount        : 39600.00
+Discount Amount   : 22000.00
+Final Amount      : 237600.00
+=========================================

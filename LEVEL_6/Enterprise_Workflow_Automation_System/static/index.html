@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enterprise Workflow Automation System</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-icon">WF</div>
+      <span>Enterprise Workflow Engine</span>
+    </div>
+    <div class="nav-user">
+      <div class="user-badge" id="current-user-display">Loading User...</div>
+      <button class="btn btn-secondary btn-sm" onclick="App.logout()">Logout</button>
+    </div>
+  </nav>
+
+  <!-- App Layout -->
+  <div class="app-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="nav-item active" data-tab="dashboard">
+        📊 Monitoring Dashboard
+      </div>
+      <div class="nav-item" data-tab="tasks">
+        ⚡ Pending Approvals
+        <span class="badge" id="pending-count-badge">0</span>
+      </div>
+      <div class="nav-item" data-tab="workflows">
+        🔄 Active Workflows
+      </div>
+      <div class="nav-item" data-tab="templates">
+        📐 Template Builder
+      </div>
+      <div class="nav-item" data-tab="audit">
+        🛡️ Audit Trail & Verification
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+      <!-- TAB 1: Monitoring Dashboard -->
+      <section id="tab-dashboard" class="tab-content active">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+          <div>
+            <h1 class="page-title">Operational Monitoring Dashboard</h1>
+            <p class="page-subtitle">Real-time enterprise metrics, stage bottleneck analysis, and SLA tracking.</p>
+          </div>
+          <button class="btn btn-primary" onclick="App.openNewWorkflowModal()">+ Launch New Workflow</button>
+        </div>
+
+        <!-- KPI Grid -->
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <span class="kpi-title">Total Workflows Initiated</span>
+            <span class="kpi-value" id="kpi-total">0</span>
+            <span class="kpi-trend">Live System Count</span>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-title">Successfully Completed</span>
+            <span class="kpi-value" id="kpi-completed" style="color: var(--success);">0</span>
+            <span class="kpi-trend">Fully Executed</span>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-title">Completion Rate</span>
+            <span class="kpi-value" id="kpi-rate" style="color: var(--accent-primary);">0%</span>
+            <span class="kpi-trend">Target Efficiency</span>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-title">Active Bottlenecks</span>
+            <span class="kpi-value" id="kpi-bottlenecks" style="color: var(--warning);">0</span>
+            <span class="kpi-trend">Stage Alerts</span>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-title">Avg Approval Duration</span>
+            <span class="kpi-value" id="kpi-avg-time">0 hrs</span>
+            <span class="kpi-trend">Across All Stages</span>
+          </div>
+        </div>
+
+        <!-- Pending Tasks Quick Access -->
+        <h2 style="font-size: 1.2rem; margin-bottom: 1rem;">My Pending Approval Queue</h2>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Task ID</th>
+                <th>Workflow</th>
+                <th>Current Stage</th>
+                <th>Assigned Role / Dept</th>
+                <th>Created Timestamp</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="pending-tasks-list">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- TAB 2: Pending Tasks -->
+      <section id="tab-tasks" class="tab-content">
+        <h1 class="page-title">Assigned Pending Tasks</h1>
+        <p class="page-subtitle">Tasks assigned to your current role or department awaiting action.</p>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Task ID</th>
+                <th>Workflow</th>
+                <th>Current Stage</th>
+                <th>Assigned Role / Dept</th>
+                <th>Created Timestamp</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="pending-tasks-full-list">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- TAB 3: Active Workflows -->
+      <section id="tab-workflows" class="tab-content">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+          <div>
+            <h1 class="page-title">Workflow Execution Tracker</h1>
+            <p class="page-subtitle">Track stage progression, current assignees, and active pipeline statuses.</p>
+          </div>
+          <button class="btn btn-primary" onclick="App.openNewWorkflowModal()">+ Initiate Workflow</button>
+        </div>
+
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Workflow Title</th>
+                <th>Current Active Stage</th>
+                <th>Status</th>
+                <th>Initiated Date</th>
+                <th>Process Graph</th>
+              </tr>
+            </thead>
+            <tbody id="active-workflows-list">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- TAB 4: Templates -->
+      <section id="tab-templates" class="tab-content">
+        <h1 class="page-title">Workflow Template Manager</h1>
+        <p class="page-subtitle">Configurable enterprise workflow definitions with dynamic multi-stage routing.</p>
+        <div id="templates-list">
+          <!-- Rendered dynamically -->
+        </div>
+      </section>
+
+      <!-- TAB 5: Audit Trail -->
+      <section id="tab-audit" class="tab-content">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+          <div>
+            <h1 class="page-title">Tamper-Resistant Audit Trail</h1>
+            <p class="page-subtitle">Cryptographically hash-chained execution history ensuring non-repudiation.</p>
+          </div>
+          <button class="btn btn-success" onclick="App.verifyAuditIntegrity()">🛡️ Verify Log Chain Integrity</button>
+        </div>
+
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Log ID</th>
+                <th>Workflow ID</th>
+                <th>Action Taken</th>
+                <th>User / Actor</th>
+                <th>Cryptographic SHA-256 Hash</th>
+                <th>Timestamp</th>
+              </tr>
+            </thead>
+            <tbody id="audit-logs-list">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- MODAL 1: Login -->
+  <div class="modal-overlay" id="modal-login">
+    <div class="modal-content">
+      <h2 style="margin-bottom: 0.5rem; color: var(--accent-primary);">Enterprise Login</h2>
+      <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1.5rem;">Select demo account or sign in with your enterprise credentials.</p>
+      <form id="login-form">
+        <div class="form-group">
+          <label>Username</label>
+          <input type="text" id="login-username" class="form-control" value="admin" required>
+        </div>
+        <div class="form-group">
+          <label>Password</label>
+          <input type="password" id="login-password" class="form-control" value="AdminPass123!" required>
+        </div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1rem;">
+          Demo Accounts: <code>admin</code> (Admin), <code>finance_approver</code> (Finance), <code>hr_manager</code> (HR), <code>procurement_lead</code> (Procurement)
+        </div>
+        <button type="submit" class="btn btn-primary" style="width: 100%;">Sign In</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- MODAL 2: New Workflow Instance -->
+  <div class="modal-overlay" id="modal-new-workflow">
+    <div class="modal-content">
+      <h2 style="margin-bottom: 1rem;">Initiate Workflow Instance</h2>
+      <form id="new-workflow-form">
+        <div class="form-group">
+          <label>Select Workflow Template</label>
+          <select id="start-template-select" class="form-control" required></select>
+        </div>
+        <div class="form-group">
+          <label>Workflow Request Title</label>
+          <input type="text" id="start-title" class="form-control" placeholder="e.g. PO-2026-102: Hardware Upgrade" required>
+        </div>
+        <div class="form-group">
+          <label>Payload Metadata (JSON)</label>
+          <textarea id="start-payload" class="form-control" rows="3" placeholder='{"amount": 7500, "department": "IT"}'></textarea>
+        </div>
+        <div style="display: flex; gap: 0.5rem; justify-content: flex-end;">
+          <button type="button" class="btn btn-secondary" onclick="App.closeModal('modal-new-workflow')">Cancel</button>
+          <button type="submit" class="btn btn-primary">Start Workflow</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- MODAL 3: Workflow Details & Flow Graph -->
+  <div class="modal-overlay" id="modal-workflow-details">
+    <div class="modal-content" style="max-width: 750px;">
+      <h2 id="modal-workflow-title" style="margin-bottom: 1rem;">Workflow Progress Graph</h2>
+      <div id="workflow-stage-flow">
+        <!-- Rendered dynamically -->
+      </div>
+      <div style="display: flex; justify-content: flex-end; margin-top: 1.5rem;">
+        <button class="btn btn-secondary" onclick="App.closeModal('modal-workflow-details')">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="/static/js/api.js"></script>
+  <script src="/static/js/dashboard.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

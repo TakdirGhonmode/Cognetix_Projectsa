@@ -1,0 +1,19 @@
+user_id,rank_order,product_id,product_name,category,price,relevance_score,applied_rule,reason
+U1001,1,P102,Wireless Noise-Canceling Headphones,Electronics,249.99,15.0414,"RULE_CO_PURCHASE, RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT",Complementary product cross-sell based on past purchase of P101
+U1001,2,P105,Fast Charging Power Bank 20000mAh,Accessories,49.99,12.4691,"RULE_CO_PURCHASE, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT",Complementary product cross-sell based on past purchase of P101
+U1001,3,P106,Premium Titanium Smart Watch,Electronics,399.99,6.4,"RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG",Top-selling product in preferred category 'Electronics'
+U1001,4,P110,All-Weather Insulated Jacket,Apparel,189.99,5.87,RULE_PREMIUM_CATALOG,Exclusive premium catalog selection for Gold tier / VIP spend
+U1001,5,P103,Smart Espresso Coffee Machine,Home,499.99,5.82,RULE_PREMIUM_CATALOG,Exclusive premium catalog selection for Gold tier / VIP spend
+U1002,1,P103,Smart Espresso Coffee Machine,Home,499.99,14.0607,"RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT",Top-selling product in preferred category 'Home'
+U1002,2,P104,Ergonomic Mesh Office Chair,Home,199.99,12.8091,"RULE_CATEGORY_TOP, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT",Top-selling product in preferred category 'Home'
+U1003,1,P106,Premium Titanium Smart Watch,Electronics,399.99,20.9672,"RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG, RULE_SEARCH_INTENT, RULE_CART_ABANDONMENT",Top-selling product in preferred category 'Electronics'
+U1003,2,P110,All-Weather Insulated Jacket,Apparel,189.99,14.4535,"RULE_CO_PURCHASE, RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT",Complementary product cross-sell based on past purchase of P107
+U1003,3,P101,Pro Ultra Laptop 15,Electronics,1299.99,6.45,"RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG",Top-selling product in preferred category 'Electronics'
+U1003,4,P103,Smart Espresso Coffee Machine,Home,499.99,5.82,RULE_PREMIUM_CATALOG,Exclusive premium catalog selection for Platinum tier / VIP spend
+U1003,5,P102,Wireless Noise-Canceling Headphones,Electronics,249.99,4.38,RULE_CATEGORY_TOP,Top-selling product in preferred category 'Electronics'
+U1004,1,P109,Casual Canvas Sneakers,Footwear,59.99,7.8907,"RULE_CATEGORY_TOP, RULE_SEARCH_INTENT",Top-selling product in preferred category 'Footwear'
+U1005,1,P106,Premium Titanium Smart Watch,Electronics,399.99,11.4754,"RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT",Exclusive premium catalog selection for Gold tier / VIP spend
+U1005,2,P110,All-Weather Insulated Jacket,Apparel,189.99,9.8734,"RULE_PREMIUM_CATALOG, RULE_CART_ABANDONMENT",Exclusive premium catalog selection for Gold tier / VIP spend
+U1005,3,P104,Ergonomic Mesh Office Chair,Home,199.99,9.7014,"RULE_CATEGORY_TOP, RULE_CART_ABANDONMENT",Top-selling product in preferred category 'Home'
+U1005,4,P103,Smart Espresso Coffee Machine,Home,499.99,6.32,"RULE_CATEGORY_TOP, RULE_PREMIUM_CATALOG",Top-selling product in preferred category 'Home'
+U1005,5,P101,Pro Ultra Laptop 15,Electronics,1299.99,5.95,RULE_PREMIUM_CATALOG,Exclusive premium catalog selection for Gold tier / VIP spend

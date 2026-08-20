@@ -1,0 +1,48 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "Takdir@1234",
+    "database": "fraud_detection_db"
+  },
+  "rules": {
+    "high_amount_threshold": 5000.0,
+    "velocity_time_window_minutes": 15,
+    "velocity_max_count": 3,
+    "failed_payment_max_attempts": 2,
+    "spike_zscore_threshold": 2.5,
+    "blacklisted_user_ids": ["USR_999", "USR_888", "USR_666"],
+    "blacklisted_locations": ["Unknown Region", "High-Risk Zone X", "Sanctioned Area B"],
+    "blacklisted_payment_methods": ["StolenCard_v1", "Anonymous_Proxy_Pay"]
+  },
+  "rule_weights": {
+    "HighAmountRule": 25,
+    "RapidVelocityRule": 30,
+    "GeographicalAnomalyRule": 20,
+    "FailedPaymentRule": 15,
+    "BlacklistRule": 40,
+    "SpikeDetectionRule": 20
+  },
+  "risk_scoring": {
+    "low": {
+      "min": 0,
+      "max": 39,
+      "label": "LOW"
+    },
+    "medium": {
+      "min": 40,
+      "max": 69,
+      "label": "MEDIUM"
+    },
+    "high": {
+      "min": 70,
+      "max": 100,
+      "label": "HIGH"
+    }
+  },
+  "output_files": {
+    "audit_log": "audit_log.txt",
+    "fraud_report": "fraud_report.csv"
+  }
+}

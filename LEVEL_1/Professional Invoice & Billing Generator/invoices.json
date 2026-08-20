@@ -1,0 +1,140 @@
+{
+    "customers": [
+        {
+            "customer_id": "1",
+            "name": "Takdir Ghonmode",
+            "email": "takdirghonmode@gmail.com",
+            "phone": "8833221123",
+            "address": "at.junasurla ta.mul dist.chandrapur"
+        },
+        {
+            "customer_id": "2",
+            "name": "Tanmay Hichami",
+            "email": "tanmayhichami8@gmail.com",
+            "phone": "6622334321",
+            "address": "chandrapur, Maharashtra"
+        },
+        {
+            "customer_id": "3",
+            "name": "Anumesh Pawar",
+            "email": "anumeshpawar2@gmail.com",
+            "phone": "9988332221",
+            "address": "nagpur,Maharashtra"
+        },
+        {
+            "customer_id": "4",
+            "name": "Sandip Hichami",
+            "email": "sandiphichami7@gmail.com",
+            "phone": "7733225544",
+            "address": "nagpur,Maharashtra"
+        }
+    ],
+    "invoices": [
+        {
+            "invoice_number": "INV-2026-001",
+            "date": "18-07-2026",
+            "customer": {
+                "customer_id": "1",
+                "name": "Takdir Ghonmode",
+                "email": "takdirghonmode@gmail.com",
+                "phone": "8833221123",
+                "address": "at.junasurla ta.mul dist.chandrapur"
+            },
+            "items": [
+                {
+                    "item_name": "Laptop",
+                    "quantity": 3,
+                    "unit_price": 60000.0,
+                    "total": 180000.0
+                }
+            ],
+            "subtotal": 180000.0,
+            "tax_percentage": 6.0,
+            "tax_amount": 10800.0,
+            "discount_percentage": 10.0,
+            "discount_amount": 18000.0,
+            "final_amount": 172800.0
+        },
+        {
+            "invoice_number": "INV-2026-002",
+            "date": "18-07-2026",
+            "customer": {
+                "customer_id": "2",
+                "name": "Tanmay Hichami",
+                "email": "tanmayhichami8@gmail.com",
+                "phone": "6622334321",
+                "address": "chandrapur, Maharashtra"
+            },
+            "items": [
+                {
+                    "item_name": "Hp laptop",
+                    "quantity": 3,
+                    "unit_price": 55000.0,
+                    "total": 165000.0
+                },
+                {
+                    "item_name": "wireless mouse",
+                    "quantity": 3,
+                    "unit_price": 400.0,
+                    "total": 1200.0
+                }
+            ],
+            "subtotal": 166200.0,
+            "tax_percentage": 14.0,
+            "tax_amount": 23268.0,
+            "discount_percentage": 18.0,
+            "discount_amount": 29916.0,
+            "final_amount": 159552.0
+        },
+        {
+            "invoice_number": "INV-2026-003",
+            "date": "18-07-2026",
+            "customer": {
+                "customer_id": "3",
+                "name": "Anumesh Pawar",
+                "email": "anumeshpawar2@gmail.com",
+                "phone": "9988332221",
+                "address": "nagpur,Maharashtra"
+            },
+            "items": [
+                {
+                    "item_name": "Hp laptop",
+                    "quantity": 3,
+                    "unit_price": 55000.0,
+                    "total": 165000.0
+                }
+            ],
+            "subtotal": 165000.0,
+            "tax_percentage": 15.0,
+            "tax_amount": 24750.0,
+            "discount_percentage": 18.0,
+            "discount_amount": 29700.0,
+            "final_amount": 160050.0
+        },
+        {
+            "invoice_number": "INV-2026-004",
+            "date": "18-07-2026",
+            "customer": {
+                "customer_id": "4",
+                "name": "Sandip Hichami",
+                "email": "sandiphichami7@gmail.com",
+                "phone": "7733225544",
+                "address": "nagpur,Maharashtra"
+            },
+            "items": [
+                {
+                    "item_name": "HP Laptop",
+                    "quantity": 4,
+                    "unit_price": 55000.0,
+                    "total": 220000.0
+                }
+            ],
+            "subtotal": 220000.0,
+            "tax_percentage": 18.0,
+            "tax_amount": 39600.0,
+            "discount_percentage": 10.0,
+            "discount_amount": 22000.0,
+            "final_amount": 237600.0
+        }
+    ]
+}

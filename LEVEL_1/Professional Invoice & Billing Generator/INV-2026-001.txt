@@ -1,0 +1,25 @@
+=========================================
+        PROFESSIONAL INVOICE
+=========================================
+
+Invoice Number : INV-2026-001
+Date           : 18-07-2026
+
+Customer Details
+-----------------------------------------
+Customer ID : 1
+Name        : Takdir Ghonmode
+Email       : takdirghonmode@gmail.com
+Phone       : 8833221123
+Address     : at.junasurla ta.mul dist.chandrapur
+
+Items
+-----------------------------------------
+Laptop | Qty : 3 | Price : 60000.0 | Total : 180000.0
+
+-----------------------------------------
+Subtotal          : 180000.00
+Tax Amount        : 10800.00
+Discount Amount   : 18000.00
+Final Amount      : 172800.00
+=========================================

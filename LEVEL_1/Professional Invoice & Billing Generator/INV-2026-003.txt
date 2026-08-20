@@ -1,0 +1,25 @@
+=========================================
+        PROFESSIONAL INVOICE
+=========================================
+
+Invoice Number : INV-2026-003
+Date           : 18-07-2026
+
+Customer Details
+-----------------------------------------
+Customer ID : 3
+Name        : Anumesh Pawar
+Email       : anumeshpawar2@gmail.com
+Phone       : 9988332221
+Address     : nagpur,Maharashtra
+
+Items
+-----------------------------------------
+Hp laptop | Qty : 3 | Price : 55000.0 | Total : 165000.0
+
+-----------------------------------------
+Subtotal          : 165000.00
+Tax Amount        : 24750.00
+Discount Amount   : 29700.00
+Final Amount      : 160050.00
+=========================================

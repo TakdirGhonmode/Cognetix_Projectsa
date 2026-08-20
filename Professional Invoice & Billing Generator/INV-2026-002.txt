@@ -1,0 +1,26 @@
+=========================================
+        PROFESSIONAL INVOICE
+=========================================
+
+Invoice Number : INV-2026-002
+Date           : 18-07-2026
+
+Customer Details
+-----------------------------------------
+Customer ID : 2
+Name        : Tanmay Hichami
+Email       : tanmayhichami8@gmail.com
+Phone       : 6622334321
+Address     : chandrapur, Maharashtra
+
+Items
+-----------------------------------------
+Hp laptop | Qty : 3 | Price : 55000.0 | Total : 165000.0
+wireless mouse | Qty : 3 | Price : 400.0 | Total : 1200.0
+
+-----------------------------------------
+Subtotal          : 166200.00
+Tax Amount        : 23268.00
+Discount Amount   : 29916.00
+Final Amount      : 159552.00
+=========================================

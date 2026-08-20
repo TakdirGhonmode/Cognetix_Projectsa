@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Python is a ______ language.",
+            "options": {
+                "A": "Programming",
+                "B": "Database",
+                "C": "Browser",
+                "D": "Operating System"
+            },
+            "answer": "A"
+        },
+        {
+            "id": 2,
+            "question": "Which keyword is used to define a function?",
+            "options": {
+                "A": "function",
+                "B": "func",
+                "C": "def",
+                "D": "define"
+            },
+            "answer": "C"
+        },
+        {
+            "id": 3,
+            "question": "Which data structure stores key-value pairs?",
+            "options": {
+                "A": "List",
+                "B": "Tuple",
+                "C": "Dictionary",
+                "D": "Set"
+            },
+            "answer": "C"
+        },
+        {
+            "id": 4,
+            "question": "Which symbol is used to start a comment in Python?",
+            "options": {
+                "A": "//",
+                "B": "#",
+                "C": "/*",
+                "D": "--"
+            },
+            "answer": "B"
+        },
+        {
+            "id": 5,
+            "question": "Which function is used to display output in Python?",
+            "options": {
+                "A": "display()",
+                "B": "show()",
+                "C": "print()",
+                "D": "output()"
+            },
+            "answer": "C"
+        },
+        {
+            "id": 6,
+            "question": "Which loop is used when the number of iterations is known?",
+            "options": {
+                "A": "while",
+                "B": "for",
+                "C": "do-while",
+                "D": "repeat"
+            },
+            "answer": "B"
+        },
+        {
+            "id": 7,
+            "question": "Which keyword is used to create a class in Python?",
+            "options": {
+                "A": "object",
+                "B": "new",
+                "C": "class",
+                "D": "create"
+            },
+            "answer": "C"
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is an immutable data type?",
+            "options": {
+                "A": "List",
+                "B": "Dictionary",
+                "C": "Tuple",
+                "D": "Set"
+            },
+            "answer": "C"
+        },
+        {
+            "id": 9,
+            "question": "Which operator is used for equality comparison in Python?",
+            "options": {
+                "A": "=",
+                "B": "==",
+                "C": "!=",
+                "D": ":="
+            },
+            "answer": "B"
+        },
+        {
+            "id": 10,
+            "question": "Which file format will primarily be used to store questions in this project?",
+            "options": {
+                "A": "XML",
+                "B": "TXT",
+                "C": "JSON",
+                "D": "HTML"
+            },
+            "answer": "C"
+        }
+    ]
+}
